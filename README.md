@@ -1,7 +1,6 @@
 <div align="center">
 
-# Awesome-${\color{#FF8C00}N}\color{#FF9500}a\color{#FF9E00}n\color{#FFA700}o\color{#FFB000}🍌B\color{#FFB900}a\color{#FFC200}n\color{#FFCB00}a\color{#FFD400}n\color{#FFDD00}a\color{#FFE600}$-images
-
+# Awesome-Nano-Banana🍌-images
 </div>
 
 ## 🍌 Introduction
