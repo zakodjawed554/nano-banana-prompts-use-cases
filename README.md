@@ -1,7 +1,13 @@
 <div align="center">
 
 # Awesome-Nano-Banana🍌-images
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
+[![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
+
 </div>
+
 
 ## 🍌 Introduction
 
@@ -15,240 +21,240 @@
 
 ## 📑 Menu
 
-- [Case 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#case-1-插画变手办by-zho_zho_zho)
-- [Case 2: 根据地图箭头生成地面视角图片（by @tokumin）](#case-2-根据地图箭头生成地面视角图片by-tokumin)
-- [Case 3: 真实世界的AR信息化（by @bilawalsidhu）](#case-3-真实世界的ar信息化by-bilawalsidhu)
-- [Case 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#case-4-分离出3d建筑制作等距模型by-zieeett)
-- [Case 5: 不同时代自己的照片（by @AmirMushich）](#case-5-不同时代自己的照片by-amirmushich)
-- [Case 6: 多参考图像生成（by @MrDavids1）](#case-6-多参考图像生成by-mrdavids1)
-- [Case 7: 自动修图（by @op7418）](#case-7-自动修图by-op7418)
-- [Case 8: 手绘图控制多角色姿态（by @op7418）](#case-8-手绘图控制多角色姿态by-op7418)
-- [Case 9: 跨视角图像生成（by @op7418）](#case-9-跨视角图像生成by-op7418)
-- [Case 10: 定制人物贴纸（by @op7418）](#case-10-定制人物贴纸by-op7418)
-- [Case 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#case-11-动漫转真人coserby-zho_zho_zho)
-- [Case 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#case-12-生成角色设定by-zho_zho_zho)
-- [Case 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#case-13-色卡线稿上色by-zho_zho_zho)
-- [Case 14: 文章信息图（by @黄建同学）](#case-14-文章信息图by-黄建同学)
-- [Case 15: 更换多种发型（by @balconychy）](#case-15-更换多种发型by-balconychy)
-- [Case 16: 模型标注讲解图（by @berryxia\_ai）](#case-16-模型标注讲解图by-berryxia_ai)
-- [Case 17: 定制大理石雕塑（by @umesh\_ai）](#case-17-定制大理石雕塑by-umesh_ai)
-- [Case 18: 根据食材做菜（by @Gdgtify）](#case-18-根据食材做菜by-gdgtify)
-- [Case 19: 数学题推理（by @Gorden Sun）](#case-19-数学题推理by-gorden-sun)
-- [Case 20: 旧照片上色（by @GeminiApp）](#case-20-旧照片上色by-geminiapp)
-- [Case 21: OOTD穿搭（by @302.AI）](#case-21-ootd穿搭by-302ai)
-- [Case 22: 人物换衣（by @skirano）](#case-22-人物换衣by-skirano)
-- [Case 23: 多视图结果生成（by @Error\_HTTP\_404）](#case-23-多视图结果生成by-error_http_404)
-- [Case 24: 电影分镜（by @GeminiApp）](#case-24-电影分镜by-geminiapp)
-- [Case 25: 人物姿势修改（by @arrakis\_ai）](#case-25-人物姿势修改by-arrakis_ai)
+- [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
+- [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
+- [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
+- [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
+- [例 5: 不同时代自己的照片（by @AmirMushich）](#例-5-不同时代自己的照片by-amirmushich)
+- [例 6: 多参考图像生成（by @MrDavids1）](#例-6-多参考图像生成by-mrdavids1)
+- [例 7: 自动修图（by @op7418）](#例-7-自动修图by-op7418)
+- [例 8: 手绘图控制多角色姿态（by @op7418）](#例-8-手绘图控制多角色姿态by-op7418)
+- [例 9: 跨视角图像生成（by @op7418）](#例-9-跨视角图像生成by-op7418)
+- [例 10: 定制人物贴纸（by @op7418）](#例-10-定制人物贴纸by-op7418)
+- [例 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#例-11-动漫转真人coserby-zho_zho_zho)
+- [例 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#例-12-生成角色设定by-zho_zho_zho)
+- [例 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#例-13-色卡线稿上色by-zho_zho_zho)
+- [例 14: 文章信息图（by @黄建同学）](#例-14-文章信息图by-黄建同学)
+- [例 15: 更换多种发型（by @balconychy）](#例-15-更换多种发型by-balconychy)
+- [例 16: 模型标注讲解图（by @berryxia\_ai）](#例-16-模型标注讲解图by-berryxia_ai)
+- [例 17: 定制大理石雕塑（by @umesh\_ai）](#例-17-定制大理石雕塑by-umesh_ai)
+- [例 18: 根据食材做菜（by @Gdgtify）](#例-18-根据食材做菜by-gdgtify)
+- [例 19: 数学题推理（by @Gorden Sun）](#例-19-数学题推理by-gorden-sun)
+- [例 20: 旧照片上色（by @GeminiApp）](#例-20-旧照片上色by-geminiapp)
+- [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
+- [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
+- [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
+- [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
+- [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
 
-## 🖼️ Cases
+## 🖼️ 例
 
-<!-- Case 1: 插画变手办（by @ZHO_ZHO_ZHO） -->
-### Case 1: [插画变手办](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 1: 插画变手办（by @ZHO_ZHO_ZHO） -->
+### 例 1: [插画变手办](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case1/input0.jpg" width="200" alt="输入图片"> | <img src="images/case1/output0.jpg" width="200" alt="输出结果"> |
 | <img src="images/case1/input.jpg" width="200" alt="输入图片"> | <img src="images/case1/output.jpg" width="200" alt="输出结果"> |
 
-**input:** 需上传一张参考图片作为生成手办的对象
+**输入:** 需上传一张参考图片作为生成手办的对象
 
-**prompt:**
+**提示词:**
 
 ```
-turn this photo into a character figure. Behind it, place a box with the character's image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible
+将这张照片变成角色手办。在它后面放置一个印有角色图像的盒子，盒子上有一台电脑显示Blender建模过程。在盒子前面添加一个圆形塑料底座，角色手办站在上面。如果可能的话，将场景设置在室内
 ```
 
-<!-- Case 2: 根据地图箭头生成地面视角图片（by @tokumin） -->
-### Case 2: [根据地图箭头生成地面视角图片](https://x.com/tokumin/status/**1960583251460022626**)（by [@tokumin](https://x.com/tokumin)）
+<!-- 例 2: 根据地图箭头生成地面视角图片（by @tokumin） -->
+### 例 2: [根据地图箭头生成地面视角图片](https://x.com/tokumin/status/**1960583251460022626**)（by [@tokumin](https://x.com/tokumin)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case2/input.jpg" width="300" alt="输入图片"> | <img src="images/case2/output.jpg" width="300" alt="输出结果"> |
 | <img src="images/case2/input2.jpg" width="300" alt="输入图片"> | <img src="images/case2/output2.jpg" width="300" alt="输出结果"> |
 
-**input:** 需要上传一张包含红色箭头的google maps图像
+**输入:** 需要上传一张包含红色箭头的google maps图像
 
-**prompt:**
+**提示词:**
 
 ```
-draw what the red arrow sees 
-/ 
-draw the real world view from the red circle in the direction of the arrow.
+画出红色箭头看到的内容
+/
+从红色圆圈沿箭头方向画出真实世界的视角
 ```
 
-<!-- Case 3: 真实世界的AR信息化（by @bilawalsidhu） -->
-### Case 3: [真实世界的AR信息化](https://x.com/bilawalsidhu/status/1960529167742853378)（by [@bilawalsidhu](https://x.com/bilawalsidhu)）
+<!-- 例 3: 真实世界的AR信息化（by @bilawalsidhu） -->
+### 例 3: [真实世界的AR信息化](https://x.com/bilawalsidhu/status/1960529167742853378)（by [@bilawalsidhu](https://x.com/bilawalsidhu)）
 
-| Output |
+| 输出 |
 |:---:|
 | <img src="images/case3/output.jpg" width="300" alt="输出结果"> |
 
-**input:** 需上传一张参考图像
+**输入:** 需上传一张参考图像
 
-**prompt:**
+**提示词:**
 
 ```
-you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it.
+你是一个基于位置的AR体验生成器。在这张图像中突出显示[兴趣点]并标注相关信息
 ```
 
 > [!NOTE]
 > **需要在提示词中 [POI] 输入需要标注的兴趣点**
 
-<!-- Case 4: 分离出3D建筑/制作等距模型（by @Zieeett） -->
-### Case 4: [分离出3D建筑/制作等距模型](https://x.com/Zieeett/status/1960420874806247762)（by [@Zieeett](https://x.com/Zieeett)）
+<!-- 例 4: 分离出3D建筑/制作等距模型（by @Zieeett） -->
+### 例 4: [分离出3D建筑/制作等距模型](https://x.com/Zieeett/status/1960420874806247762)（by [@Zieeett](https://x.com/Zieeett)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case4/input.jpg" width="300" alt="输入图片"> | <img src="images/case4/output.jpg" width="300" alt="输出结果"> |
 | <img src="images/case4/input2.jpg" width="300" alt="输入图片"> | <img src="images/case4/output2.jpg" width="300" alt="输出结果"> |
 
-**input:** 需上传一张包含对应物体的图像
+**输入:** 需上传一张包含对应物体的图像
 
-**prompt:**
+**提示词:**
 
 ```
-Make Image Daytime and Isometric [Building Only]
+将图像制作成白天和等距视图[仅限建筑]
 ```
 
 > [!NOTE]
 > **根据需要修改 [方括号] 内的信息（可以设置为车辆、人物等）**
 
-<!-- Case 5: 不同时代自己的照片（by @AmirMushich） -->
-### Case 5: [不同时代自己的照片](https://x.com/AmirMushich/status/1960810850224091439)（by [@AmirMushich](https://x.com/AmirMushich)）
+<!-- 例 5: 不同时代自己的照片（by @AmirMushich） -->
+### 例 5: [不同时代自己的照片](https://x.com/AmirMushich/status/1960810850224091439)（by [@AmirMushich](https://x.com/AmirMushich)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case5/input.jpg" width="300" alt="输入图片"> | <img src="images/case5/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张人物的照片
+**输入:** 需上传一张人物的照片
 
-**prompt:**
+**提示词:**
 
 ```
-Change the characer’s style to [1970]’s classical [male] style
+将角色的风格改为[1970]年代的经典[男性]风格
 
-Add [long curly] hair, 
-[long mustache], 
-change the background to the iconic [californian summer landscape]
+添加[长卷发]，
+[长胡子]，
+将背景改为标志性的[加州夏季风景]
 
-Don’t change the character’s face
+不要改变角色的面部
 ```
 
 > [!NOTE]
 > **将 [方括号] 中的文字改为你的时代和细节信息**
 
-<!-- Case 6: 多参考图像生成（by @MrDavids1） -->
-### Case 6: [多参考图像生成](https://x.com/MrDavids1/status/1960783672665128970)（by [@MrDavids1](https://x.com/MrDavids1)）
+<!-- 例 6: 多参考图像生成（by @MrDavids1） -->
+### 例 6: [多参考图像生成](https://x.com/MrDavids1/status/1960783672665128970)（by [@MrDavids1](https://x.com/MrDavids1)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case6/input.jpg" width="300" alt="输入图片"> | <img src="images/case6/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传多个参考图
+**输入:** 需上传多个参考图
 
-**prompt:**
+**提示词:**
 
 ```
-A model is posing and leaning against a pink bmw. She is wearing the following items, the scene is against a light grey background. The green alien is a keychain and it's attached to the pink handbag. The model also has a pink parrot on her shoulder. There is a pug sitting next to her wearing a pink collar and gold headphones.
+一个模特摆姿势靠在粉色宝马车上。她穿着以下物品，场景背景是浅灰色。绿色外星人是一个钥匙扣，挂在粉色手提包上。模特肩上还有一只粉色鹦鹉。旁边坐着一只戴着粉色项圈和金色耳机的哈巴狗
 ```
 
 > [!NOTE]
 > **提示词需要详细描述和包含多个参考对象**
 
-<!-- Case 7: 自动修图（by @op7418） -->
-### Case 7: [自动修图](https://x.com/op7418/status/1960528616573558864)（by [@op7418](https://x.com/op7418)）
+<!-- 例 7: 自动修图（by @op7418） -->
+### 例 7: [自动修图](https://x.com/op7418/status/1960528616573558864)（by [@op7418](https://x.com/op7418)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case7/input.jpg" width="300" alt="输入图片"> | <img src="images/case7/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张需要进行修正的图像
+**输入:** 需上传一张需要进行修正的图像
 
-**prompt:**
+**提示词:**
 
 ```
-This photo is very boring and plain. Enhance it! Increase the contrast, boost the colors, and improve the lighting to make it richer,You can crop and delete details that affect the composition.
+这张照片很无聊很平淡。增强它！增加对比度，提升色彩，改善光线使其更丰富，你可以裁剪和删除影响构图的细节
 ```
 
-<!-- Case 8: 手绘图控制多角色姿态（by @op7418） -->
-### Case 8: [手绘图控制多角色姿态](https://x.com/op7418/status/1960536717242573181)（by [@op7418](https://x.com/op7418)）
+<!-- 例 8: 手绘图控制多角色姿态（by @op7418） -->
+### 例 8: [手绘图控制多角色姿态](https://x.com/op7418/status/1960536717242573181)（by [@op7418](https://x.com/op7418)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case8/input.jpg" width="300" alt="输入图片"> | <img src="images/case8/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传角色的图像以及手绘草图
+**输入:** 需上传角色的图像以及手绘草图
 
-**prompt:**
+**提示词:**
 
 ```
-Have these two characters fight using the pose from Figure 3. Add appropriate visual backgrounds and scene interactions,Generated image ratio is 16:9
+让这两个角色使用图3的姿势进行战斗。添加适当的视觉背景和场景互动，生成图像比例为16:9
 ```
 
-<!-- Case 9: 跨视角图像生成（by @op7418） -->
-### Case 9: [跨视角图像生成](https://x.com/op7418/status/1960896630586310656)（by [@op7418](https://x.com/op7418)）
+<!-- 例 9: 跨视角图像生成（by @op7418） -->
+### 例 9: [跨视角图像生成](https://x.com/op7418/status/1960896630586310656)（by [@op7418](https://x.com/op7418)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case9/input.jpg" width="300" alt="输入图片"> | <img src="images/case9/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张地面上拍摄的照片
+**输入:** 需上传一张地面上拍摄的照片
 
-**prompt:**
+**提示词:**
 
 ```
-Convert the photo to a top-down view and mark the location of the photographer.
+将照片转换为俯视角度并标记摄影师的位置
 ```
 
-<!-- Case 10: 定制人物贴纸（by @op7418） -->
-### Case 10: [定制人物贴纸](https://x.com/op7418/status/1960385812132192509)（by [@op7418](https://x.com/op7418)）
+<!-- 例 10: 定制人物贴纸（by @op7418） -->
+### 例 10: [定制人物贴纸](https://x.com/op7418/status/1960385812132192509)（by [@op7418](https://x.com/op7418)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case10/input.jpg" width="300" alt="输入图片"> | <img src="images/case10/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张贴纸参考图以及一张人物图像
+**输入:** 需上传一张贴纸参考图以及一张人物图像
 
-**prompt:**
+**提示词:**
 
 ```
-Help me turn the character into a white outline sticker similar to Figure 2. The character needs to be transformed into a web illustration style, and add a playful white outline short phrase describing Figure 1.
+帮我将角色变成类似图2的白色轮廓贴纸。角色需要转换成网页插画风格，并添加一个描述图1的俏皮白色轮廓短语
 ```
 
-<!-- Case 11: 动漫转真人Coser（by @ZHO_ZHO_ZHO） -->
-### Case 11: [动漫转真人Coser](https://x.com/ZHO_ZHO_ZHO/status/1960946893971706306)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 11: 动漫转真人Coser（by @ZHO_ZHO_ZHO） -->
+### 例 11: [动漫转真人Coser](https://x.com/ZHO_ZHO_ZHO/status/1960946893971706306)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case11/input.jpg" width="300" alt="输入图片"> | <img src="images/case11/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张插画图像
+**输入:** 需上传一张插画图像
 
-**prompt:**
+**提示词:**
 
 ```
-Generate a photo of a girl cosplaying this illustration, with the background set at Comiket
+生成一个女孩cosplay这张插画的照片，背景设置在Comiket
 ```
 
-<!-- Case 12: 生成角色设定（by @ZHO_ZHO_ZHO） -->
-### Case 12: [生成角色设定](https://x.com/ZHO_ZHO_ZHO/status/1960669234276753542)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 12: 生成角色设定（by @ZHO_ZHO_ZHO） -->
+### 例 12: [生成角色设定](https://x.com/ZHO_ZHO_ZHO/status/1960669234276753542)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case12/input.jpg" width="300" alt="输入图片"> | <img src="images/case12/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张角色参考图像
+**输入:** 需上传一张角色参考图像
 
-**prompt:**
+**提示词:**
 
 ```
 为我生成人物的角色设定（Character Design）
@@ -264,33 +270,33 @@ Generate a photo of a girl cosplaying this illustration, with the background set
 服装设定（Costume Design）
 ```
 
-<!-- Case 13: 色卡线稿上色（by @ZHO_ZHO_ZHO） -->
-### Case 13: [色卡线稿上色](https://x.com/ZHO_ZHO_ZHO/status/1960652077891510752)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 13: 色卡线稿上色（by @ZHO_ZHO_ZHO） -->
+### 例 13: [色卡线稿上色](https://x.com/ZHO_ZHO_ZHO/status/1960652077891510752)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case13/input.jpg" width="300" alt="输入图片"> | <img src="images/case13/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张线稿图和一张色卡图
+**输入:** 需上传一张线稿图和一张色卡图
 
-**prompt:**
+**提示词:**
 
 ```
 准确使用图2色卡为图1人物上色
 ```
 
-<!-- Case 14: 文章信息图（by @黄建同学） -->
-### Case 14: [文章信息图](https://weibo.com/5648162302/5204549851155423?wm=3333_2001&from=10F8393010&sourcetype=weixin&s_trans=7836809604_5204549851155423&s_channel=4)（by [@黄建同学](https://weibo.com/u/5648162302)）
+<!-- 例 14: 文章信息图（by @黄建同学） -->
+### 例 14: [文章信息图](https://weibo.com/5648162302/5204549851155423?wm=3333_2001&from=10F8393010&sourcetype=weixin&s_trans=7836809604_5204549851155423&s_channel=4)（by [@黄建同学](https://weibo.com/u/5648162302)）
 
-| Output |
+| 输出 |
 |:---:|
 | <img src="images/case14/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一段博客/文章
+**输入:** 需上传一段博客/文章
 
-**prompt:**
+**提示词:**
 
 ```
 为文章内容生成信息图
@@ -301,185 +307,185 @@ Generate a photo of a girl cosplaying this illustration, with the background set
 4. 加上丰富可爱的卡通人物和元素
 ```
 
-<!-- Case 15: 更换多种发型（by @balconychy） -->
-### Case 15: [更换多种发型](https://x.com/balconychy/status/1960665038504779923)（by [@balconychy](https://x.com/balconychy)）
+<!-- 例 15: 更换多种发型（by @balconychy） -->
+### 例 15: [更换多种发型](https://x.com/balconychy/status/1960665038504779923)（by [@balconychy](https://x.com/balconychy)）
 
-| Output |
+| 输出 |
 |:---:|
 | <img src="images/case15/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张需要更换发型的人像图片
+**输入:** 需上传一张需要更换发型的人像图片
 
-**prompt:**
+**提示词:**
 
 ```
 以九宫格的方式生成这个人不同发型的头像
 ```
 
-<!-- Case 16: 模型标注讲解图（by @berryxia_ai） -->
-### Case 16: [模型标注讲解图](https://x.com/berryxia_ai/status/1960708465586004305)（by [@berryxia_ai](https://x.com/berryxia_ai)）
+<!-- 例 16: 模型标注讲解图（by @berryxia_ai） -->
+### 例 16: [模型标注讲解图](https://x.com/berryxia_ai/status/1960708465586004305)（by [@berryxia_ai](https://x.com/berryxia_ai)）
 
-| Output |
+| 输出 |
 |:---:|
 | <img src="images/case16/output.jpg" width="300" alt="输出结果"> |
 
-**prompt:**
+**提示词:**
 
 ```
-绘制[3D人体器官模型展示示例心脏]用于学术展示，进行标注讲解，适用于展示其原理和[每个器官]的功能，非常逼真，高度还原，精细度非常细致的设计。
+绘制[3D人体器官模型展示示例心脏]用于学术展示，进行标注讲解，适用于展示其原理和[每个器官]的功能，非常逼真，高度还原，精细度非常细致的设计
 ```
 
 > [!NOTE]
 > **将 [方括号] 中的文字改为需要展示的模型**
 
-<!-- Case 17: 定制大理石雕塑（by @umesh_ai） -->
-### Case 17: [定制大理石雕塑](https://x.com/umesh_ai/status/1960370946562564353)（by [@umesh_ai](https://x.com/umesh_ai)）
+<!-- 例 17: 定制大理石雕塑（by @umesh_ai） -->
+### 例 17: [定制大理石雕塑](https://x.com/umesh_ai/status/1960370946562564353)（by [@umesh_ai](https://x.com/umesh_ai)）
 
-| Output |
+| 输出 |
 |:---:|
 | <img src="images/case17/output.jpg" width="300" alt="输出结果"> |
 
-**input：** 需上传一张参考图像
+**输入：** 需上传一张参考图像
 
-**prompt:**
+**提示词:**
 
 ```
-A photorealistic image of an ultra-detailed sculpture of the subject in image made of shining marble. The sculpture should display smooth and reflective marble surface, emphasizing its luster and artistic craftsmanship. The design is elegant, highlighting the beauty and depth of marble. The lighting in the image should enhance the sculpture's contours and textures, creating a visually stunning and mesmerizing effect
+一张超详细的图像中主体雕塑的写实图像，由闪亮的大理石制成。雕塑应展示光滑反光的大理石表面，强调其光泽和艺术工艺。设计优雅，突出大理石的美丽和深度。图像中的光线应增强雕塑的轮廓和纹理，创造出视觉上令人惊叹和迷人的效果
 ```
 
-<!-- Case 18: 根据食材做菜（by @Gdgtify） -->
-### Case 18: [根据食材做菜](https://x.com/Gdgtify/status/1960907695348691075)（by [@Gdgtify](https://x.com/Gdgtify)）
+<!-- 例 18: 根据食材做菜（by @Gdgtify） -->
+### 例 18: [根据食材做菜](https://x.com/Gdgtify/status/1960907695348691075)（by [@Gdgtify](https://x.com/Gdgtify)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case18/input1.jpg" width="300" alt="输入图片"> | <img src="images/case18/output1.jpg" width="300" alt="输出结果"> |
 | <img src="images/case18/input2.jpg" width="300" alt="输入图片"> | <img src="images/case18/output2.jpg" width="300" alt="输出结果"> |
 | <img src="images/case18/input3.jpg" width="300" alt="输入图片"> | <img src="images/case18/output3.jpg" width="300" alt="输出结果"> |
 
-**input:** 需上传一张带有多种食材的照片
+**输入:** 需上传一张带有多种食材的照片
 
-**prompt:**
+**提示词:**
 
 ```
-make me a delicious lunch with these ingredients, and put it on a plate , zoomed in view of the plate, remove the other plates and ingredients.
+用这些食材为我做一顿美味的午餐，放在盘子里，盘子的特写视图，移除其他盘子和食材
 ```
 
-<!-- Case 19: 数学题推理（by @Gorden Sun） -->
-### Case 19: [数学题推理](https://www.xiaohongshu.com/explore/68ade0e7000000001d036677?note_flow_source=wechat&xsec_token=AB4tWI6xCrE2v5euckYXKCBlbQbA-YNoqI5iKKqqQwWpY=)（by [@Gorden Sun](https://www.xiaohongshu.com/user/profile/632e72f900000000230397fe?xsec_token=ABeSWJqqsTwTtj3KG1HSTt_vwRcODR4jDJnj2dp0k42YI%3D&xsec_source=pc_note)）
+<!-- 例 19: 数学题推理（by @Gorden Sun） -->
+### 例 19: [数学题推理](https://www.xiaohongshu.com/explore/68ade0e7000000001d036677?note_flow_source=wechat&xsec_token=AB4tWI6xCrE2v5euckYXKCBlbQbA-YNoqI5iKKqqQwWpY=)（by [@Gorden Sun](https://www.xiaohongshu.com/user/profile/632e72f900000000230397fe?xsec_token=ABeSWJqqsTwTtj3KG1HSTt_vwRcODR4jDJnj2dp0k42YI%3D&xsec_source=pc_note)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case19/input.jpg" width="300" alt="输入图片"> | <img src="images/case19/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一道数学类的题目
+**输入:** 需上传一道数学类的题目
 
-**prompt:**
+**提示词:**
 
 ```
 根据问题将问题的答案写在对应的位置上  
 ```
 
-<!-- Case 20: 旧照片上色（by @GeminiApp） -->
-### Case 20: [旧照片上色](https://x.com/GeminiApp/status/1960347483021959197)（by [@GeminiApp](https://x.com/GeminiApp)）
+<!-- 例 20: 旧照片上色（by @GeminiApp） -->
+### 例 20: [旧照片上色](https://x.com/GeminiApp/status/1960347483021959197)（by [@GeminiApp](https://x.com/GeminiApp)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case20/input.jpg" width="300" alt="输入图片"> | <img src="images/case20/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张老旧、需要修复的照片
+**输入:** 需上传一张老旧、需要修复的照片
 
-**prompt:**
+**提示词:**
 
 ```
-restore and colorize this photo.
+修复并为这张照片上色
 ```
 
-<!-- Case 21: OOTD穿搭（by @302.AI） -->
-### Case 21: [OOTD穿搭](https://medium.com/%40302.AI/google-nano-banana-vs-qwen-gpt-flux-topping-the-image-editing-leaderboard-96038b01bdcd)（by [@302.AI](https://medium.com/@302.AI)）
+<!-- 例 21: OOTD穿搭（by @302.AI） -->
+### 例 21: [OOTD穿搭](https://medium.com/%40302.AI/google-nano-banana-vs-qwen-gpt-flux-topping-the-image-editing-leaderboard-96038b01bdcd)（by [@302.AI](https://medium.com/@302.AI)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case21/input.jpg" width="300" alt="输入图片"> | <img src="images/case21/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传一张人物图片和服装图片
+**输入:** 需上传一张人物图片和服装图片
 
-**prompt:**
+**提示词:**
 
 ```
-Choose the person in Image 1 and dress them in all the clothing and accessories from Image 2. Shoot a series of realistic OOTD-style photos outdoors, using natural lighting, a stylish street style, and clear full-body shots. Keep the person's identity and pose from Image 1, but show the complete outfit and accessories from Image 2 in a cohesive, stylish way.
+选择图1中的人，让他们穿上图2中的所有服装和配饰。在户外拍摄一系列写实的OOTD风格照片，使用自然光线，时尚的街头风格，清晰的全身镜头。保持图1中人物的身份和姿势，但以连贯时尚的方式展示图2中的完整服装和配饰
 ```
 
-<!-- Case 22: 人物换衣（by @skirano） -->
-### Case 22: [人物换衣](https://x.com/skirano/status/1960343968320737397)（by [@skirano](https://x.com/skirano)）
+<!-- 例 22: 人物换衣（by @skirano） -->
+### 例 22: [人物换衣](https://x.com/skirano/status/1960343968320737397)（by [@skirano](https://x.com/skirano)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case22/input.jpg" width="300" alt="输入图片"> | <img src="images/case22/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传人物图像和衣服图像
+**输入:** 需上传人物图像和衣服图像
 
-**prompt:**
+**提示词:**
 
 ```
-Replace the person’s clothing in the input image with the target clothing shown in the reference image. Keep the person’s pose, facial expression, background, and overall realism unchanged. Make the new outfit look natural, well-fitted, and consistent with lighting and shadows. Do not alter the person’s identity or the environment — only change the clothes.
+将输入图像中人物的服装替换为参考图像中显示的目标服装。保持人物的姿势、面部表情、背景和整体真实感不变。让新服装看起来自然、合身，并与光线和阴影保持一致。不要改变人物的身份或环境——只改变衣服
 ```
 
-<!-- Case 23: 多视图结果生成（by @Error_HTTP_404） -->
-### Case 23: [多视图结果生成](https://x.com/Error_HTTP_404/status/1960405116701303294)（by [@Error_HTTP_404](https://x.com/Error_HTTP_404)）
+<!-- 例 23: 多视图结果生成（by @Error_HTTP_404） -->
+### 例 23: [多视图结果生成](https://x.com/Error_HTTP_404/status/1960405116701303294)（by [@Error_HTTP_404](https://x.com/Error_HTTP_404)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case23/input.jpg" width="300" alt="输入图片"> | <img src="images/case23/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传参考图像
+**输入:** 需上传参考图像
 
-**prompt:**
+**提示词:**
 
 ```
-Generate the Front, Rear, Left, Right, Top, Bottom views on white. Evenly spaced. Consistent subject. Isometric Perspective Equivalence. 
+在白色背景上生成前、后、左、右、上、下视图。均匀分布。一致的主体。等距透视等效
 ```
 
-<!-- Case 24: 电影分镜（by @GeminiApp） -->
-### Case 24: 电影分镜（by [@GeminiApp](@GeminiApp)）
+<!-- 例 24: 电影分镜（by @GeminiApp） -->
+### 例 24: 电影分镜（by [@GeminiApp](@GeminiApp)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case24/input.jpg" width="300" alt="输入图片"> | <img src="images/case24/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传参考图像
+**输入:** 需上传参考图像
 
-**prompt:**
+**提示词:**
 
 ```
-Create an addictively intriguing 12 part story with 12 images with these two characters in a classic black and white film noir detective story. Make it about missing treasure that they get clues for throughout and then finally discover. The story is thrilling throughout with emotional highs and lows and ending on a great twist and high note. Do not include any words or text on the images but tell the story purely through the imagery itself.
+用这两个角色创作一个令人上瘾的12部分故事，包含12张图像，讲述经典的黑色电影侦探故事。故事关于他们寻找线索并最终发现的失落的宝藏。整个故事充满刺激，有情感的高潮和低谷，以精彩的转折和高潮结尾。不要在图像中包含任何文字或文本，纯粹通过图像本身讲述故事
 ```
 
-<!-- Case 25: 人物姿势修改（by @arrakis_ai） -->
-### Case 25: [人物姿势修改](https://x.com/arrakis_ai/status/1955901155726516652)（by [@arrakis_ai](https://x.com/arrakis_ai)）
+<!-- 例 25: 人物姿势修改（by @arrakis_ai） -->
+### 例 25: [人物姿势修改](https://x.com/arrakis_ai/status/1955901155726516652)（by [@arrakis_ai](https://x.com/arrakis_ai)）
 
-| Input | Output |
+| 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case25/input.jpg" width="300" alt="输入图片"> | <img src="images/case25/output.jpg" width="300" alt="输出结果"> |
 
 
-**input:** 需上传参考图像
+**输入:** 需上传参考图像
 
-**prompt:**
+**提示词:**
 
 ```
-Have the person in the picture look straight ahead
+让图片中的人直视前方
 ```
 
 ## 🙏 Acknowledge
 
-本仓库中的各个案例依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
+本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
 
 感谢以下用户分享的惊艳的作品，大家也可以前往他们的主页了解更多：
 
