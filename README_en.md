@@ -45,6 +45,7 @@ If you like it, please ⭐ Star to bookmark it!
 - [Case 23: Multi-View Result Generation (by @Error\_HTTP\_404)](#case-23-multi-view-result-generationby-error_http_404)
 - [Case 24: Movie Storyboard (by @GeminiApp)](#case-24-movie-storyboardby-geminiapp)
 - [Case 25: Character Pose Modification (by @arrakis\_ai)](#case-25-character-pose-modificationby-arrakis_ai)
+- [Case 26: Generate image from line drawing（by @ZHO_ZHO_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
 
 ## 🖼️ Cases
 
@@ -70,6 +71,7 @@ turn this photo into a character figure. Behind it, place a box with the charact
 | Input | Output |
 |:---:|:---:|
 | <img src="images/case2/input.jpg" width="300" alt="Input Image"> | <img src="images/case2/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case2/input3.jpg" width="300" alt="Input Image"> | <img src="images/case2/output3.jpg" width="300" alt="Output Result"> |
 | <img src="images/case2/input2.jpg" width="300" alt="Input Image"> | <img src="images/case2/output2.jpg" width="300" alt="Output Result"> |
 
 **input:** Need to upload a Google Maps image containing a red arrow
@@ -480,6 +482,22 @@ Create an addictively intriguing 12 part story with 12 images with these two cha
 
 ```
 Have the person in the picture look straight ahead
+```
+
+<!-- Case 26: Generate image from line drawing（by @ZHO_ZHO_ZHO） -->
+### Case 26: [Generate image from line drawing](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case26/input.jpg" width="300" alt="Input Image"> | <img src="images/case26/output.jpg" width="300" alt="Output Result"> |
+
+
+**输入:** Need to upload line drawings and reference images
+
+**提示词:**
+
+```
+Change the pose of the person in Figure 1 to that of Figure 2, and shoot in a professional studio
 ```
 
 ## 🙏 Acknowledge

@@ -46,6 +46,7 @@
 - [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
 - [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
 - [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
+- [例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
 
 ## 🖼️ 例
 
@@ -71,6 +72,7 @@
 | 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case2/input.jpg" width="300" alt="输入图片"> | <img src="images/case2/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case2/input3.jpg" width="300" alt="输入图片"> | <img src="images/case2/output3.jpg" width="300" alt="输出结果"> |
 | <img src="images/case2/input2.jpg" width="300" alt="输入图片"> | <img src="images/case2/output2.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需要上传一张包含红色箭头的google maps图像
@@ -481,6 +483,22 @@
 
 ```
 让图片中的人直视前方
+```
+
+<!-- 例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO） -->
+### 例 26: [线稿图生成图像](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case26/input.jpg" width="300" alt="输入图片"> | <img src="images/case26/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传线稿图和参考图像
+
+**提示词:**
+
+```
+将图一人物换成图二姿势，专业摄影棚拍摄
 ```
 
 ## 🙏 Acknowledge
