@@ -21,34 +21,60 @@
 
 ## 📑 Menu
 
-- [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
-- [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
-- [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
-- [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
-- [例 5: 不同时代自己的照片（by @AmirMushich）](#例-5-不同时代自己的照片by-amirmushich)
-- [例 6: 多参考图像生成（by @MrDavids1）](#例-6-多参考图像生成by-mrdavids1)
-- [例 7: 自动修图（by @op7418）](#例-7-自动修图by-op7418)
-- [例 8: 手绘图控制多角色姿态（by @op7418）](#例-8-手绘图控制多角色姿态by-op7418)
-- [例 9: 跨视角图像生成（by @op7418）](#例-9-跨视角图像生成by-op7418)
-- [例 10: 定制人物贴纸（by @op7418）](#例-10-定制人物贴纸by-op7418)
-- [例 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#例-11-动漫转真人coserby-zho_zho_zho)
-- [例 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#例-12-生成角色设定by-zho_zho_zho)
-- [例 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#例-13-色卡线稿上色by-zho_zho_zho)
-- [例 14: 文章信息图（by @黄建同学）](#例-14-文章信息图by-黄建同学)
-- [例 15: 更换多种发型（by @balconychy）](#例-15-更换多种发型by-balconychy)
-- [例 16: 模型标注讲解图（by @berryxia\_ai）](#例-16-模型标注讲解图by-berryxia_ai)
-- [例 17: 定制大理石雕塑（by @umesh\_ai）](#例-17-定制大理石雕塑by-umesh_ai)
-- [例 18: 根据食材做菜（by @Gdgtify）](#例-18-根据食材做菜by-gdgtify)
-- [例 19: 数学题推理（by @Gorden Sun）](#例-19-数学题推理by-gorden-sun)
-- [例 20: 旧照片上色（by @GeminiApp）](#例-20-旧照片上色by-geminiapp)
-- [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
-- [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
-- [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
-- [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
-- [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
-- [例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
+- [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
+  - [🍌 Introduction](#-introduction)
+  - [📑 Menu](#-menu)
+  - [🖼️ 例子](#️-例子)
+    - [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
+    - [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
+    - [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
+    - [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
+    - [例 5: 不同时代自己的照片（by @AmirMushich）](#例-5-不同时代自己的照片by-amirmushich)
+    - [例 6: 多参考图像生成（by @MrDavids1）](#例-6-多参考图像生成by-mrdavids1)
+    - [例 7: 自动修图（by @op7418）](#例-7-自动修图by-op7418)
+    - [例 8: 手绘图控制多角色姿态（by @op7418）](#例-8-手绘图控制多角色姿态by-op7418)
+    - [例 9: 跨视角图像生成（by @op7418）](#例-9-跨视角图像生成by-op7418)
+    - [例 10: 定制人物贴纸（by @op7418）](#例-10-定制人物贴纸by-op7418)
+    - [例 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#例-11-动漫转真人coserby-zho_zho_zho)
+    - [例 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#例-12-生成角色设定by-zho_zho_zho)
+    - [例 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#例-13-色卡线稿上色by-zho_zho_zho)
+    - [例 14: 文章信息图（by @黄建同学）](#例-14-文章信息图by-黄建同学)
+    - [例 15: 更换多种发型（by @balconychy）](#例-15-更换多种发型by-balconychy)
+    - [例 16: 模型标注讲解图（by @berryxia\_ai）](#例-16-模型标注讲解图by-berryxia_ai)
+    - [例 17: 定制大理石雕塑（by @umesh\_ai）](#例-17-定制大理石雕塑by-umesh_ai)
+    - [例 18: 根据食材做菜（by @Gdgtify）](#例-18-根据食材做菜by-gdgtify)
+    - [例 19: 数学题推理（by @Gorden Sun）](#例-19-数学题推理by-gorden-sun)
+    - [例 20: 旧照片上色（by @GeminiApp）](#例-20-旧照片上色by-geminiapp)
+    - [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
+    - [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
+    - [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
+    - [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
+    - [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
+    - [例 26: 线稿图生成图像（by @ZHO\_ZHO\_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
+    - [例 27: 为图像添加水印（by @AiMachete）](#例-27-为图像添加水印by-aimachete)
+    - [例 28: 知识推理生成图像（by @icreatelife）](#例-28-知识推理生成图像by-icreatelife)
+    - [例 29: 红笔批注（by @AiMachete）](#例-29-红笔批注by-aimachete)
+    - [例 30: 爆炸的食物（by @icreatelife）](#例-30-爆炸的食物by-icreatelife)
+    - [例 31: 制作漫画书（by @icreatelife）](#例-31-制作漫画书by-icreatelife)
+    - [例 32: 动作人偶（by @icreatelife）](#例-32-动作人偶by-icreatelife)
+    - [例 33: 地图生成等距建筑（by @demishassabis）](#例-33-地图生成等距建筑by-demishassabis)
+    - [例 34: 参考图控制人物表情（by @ZHO\_ZHO\_ZHO）](#例-34-参考图控制人物表情by-zho_zho_zho)
+    - [例 35: 插画绘画过程四格（by @ZHO\_ZHO\_ZHO）](#例-35-插画绘画过程四格by-zho_zho_zho)
+    - [例 36: 虚拟试妆（by @ZHO\_ZHO\_ZHO）](#例-36-虚拟试妆by-zho_zho_zho)
+    - [例 37: 妆面分析（by @ZHO\_ZHO\_ZHO）](#例-37-妆面分析by-zho_zho_zho)
+    - [例 38: Google地图视角下的中土世界（by @TechHallo）](#例-38-google地图视角下的中土世界by-techhallo)
+    - [例 39: 印刷插画生成（by @Umesh）](#例-39-印刷插画生成by-umesh)
+    - [例 40: 超多人物姿势生成（by @tapehead\_Lab）](#例-40-超多人物姿势生成by-tapehead_lab)
+    - [例 41: 物品包装生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包装生成by-zho_zho_zho)
+    - [例 42: 叠加滤镜/材质（by @ZHO\_ZHO\_ZHO）](#例-42-叠加滤镜材质by-zho_zho_zho)
+    - [例 43: 控制人物脸型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物脸型by-zho_zho_zho)
+    - [例 44: 光影控制（by @ZHO\_ZHO\_ZHO）](#例-44-光影控制by-zho_zho_zho)
+    - [例 45: 乐高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-乐高玩具小人by-zho_zho_zho)
+    - [例 46: 高达模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高达模型小人by-zho_zho_zho)
+    - [例 47: 硬件拆解图（by @AIimagined）](#例-47-硬件拆解图by-aiimagined)
+  - [🙏 Acknowledge](#-acknowledge)
 
-## 🖼️ 例
+## 🖼️ 例子
 
 <!-- 例 1: 插画变手办（by @ZHO_ZHO_ZHO） -->
 ### 例 1: [插画变手办](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
@@ -501,6 +527,342 @@
 将图一人物换成图二姿势，专业摄影棚拍摄
 ```
 
+<!-- 例 27: 为图像添加水印（by @AiMachete） -->
+### 例 27: [为图像添加水印](https://x.com/AiMachete/status/1963038793705128219)（by [@AiMachete](https://x.com/AiMachete)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case27/input.jpg" width="300" alt="输入图片"> | <img src="images/case27/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传参考图像
+
+**提示词:**
+
+```
+在整个图片上反复覆盖“TRUMP”这个词。
+```
+
+<!-- 例 28: 知识推理生成图像（by @icreatelife） -->
+### 例 28: [知识推理生成图像](https://x.com/icreatelife/status/1962998951948517428)（by [@icreatelife](https://x.com/icreatelife)）
+
+| 输出 |
+|:---:|
+| <img src="images/case28/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case28/output1.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+为我制作一张世界五座最高建筑的信息图 / 制作一张关于地球上最甜蜜事物的彩色信息图
+```
+
+<!-- 例 29: 红笔批注（by @AiMachete） -->
+### 例 29: [红笔批注](https://x.com/AiMachete/status/1962356993550643355)（by [@AiMachete](https://x.com/AiMachete)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case29/input.jpg" width="300" alt="输入图片"> | <img src="images/case29/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传参考图像
+
+**提示词:**
+
+```
+分析这张图片。用红笔标出你可以改进的地方。
+```
+
+<!-- 例 30: 爆炸的食物（by @icreatelife） -->
+### 例 30: [爆炸的食物](https://x.com/icreatelife/status/1962724040205803773)（by [@icreatelife](https://x.com/icreatelife)）
+
+| 输出 |
+|:---:|
+| <img src="images/case30/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case30/output1.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传参考图像
+
+**提示词:**
+
+```
+在具有戏剧性的现代场景中拍摄该产品，并伴随着爆炸性的向外动态排列，主要成分新鲜和原始在产品周围飞舞，表明其新鲜度和营养价值。促销广告镜头，没有文字，强调产品，以关键品牌颜色作为背景。
+```
+
+<!-- 例 31: 制作漫画书（by @icreatelife） -->
+### 例 31: [制作漫画书](https://x.com/icreatelife/status/1961977580849873169)（by [@icreatelife](https://x.com/icreatelife)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case31/input.jpg" width="300" alt="输入图片"> | <img src="images/case31/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传参考图像
+
+**提示词:**
+
+```
+基于上传的图像，制作漫画书条幅，添加文字，写一个引人入胜的故事。我想要一本奇幻漫画书。
+```
+
+<!-- 例 32: 动作人偶（by @icreatelife） -->
+### 例 32: [动作人偶](https://x.com/icreatelife/status/1961653618529935720)（by [@icreatelife](https://x.com/icreatelife)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case32/input.jpg" width="300" alt="输入图片"> | <img src="images/case32/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传参考图像
+
+**提示词:**
+
+```
+制作一个写着 [“AI Evangelist - Kris”] 的动作人偶，并包含 [咖啡、乌龟、笔记本电脑、手机和耳机] 。
+```
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要添加的物品**
+
+
+<!-- 例 33: 地图生成等距建筑（by @demishassabis） -->
+### 例 33: [地图生成等距建筑](https://x.com/demishassabis/status/1961077016830083103)（by [@demishassabis](https://x.com/demishassabis)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case33/input.jpg" width="300" alt="输入图片"> | <img src="images/case33/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传地图的参考图像
+
+**提示词:**
+
+```
+以这个位置为地标，将其设为等距图像（仅建筑物），采用游戏主题公园的风格
+```
+
+<!-- 例 34: 参考图控制人物表情（by @ZHO_ZHO_ZHO） -->
+### 例 34: [参考图控制人物表情](https://x.com/ZHO_ZHO_ZHO/status/1963156830458085674)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case34/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图和一张表情参考图
+
+**提示词:**
+
+```
+图一人物参考/换成图二人物的表情
+```
+
+<!-- 例 35: 插画绘画过程四格（by @ZHO_ZHO_ZHO） -->
+### 例 35: [插画绘画过程四格](https://x.com/ZHO_ZHO_ZHO/status/1961772524611768452)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case35/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像
+
+**提示词:**
+
+```
+为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字
+```
+
+<!-- 例 36: 虚拟试妆（by @ZHO_ZHO_ZHO） -->
+### 例 36: [虚拟试妆](https://x.com/ZHO_ZHO_ZHO/status/1962778069242126824)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case36/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像和一张妆造参考图片
+
+**提示词:**
+
+```
+为图一人物化上图二的妆，还保持图一的姿势
+```
+
+<!-- 例 37: 妆面分析（by @ZHO_ZHO_ZHO） -->
+### 例 37: [妆面分析](https://x.com/ZHO_ZHO_ZHO/status/1962784384693739621)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case37/input.jpg" width="300" alt="输入图片"> | <img src="images/case37/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像
+
+**提示词:**
+
+```
+分析这张图片。用红笔标出可以改进的地方
+Analyze this image. Use red pen to denote where you can improve
+```
+
+<!-- 例 38: Google地图视角下的中土世界（by @TechHallo） -->
+### 例 38: [Google地图视角下的中土世界](https://x.com/techhalla/status/1962292272227102941)（by [@TechHallo](https://x.com/techhalla)）
+
+| 输出 |
+|:---:|
+| <img src="images/case38/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+行车记录仪谷歌街景拍摄 | [霍比屯街道] | [霍比特人进行园艺和抽烟斗等日常活动] | [晴天]
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要的地区和天气**
+
+<!-- 例 39: 印刷插画生成 (@Umesh） -->
+### 例 39: [印刷插画生成](https://x.com/umesh_ai/status/1961110485543371145)（by [@Umesh](https://x.com/umesh_ai)）
+
+| 输出 |
+|:---:|
+| <img src="images/case39/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+仅使用短语 [“riding a bike”] 中的字母，创作一幅极简主义的黑白印刷插图，描绘骑自行车的场景。每个字母的形状和位置都应富有创意，以构成骑车人、自行车和动感。设计应简洁、极简，完全由修改后的 [“riding a bike”] 字母组成，不添加任何额外的形状或线条。字母应流畅或弯曲，以模仿场景的自然形态，同时保持清晰易读。
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要的文字**
+
+<!-- 例 40: 超多人物姿势生成（by @tapehead_Lab） -->
+### 例 40: [超多人物姿势生成](https://x.com/tapehead_Lab/status/1960878455299694639)（by [@tapehead_Lab](https://x.com/tapehead_Lab)）
+
+| 示例 |
+|:---:|
+| <img src="images/case40/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像
+
+**提示词:**
+
+```
+请为这幅插图创建一个姿势表，摆出各种姿势
+```
+
+<!-- 例 41: 物品包装生成（by @ZHO_ZHO_ZHO） -->
+### 例 41: [物品包装生成](https://x.com/ZHO_ZHO_ZHO/status/1962763864875167971)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case41/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张物品参考图像和一张包装参考图片
+
+**提示词:**
+
+```
+把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影
+```
+
+<!-- 例 42: 叠加滤镜/材质（by @ZHO_ZHO_ZHO） -->
+### 例 42: [叠加滤镜/材质](https://x.com/ZHO_ZHO_ZHO/status/1962520937011855793)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case42/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像和一张滤镜/材质参考图片
+
+**提示词:**
+
+```
+为图一照片叠加上图二 [玻璃] 的效果
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要的滤镜/材质**
+
+<!-- 例 43: 控制人物脸型（by @ZHO_ZHO_ZHO） -->
+### 例 43: [控制人物脸型](https://x.com/ZHO_ZHO_ZHO/status/1961802767493939632)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case43/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像和一张脸型参考图片
+
+**提示词:**
+
+```
+图一人物按照图二的脸型设计为q版形象
+```
+
+<!-- 例 44: 光影控制（by @ZHO_ZHO_ZHO） -->
+### 例 44: [光影控制](https://x.com/ZHO_ZHO_ZHO/status/1961779457372602725)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case44/case.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像和一张光影参考图片
+
+**提示词:**
+
+```
+图一人物变成图二光影，深色为暗
+```
+
+<!-- 例 45: 乐高玩具小人（by @ZHO_ZHO_ZHO） -->
+### 例 45: [乐高玩具小人](https://x.com/ZHO_ZHO_ZHO/status/1961395526198595771)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case45/input.jpg" width="300" alt="输入图片"> | <img src="images/case45/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将照片中的人物转化为乐高小人包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示基于照片中人物的乐高小人，并配有他们必需的物品（如化妆品、包或其他物品）作为乐高配件。在盒子旁边，也展示实际乐高小人本身，未包装，以逼真且生动的方式渲染。
+```
+
+<!-- 例 46: 高达模型小人（by @ZHO_ZHO_ZHO） -->
+### 例 46: [高达模型小人](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case46/input.jpg" width="300" alt="输入图片"> | <img src="images/case46/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将照片中的人物转化为高达模型套件包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示照片中人物的高达风格机械人版本，并伴随其必需品（如化妆品、包袋或其他物品）重新设计为未来派机械配件。包装盒应类似真实的 Gunpla 盒子，包含技术插图、说明书风格细节和科幻字体。在盒子旁边，也展示实际的高达风格机械人本身，在包装外以逼真且栩栩如生的风格渲染，类似于官方 Bandai 宣传渲染图。
+```
+
+<!-- 例 47: 硬件拆解图（by @AIimagined） -->
+### 例 47: [硬件拆解图](https://x.com/AIimagined/status/1961431851245211958)（by [@AIimagined](https://x.com/AIimagined)）
+
+| 输出 |
+|:---:|
+| <img src="images/case47/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+数码单反相机的分解图，展示了其所有配件和内部组件，例如镜头、滤镜、内部组件、镜头、传感器、螺丝、按钮、取景器、外壳和电路板。保留了数码单反相机的红色装饰。
+```
+
+
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
@@ -525,6 +887,12 @@
 - [@skirano](https://x.com/skirano)
 - [@Error_HTTP_404](https://x.com/Error_HTTP_404)
 - [@arrakis_ai](https://x.com/arrakis_ai)
+- [@AiMachete](https://x.com/AiMachete)
+- [@icreatelife](https://x.com/icreatelife)
+- [@demishassabis](https://x.com/demishassabis)
+- [@TechHallo](https://x.com/techhalla)
+- [@tapehead_Lab](https://x.com/tapehead_Lab)
+- [@AIimagined](https://x.com/AIimagined)
 
 *我们不能保证所有案例都来自于原始作者，如果对您造成困扰，请随时与我们联系修改。*
 

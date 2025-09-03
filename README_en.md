@@ -20,32 +20,58 @@ If you like it, please ⭐ Star to bookmark it!
 
 ## 📑 Menu
 
-- [Case 1: Illustration to Figure (by @ZHO\_ZHO\_ZHO)](#case-1-illustration-to-figureby-zho_zho_zho)
-- [Case 2: Generate Ground View from Map Arrow (by @tokumin)](#case-2-generate-ground-view-from-map-arrowby-tokumin)
-- [Case 3: Real World AR Information (by @bilawalsidhu)](#case-3-real-world-ar-informationby-bilawalsidhu)
-- [Case 4: Extract 3D Buildings/Make Isometric Models (by @Zieeett)](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
-- [Case 5: Photos of Yourself in Different Eras (by @AmirMushich)](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
-- [Case 6: Multi-Reference Image Generation (by @MrDavids1)](#case-6-multi-reference-image-generationby-mrdavids1)
-- [Case 7: Automatic Photo Editing (by @op7418)](#case-7-automatic-photo-editingby-op7418)
-- [Case 8: Hand Drawing Controls Multi-Character Poses (by @op7418)](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
-- [Case 9: Cross-View Image Generation (by @op7418)](#case-9-cross-view-image-generationby-op7418)
-- [Case 10: Custom Character Stickers (by @op7418)](#case-10-custom-character-stickersby-op7418)
-- [Case 11: Anime to Real Coser (by @ZHO\_ZHO\_ZHO)](#case-11-anime-to-real-coserby-zho_zho_zho)
-- [Case 12: Generate Character Design (by @ZHO\_ZHO\_ZHO)](#case-12-generate-character-designby-zho_zho_zho)
-- [Case 13: Color Line Art with Color Palette (by @ZHO\_ZHO\_ZHO)](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
-- [Case 14: Article Infographic (by @黄建同学)](#case-14-article-infographicby-黄建同学)
-- [Case 15: Change Multiple Hairstyles (by @balconychy)](#case-15-change-multiple-hairstylesby-balconychy)
-- [Case 16: Model Annotation Explanation Diagram (by @berryxia\_ai)](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
-- [Case 17: Custom Marble Sculpture (by @umesh\_ai)](#case-17-custom-marble-sculptureby-umesh_ai)
-- [Case 18: Cook Based on Ingredients (by @Gdgtify)](#case-18-cook-based-on-ingredientsby-gdgtify)
-- [Case 19: Math Problem Reasoning (by @Gorden Sun)](#case-19-math-problem-reasoningby-gorden-sun)
-- [Case 20: Old Photo Colorization (by @GeminiApp)](#case-20-old-photo-colorizationby-geminiapp)
-- [Case 21: OOTD Outfit (by @302.AI)](#case-21-ootd-outfitby-302ai)
-- [Case 22: Character Clothing Change (by @skirano)](#case-22-character-clothing-changeby-skirano)
-- [Case 23: Multi-View Result Generation (by @Error\_HTTP\_404)](#case-23-multi-view-result-generationby-error_http_404)
-- [Case 24: Movie Storyboard (by @GeminiApp)](#case-24-movie-storyboardby-geminiapp)
-- [Case 25: Character Pose Modification (by @arrakis\_ai)](#case-25-character-pose-modificationby-arrakis_ai)
-- [Case 26: Generate image from line drawing（by @ZHO_ZHO_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
+- [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
+  - [🍌 Introduction](#-introduction)
+  - [📑 Menu](#-menu)
+  - [🖼️ Cases](#️-cases)
+    - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
+    - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
+    - [Case 3: Real World AR Information（by @bilawalsidhu）](#case-3-real-world-ar-informationby-bilawalsidhu)
+    - [Case 4: Extract 3D Buildings/Make Isometric Models（by @Zieeett）](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
+    - [Case 5: Photos of Yourself in Different Eras（by @AmirMushich）](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
+    - [Case 6: Multi-Reference Image Generation（by @MrDavids1）](#case-6-multi-reference-image-generationby-mrdavids1)
+    - [Case 7: Automatic Photo Editing（by @op7418）](#case-7-automatic-photo-editingby-op7418)
+    - [Case 8: Hand Drawing Controls Multi-Character Poses（by @op7418）](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
+    - [Case 9: Cross-View Image Generation（by @op7418）](#case-9-cross-view-image-generationby-op7418)
+    - [Case 10: Custom Character Stickers（by @op7418）](#case-10-custom-character-stickersby-op7418)
+    - [Case 11: Anime to Real Coser（by @ZHO\_ZHO\_ZHO）](#case-11-anime-to-real-coserby-zho_zho_zho)
+    - [Case 12: Generate Character Design（by @ZHO\_ZHO\_ZHO）](#case-12-generate-character-designby-zho_zho_zho)
+    - [Case 13: Color Line Art with Color Palette（by @ZHO\_ZHO\_ZHO）](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
+    - [Case 14: Article Infographic（by @黄建同学）](#case-14-article-infographicby-黄建同学)
+    - [Case 15: Change Multiple Hairstyles（by @balconychy）](#case-15-change-multiple-hairstylesby-balconychy)
+    - [Case 16: Model Annotation Explanation Diagram（by @berryxia\_ai）](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
+    - [Case 17: Custom Marble Sculpture（by @umesh\_ai）](#case-17-custom-marble-sculptureby-umesh_ai)
+    - [Case 18: Cook Based on Ingredients（by @Gdgtify）](#case-18-cook-based-on-ingredientsby-gdgtify)
+    - [Case 19: Math Problem Reasoning（by @Gorden Sun）](#case-19-math-problem-reasoningby-gorden-sun)
+    - [Case 20: Old Photo Colorization（by @GeminiApp）](#case-20-old-photo-colorizationby-geminiapp)
+    - [Case 21: OOTD Outfit（by @302.AI）](#case-21-ootd-outfitby-302ai)
+    - [Case 22: Character Clothing Change（by @skirano）](#case-22-character-clothing-changeby-skirano)
+    - [Case 23: Multi-View Result Generation（by @Error\_HTTP\_404）](#case-23-multi-view-result-generationby-error_http_404)
+    - [Case 24: Movie Storyboard（by @GeminiApp）](#case-24-movie-storyboardby-geminiapp)
+    - [Case 25: Character Pose Modification（by @arrakis\_ai）](#case-25-character-pose-modificationby-arrakis_ai)
+    - [Case 26: Generate image from line drawing（by @ZHO\_ZHO\_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
+    - [Case 27: Add Watermark to Image（by @AiMachete）](#case-27-add-watermark-to-imageby-aimachete)
+    - [Case 28: Knowledge Reasoning Image Generation（by @icreatelife）](#case-28-knowledge-reasoning-image-generationby-icreatelife)
+    - [Case 29: Red Pen Annotations（by @AiMachete）](#case-29-red-pen-annotationsby-aimachete)
+    - [Case 30: Explosive Food（by @icreatelife）](#case-30-explosive-foodby-icreatelife)
+    - [Case 31: Create Comic Book（by @icreatelife）](#case-31-create-comic-bookby-icreatelife)
+    - [Case 32: Action Figure（by @icreatelife）](#case-32-action-figureby-icreatelife)
+    - [Case 33: Map to Isometric Buildings（by @demishassabis）](#case-33-map-to-isometric-buildingsby-demishassabis)
+    - [Case 34: Reference Image Controls Character Expression（by @ZHO\_ZHO\_ZHO）](#case-34-reference-image-controls-character-expressionby-zho_zho_zho)
+    - [Case 35: Illustration Drawing Process Four-Panel（by @ZHO\_ZHO\_ZHO）](#case-35-illustration-drawing-process-four-panelby-zho_zho_zho)
+    - [Case 36: Virtual Makeup Try-On（by @ZHO\_ZHO\_ZHO）](#case-36-virtual-makeup-try-onby-zho_zho_zho)
+    - [Case 37: Makeup Analysis（by @ZHO\_ZHO\_ZHO）](#case-37-makeup-analysisby-zho_zho_zho)
+    - [Case 38: Google Maps View of Middle-earth（by @TechHallo）](#case-38-google-maps-view-of-middle-earthby-techhallo)
+    - [Case 39: Typographic Illustration Generation（by @Umesh）](#case-39-typographic-illustration-generationby-umesh)
+    - [Case 40: Multiple Character Poses Generation（by @tapehead\_Lab）](#case-40-multiple-character-poses-generationby-tapehead_lab)
+    - [Case 41: Product Packaging Generation（by @ZHO\_ZHO\_ZHO）](#case-41-product-packaging-generationby-zho_zho_zho)
+    - [Case 42: Overlay Filter/Material（by @ZHO\_ZHO\_ZHO）](#case-42-overlay-filtermaterialby-zho_zho_zho)
+    - [Case 43: Control Character Face Shape（by @ZHO\_ZHO\_ZHO）](#case-43-control-character-face-shapeby-zho_zho_zho)
+    - [Case 44: Lighting Control（by @ZHO\_ZHO\_ZHO）](#case-44-lighting-controlby-zho_zho_zho)
+    - [Case 45: LEGO Minifigure（by @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
+    - [Case 46: Gundam Model Figure（by @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
+    - [Case 47: Hardware Exploded View（by @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
+  - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ Cases
 
@@ -492,12 +518,348 @@ Have the person in the picture look straight ahead
 | <img src="images/case26/input.jpg" width="300" alt="Input Image"> | <img src="images/case26/output.jpg" width="300" alt="Output Result"> |
 
 
-**输入:** Need to upload line drawings and reference images
+**Input:** Need to upload line drawings and reference images
 
-**提示词:**
+**Prompt:**
 
 ```
 Change the pose of the person in Figure 1 to that of Figure 2, and shoot in a professional studio
+```
+
+<!-- Case 27: Add Watermark to Image (by @AiMachete) -->
+### Case 27: [Add Watermark to Image](https://x.com/AiMachete/status/1963038793705128219)（by [@AiMachete](https://x.com/AiMachete)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case27/input.jpg" width="300" alt="Input Image"> | <img src="images/case27/output.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Watermark the word ‘TRUMP’ over and over again across the whole image.
+```
+
+<!-- Case 28: Knowledge Reasoning Image Generation (by @icreatelife) -->
+### Case 28: [Knowledge Reasoning Image Generation](https://x.com/icreatelife/status/1962998951948517428)（by [@icreatelife](https://x.com/icreatelife)）
+
+| Output |
+|:---:|
+| <img src="images/case28/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case28/output1.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+Make me an infographic of 5 tallest buildings in the world / Make a colorful infographic of the sweetest things on Earth
+```
+
+<!-- Case 29: Red Pen Annotations (by @AiMachete) -->
+### Case 29: [Red Pen Annotations](https://x.com/AiMachete/status/1962356993550643355)（by [@AiMachete](https://x.com/AiMachete)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case29/input.jpg" width="300" alt="Input Image"> | <img src="images/case29/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Analyze this image. Use red pen to denote where you can improve.
+```
+
+<!-- Case 30: Explosive Food (by @icreatelife) -->
+### Case 30: [Explosive Food](https://x.com/icreatelife/status/1962724040205803773)（by [@icreatelife](https://x.com/icreatelife)）
+
+| Output |
+|:---:|
+| <img src="images/case30/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case30/output1.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Photograph this product in a dramatic modern scene accompanied by explosive outward dynamic arrangement of the key ingredients fresh and raw flying around the product signifying its freshness and nutritional value. promo ad shot, without text, product is emphasized, with the key brand colors as background.
+```
+
+<!-- Case 31: Create Comic Book (by @icreatelife) -->
+### Case 31: [Create Comic Book](https://x.com/icreatelife/status/1961977580849873169)（by [@icreatelife](https://x.com/icreatelife)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case31/input.jpg" width="300" alt="Input Image"> | <img src="images/case31/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Based on the uploaded image, make a comic book strip, add text, write a compelling story. I want a superhero comic book.
+```
+
+<!-- Case 32: Action Figure (by @icreatelife) -->
+### Case 32: [Action Figure](https://x.com/icreatelife/status/1961653618529935720)（by [@icreatelife](https://x.com/icreatelife)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case32/input.jpg" width="300" alt="Input Image"> | <img src="images/case32/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+make an action figure of me that says [“AI Evangelist - Kris”] and features [coffee, turtle, laptop, phone and headphones]
+
+```
+> [!NOTE]
+> **Change the text in [brackets] to the items you want to add**
+
+
+<!-- Case 33: Map to Isometric Buildings (by @demishassabis) -->
+### Case 33: [Map to Isometric Buildings](https://x.com/demishassabis/status/1961077016830083103)（by [@demishassabis](https://x.com/demishassabis)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case33/input.jpg" width="300" alt="Input Image"> | <img src="images/case33/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a map reference image
+
+**Prompt:**
+
+```
+Take this location and make the landmark an isometric image (building only), in the stvle of the game Theme Park
+```
+
+<!-- Case 34: Reference Image Controls Character Expression (by @ZHO_ZHO_ZHO) -->
+### Case 34: [Reference Image Controls Character Expression](https://x.com/ZHO_ZHO_ZHO/status/1963156830458085674)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case34/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a character reference image and an expression reference image
+
+**Prompt:**
+
+```
+Character reference from Image 1 / Change to the expression from Image 2
+```
+
+<!-- Case 35: Illustration Drawing Process Four-Panel (by @ZHO_ZHO_ZHO) -->
+### Case 35: [Illustration Drawing Process Four-Panel](https://x.com/ZHO_ZHO_ZHO/status/1961772524611768452)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case35/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a character reference image
+
+**Prompt:**
+
+```
+Generate a four-panel drawing process for the character: Step 1: Line art, Step 2: Flat colors, Step 3: Add shadows, Step 4: Refine and complete. No text.
+```
+
+<!-- Case 36: Virtual Makeup Try-On (by @ZHO_ZHO_ZHO) -->
+### Case 36: [Virtual Makeup Try-On](https://x.com/ZHO_ZHO_ZHO/status/1962778069242126824)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case36/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a character reference image and a makeup reference image
+
+**Prompt:**
+
+```
+Apply the makeup from Image 2 to the character in Image 1, while maintaining the pose from Image 1.
+```
+
+<!-- Case 37: Makeup Analysis (by @ZHO_ZHO_ZHO) -->
+### Case 37: [Makeup Analysis](https://x.com/ZHO_ZHO_ZHO/status/1962784384693739621)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case37/input.jpg" width="300" alt="Input Image"> | <img src="images/case37/output.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a character reference image
+
+**Prompt:**
+
+```
+Analyze this image. Use a red pen to mark areas that can be improved
+Analyze this image. Use a red pen to denote where you can improve
+```
+
+<!-- Case 38: Google Maps View of Middle-earth (by @TechHallo) -->
+### Case 38: [Google Maps View of Middle-earth](https://x.com/techhalla/status/1962292272227102941)（by [@TechHallo](https://x.com/techhalla)）
+
+| Output |
+|:---:|
+| <img src="images/case38/output.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+Dashcam Google Street View shot | [Hobbiton Street] | [hobbits carrying out daily tasks like gardening and smoking pipes] | [Sunny weather]
+```
+
+> [!NOTE]
+> **Change the text in [brackets] to the desired location and weather**
+
+<!-- Case 39: Typographic Illustration Generation (by @Umesh) -->
+### Case 39: [Typographic Illustration Generation](https://x.com/umesh_ai/status/1961110485543371145)（by [@Umesh](https://x.com/umesh_ai)）
+
+| Output |
+|:---:|
+| <img src="images/case39/output.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+Create a minimalist black-and-white typographic illustration of the scene riding a bicycle using only the letters in the phrase ['riding a bicycle'] . Each letter should be creatively shaped or positioned to form the rider, the bicycle, and a sense of motion. The design should be clean, ultra-minimalist, and entirely composed of the modified ['riding a bicycle'] letters without adding any extra shapes or lines. The letters should flow or curve to mimic the natural form of the scene, while still remaining legible.
+
+```
+
+> [!NOTE]
+> **Change the text in [brackets] to the desired text**
+
+<!-- Case 40: Multiple Character Poses Generation (by @tapehead_Lab) -->
+### Case 40: [Multiple Character Poses Generation](https://x.com/tapehead_Lab/status/1960878455299694639)（by [@tapehead_Lab](https://x.com/tapehead_Lab)）
+
+| Example |
+|:---:|
+| <img src="images/case40/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a character reference image
+
+**Prompt:**
+
+```
+Please create a pose sheet for this illustration, making various poses!
+```
+
+<!-- Case 41: Product Packaging Generation (by @ZHO_ZHO_ZHO) -->
+### Case 41: [Product Packaging Generation](https://x.com/ZHO_ZHO_ZHO/status/1962763864875167971)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case41/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a product reference image and a packaging reference image
+
+**Prompt:**
+
+```
+Apply the design from Image 1 to the can in Image 2, and place it in a minimalist design setting, professional photography
+```
+
+<!-- Case 42: Overlay Filter/Material (by @ZHO_ZHO_ZHO) -->
+### Case 42: [Overlay Filter/Material](https://x.com/ZHO_ZHO_ZHO/status/1962520937011855793)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case42/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image and a filter/material reference image
+
+**Prompt:**
+
+```
+Overlay the [glass] effect from Image 2 onto the photo in Image 1
+```
+
+> [!NOTE]
+> **Change the text in [brackets] to the desired filter/material**
+
+<!-- Case 43: Control Character Face Shape (by @ZHO_ZHO_ZHO) -->
+### Case 43: [Control Character Face Shape](https://x.com/ZHO_ZHO_ZHO/status/1961802767493939632)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case43/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image and a face shape reference image
+
+**Prompt:**
+
+```
+Design the character from Image 1 as a chibi version according to the face shape from Image 2
+```
+
+<!-- Case 44: Lighting Control (by @ZHO_ZHO_ZHO) -->
+### Case 44: [Lighting Control](https://x.com/ZHO_ZHO_ZHO/status/1961779457372602725)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case44/case.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image and a lighting reference image
+
+**Prompt:**
+
+```
+Change the character from Image 1 to the lighting from Image 2, with dark areas as shadows
+```
+
+<!-- Case 45: LEGO Minifigure (by @ZHO_ZHO_ZHO) -->
+### Case 45: [LEGO Minifigure](https://x.com/ZHO_ZHO_ZHO/status/1961395526198595771)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case45/input.jpg" width="300" alt="Input Image"> | <img src="images/case45/output.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Transform the person in the photo into a LEGO minifigure packaging box style, presented in isometric perspective. Label the box with the title "ZHOGUE". Inside the box, display the LEGO minifigure based on the person in the photo, along with their essential items (such as makeup, bags, or other items) as LEGO accessories. Beside the box, also display the actual LEGO minifigure itself, unpackaged, rendered in a realistic and vivid style.
+```
+
+<!-- Case 46: Gundam Model Figure (by @ZHO_ZHO_ZHO) -->
+### Case 46: [Gundam Model Figure](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case46/input.jpg" width="300" alt="Input Image"> | <img src="images/case46/output.jpg" width="300" alt="Output Result"> |
+
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Transform the person in the photo into a Gundam model kit packaging box style, presented in isometric perspective. Label the box with the title "ZHOGUE". Inside the box, display a Gundam-style mechanical version of the person from the photo, along with their essentials (such as makeup, bags, or other items) redesigned as futuristic mechanical accessories. The packaging should resemble real Gunpla boxes, including technical illustrations, instruction manual-style details, and sci-fi fonts. Beside the box, also display the actual Gundam-style mechanical figure itself, outside the packaging, rendered in a realistic and lifelike style, similar to official Bandai promotional renders.
+```
+
+<!-- Case 47: Hardware Exploded View (by @AIimagined) -->
+### Case 47: [Hardware Exploded View](https://x.com/AIimagined/status/1961431851245211958)（by [@AIimagined](https://x.com/AIimagined)）
+
+| Output |
+|:---:|
+| <img src="images/case47/output.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+Exploded view of a DSLR showing all its accessories and internal components such as lens, filter,  internal components, lens, sensor, screws, buttons, viewfinder, housing, and circuit board. Maintain red accents of the DSLR
 ```
 
 ## 🙏 Acknowledge
@@ -524,6 +886,12 @@ Thank you to the following users for sharing their amazing works. You can also v
 - [@skirano](https://x.com/skirano)
 - [@Error_HTTP_404](https://x.com/Error_HTTP_404)
 - [@arrakis_ai](https://x.com/arrakis_ai)
+- [@AiMachete](https://x.com/AiMachete)
+- [@icreatelife](https://x.com/icreatelife)
+- [@demishassabis](https://x.com/demishassabis)
+- [@TechHallo](https://x.com/techhalla)
+- [@tapehead_Lab](https://x.com/tapehead_Lab)
+- [@AIimagined](https://x.com/AIimagined)
 
 *We cannot guarantee that all cases come from the original authors. If this causes you any inconvenience, please feel free to contact us for modifications.*
 
