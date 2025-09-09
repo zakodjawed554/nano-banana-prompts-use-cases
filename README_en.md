@@ -18,6 +18,15 @@ These cases mainly come from Twitter/X 🐦, Xiaohongshu 📕 and other self-med
 
 If you like it, please ⭐ Star to bookmark it!
 
+
+## 📰 News
+
+- **Sep-9-2025:** 3️⃣ Third repository update
+- **Sep-3-2025:** 2️⃣ Second repository update
+- **Aug-28-2025:** 🎉 1️⃣ ${\color{red} First\ Awesome-Nano-Banana-images \ update!}$
+
+
+
 ## 📑 Menu
 
 - [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
