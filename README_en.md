@@ -71,6 +71,27 @@ If you like it, please ⭐ Star to bookmark it!
     - [Case 45: LEGO Minifigure（by @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
     - [Case 46: Gundam Model Figure（by @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
     - [Case 47: Hardware Exploded View（by @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
+    - [Case 48: Food Calorie Annotation（by @icreatelife）](#case-48-food-calorie-annotationby-icreatelife)
+    - [Case 49: Extract Subject and Place on Transparent Layer（by @nglprz）](#case-49-extract-subject-and-place-on-transparent-layerby-nglprz)
+    - [Case 50: Image Outpainting Repair（by @bwabbage）](#case-50-image-outpainting-repairby-bwabbage)
+    - [Case 51: Ancient Map → Historical Scene Photo（by @levelsio）](#case-51-ancient-map--historical-scene-photoby-levelsio)
+    - [Case 52: Fashion Moodboard Collage（by @tetumemo）](#case-52-fashion-moodboard-collageby-tetumemo)
+    - [Case 53: Delicate Cute Product Photo（by @azed\_ai）](#case-53-delicate-cute-product-photoby-azed_ai)
+    - [Case 54: Place Anime Statue in Real Life（by @riddi0908）](#case-54-place-anime-statue-in-real-lifeby-riddi0908)
+    - [Case 55: Create an Itasha Car（by @riddi0908）](#case-55-create-an-itasha-carby-riddi0908)
+    - [Case 56: Manga Composition（by @namaedousiyoka）](#case-56-manga-compositionby-namaedousiyoka)
+    - [Case 57: Manga Style Conversion（by @nobisiro\_2023）](#case-57-manga-style-conversionby-nobisiro_2023)
+    - [Case 58: Isometric Holographic Wireframe（by @tetumemo）](#case-58-isometric-holographic-wireframeby-tetumemo)
+    - [Case 59: Minecraft-Style Scene Generation（by @tetumemo）](#case-59-minecraft-style-scene-generationby-tetumemo)
+    - [Case 60: Apply Material Sphere to Logo（by @ZHO\_ZHO\_ZHO）](#case-60-apply-material-sphere-to-logoby-zho_zho_zho)
+    - [Case 61: Floor Plan 3D Render（by @op7418）](#case-61-floor-plan-3d-renderby-op7418)
+    - [Case 62: Reset Camera Parameters（by @hckinz）](#case-62-reset-camera-parametersby-hckinz)
+    - [Case 63: Create an ID Photo（by @songguoxiansen）](#case-63-create-an-id-photoby-songguoxiansen)
+    - [Case 64: Scene A6 Folding Card（by @Gdgtify）](#case-64-scene-a6-folding-cardby-gdgtify)
+    - [Case 65: Design a Chess Set（by @Gdgtify）](#case-65-design-a-chess-setby-gdgtify)
+    - [Case 66: Split-Contrast Style Photo（by @fofrAI）](#case-66-split-contrast-style-photoby-fofrai)
+    - [Case 67: Jewelry Collection Design（by @Gdgtify）](#case-67-jewelry-collection-designby-gdgtify)
+    - [Case 68: Merchandise Design（by @0xFramer）](#case-68-merchandise-designby-0xframer)
   - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ Cases
@@ -862,6 +883,325 @@ Transform the person in the photo into a Gundam model kit packaging box style, p
 Exploded view of a DSLR showing all its accessories and internal components such as lens, filter,  internal components, lens, sensor, screws, buttons, viewfinder, housing, and circuit board. Maintain red accents of the DSLR
 ```
 
+<!-- Case 48: Food Calorie Annotation (by @icreatelife) -->
+### Case 48: [Food Calorie Annotation](https://x.com/icreatelife/status/1963646757222715516)（by [@icreatelife](https://x.com/icreatelife)）
+
+| Output |
+|:---:|
+| <img src="images/case48/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a food reference image
+
+**Prompt:**
+
+```
+annotate this meal with names of food and calorie density and approximate calories
+```
+
+<!-- Case 49: Extract Subject and Place on Transparent Layer (by @nglprz) -->
+### Case 49: [Extract Subject and Place on Transparent Layer](https://x.com/nglprz/status/1961494974555394068)（by [@nglprz](https://x.com/icreatelife)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case49/input.jpg" width="300" alt="Input Image"> | <img src="images/case49/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+extract the [samurai] and put transparent background
+```
+
+> [!NOTE]
+> Replace the text in **[brackets]** with the object you need to extract.
+
+
+<!-- Case 50: Outpainting / Checkerboard Repair (by @bwabbage) -->
+### Case 50: [Image Outpainting Repair](https://x.com/bwabbage/status/1962903212937130450)（by [@bwabbage](https://x.com/bwabbage)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case50/input.jpg" width="300" alt="Input Image"> | <img src="images/case50/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload an image containing transparent checkerboard areas
+
+**Prompt:**
+
+```
+Repair the checkerboard (transparent) parts of the image and restore a complete, coherent photo.
+```
+
+<!-- Case 51: Turn Old Map/Scene into Modern-Looking Photo (by @levelsio) -->
+### Case 51: [Ancient Map → Historical Scene Photo](https://x.com/levelsio/status/1961595333034598487)（by [@levelsio](https://x.com/levelsio)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case51/input.jpg" width="300" alt="Input Image"> | <img src="images/case51/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a historical reference image
+
+**Prompt:**
+
+```
+full colour photograph. New Amsterdam in 1660. make sure it's full modern colors as if it's a photograph taken today.
+```
+
+<!-- Case 52: Fashion Moodboard Collage (by @tetumemo) -->
+### Case 52: [Fashion Moodboard Collage](https://x.com/tetumemo/status/1962480699904282861)（by [@tetumemo](https://x.com/tetumemo)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case52/input.jpg" width="300" alt="Input Image"> | <img src="images/case52/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+A fashion mood board collage. Surround a portrait with cutouts of the individual items the model is wearing. Add handwritten notes and sketches in a playful, marker-style font, and include the brand name and source of each item in English. The overall aesthetic should be creative and cute.
+```
+
+<!-- Case 53: Cute, Premium Product Photo (by @azed_ai) -->
+### Case 53: [Delicate Cute Product Photo](https://x.com/azed_ai/status/1962878353784066342)（by [@azed_ai](https://x.com/azed_ai)）
+
+| Output |
+|:---:|
+| <img src="images/case53/output.jpg" width="300" alt="Output Result"> |
+
+**Prompt:**
+
+```
+A high-resolution advertising photograph of a realistic, miniature [PRODUCT] held delicately between a person's thumb and index finger.  clean and white background, studio lighting, soft shadows. The hand is well-groomed, natural skin tone, and positioned to highlight the product’s shape and details. The product appears extremely small but hyper-detailed and brand-accurate, centered in the frame with a shallow depth of field. Emulates luxury product photography and minimalist commercial style.
+```
+
+> [!NOTE]
+> Replace the text in **[brackets]** with the product you want to showcase.
+
+<!-- Case 54: Place an Anime Statue in Reality (by @riddi0908) -->
+### Case 54: [Place Anime Statue in Real Life](https://x.com/riddi0908/status/1963758463135412699)（by [@riddi0908](https://x.com/riddi0908)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case54/input.jpg" width="300" alt="Input Image"> | <img src="images/case54/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+A realistic photographic work. A gigantic statue of this person has been placed in a square in the center of Tokyo, with people looking up at it.
+```
+
+<!-- Case 55: Itasha (Anime-Themed Car) Creation (by @riddi0908) -->
+### Case 55: [Create an Itasha Car](https://x.com/riddi0908/status/1963422536819249239)（by [@riddi0908](https://x.com/riddi0908)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case55/input.jpg" width="300" alt="Input Image"> | <img src="images/case55/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Create a professional photograph of a sporty car with anime-style character artwork as itasha (painted car) design, shot at a famous tourist destination or scenic landmark. The car features large, prominently displayed anime character illustrations with simple, clean design composition. The character artwork should be painted in vibrant anime art style with bold colors and clear details. Position the vehicle at a recognizable tourist spot or scenic location with good natural lighting that showcases both the car's sporty appearance and the character artwork. Use professional automotive photography techniques with proper depth of field to highlight the itasha design while incorporating the scenic background for tourism appeal, suitable for promotional or enthusiast marketing materials.
+```
+
+<!-- Case 56: Manga Composition (by @namaedousiyoka) -->
+### Case 56: [Manga Composition](https://x.com/namaedousiyoka/status/1962461786181161340)（by [@namaedousiyoka](https://x.com/namaedousiyoka)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case56/input.jpg" width="200" alt="Character Reference"> <img src="images/case56/input2.jpg" width="200" alt="Scene Composition Reference"> | <img src="images/case56/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a character reference image and a scene composition reference image
+
+<!-- Case 57: Manga Style Conversion (by @nobisiro_2023) -->
+### Case 57: [Manga Style Conversion](https://x.com/nobisiro_2023/status/1961231347986698371)（by [@nobisiro_2023](https://x.com/nobisiro_2023)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case57/input.jpg" width="300" alt="Input Image"> | <img src="images/case57/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Convert the input photo into a black-and-white manga-style line drawing.
+```
+
+<!-- Case 58: Isometric Holographic Wireframe (by @tetumemo) -->
+### Case 58: [Isometric Holographic Wireframe](https://x.com/tetumemo/status/1964574226155000312)（by [@tetumemo](https://x.com/tetumemo)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case58/input.jpg" width="300" alt="Input Image"> | <img src="images/case58/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a line-art reference image
+
+**Prompt:**
+
+```
+Based on the uploaded image, convert it into a holographic depiction using wireframe lines only.
+```
+
+<!-- Case 59: Minecraft-Style Scene (by @tetumemo) -->
+### Case 59: [Minecraft-Style Scene Generation](https://x.com/tetumemo/status/1964860047705743700)（by [@tetumemo](https://x.com/tetumemo)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case59/input.jpg" width="300" alt="Input Image"> | <img src="images/case59/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a Google Maps reference image
+
+**Prompt:**
+
+```
+Using this location, create an isometric HD-2D Minecraft-style image of the landmark (buildings only).
+```
+
+<!-- Case 60: Apply Material to Logo (by @ZHO_ZHO_ZHO) -->
+### Case 60: [Apply Material Sphere to Logo](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| Example |
+|:---:|
+| <img src="images/case60/case.jpg" width="300" alt="Example"> |
+
+**Input:** Need to upload a reference image and a material-sphere image
+
+**Prompt:**
+
+```
+Apply the material from Image 2 to the logo in Image 1, present it as a 3D object, render in a C4D-like style, with a solid-color background.
+```
+
+<!-- Case 61: Floor Plan → 3D Render (by @op7418) -->
+### Case 61: [Floor Plan 3D Render](https://x.com/op7418/status/1961329148271513695)（by [@op7418](https://x.com/op7418)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case61/input.jpg" width="300" alt="Input Image"> | <img src="images/case61/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a floor-plan reference image
+
+**Prompt:**
+
+```
+Convert this residential floor plan into an isometric, photo-realistic 3D rendering of the house.
+```
+
+<!-- Case 62: Reset Camera Parameters (by @hckinz) -->
+### Case 62: [Reset Camera Parameters](https://x.com/hckinz/status/1962803203063586895)（by [@hckinz](https://x.com/hckinz)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case62/input.jpg" width="300" alt="Input Image"> | <img src="images/case62/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+RAW-ISO [100] - [F2.8-1/200 24mm] settings
+```
+
+> [!NOTE]
+> Replace the values in **[brackets]** with your desired camera parameters.
+
+<!-- Case 63: Make an ID Photo (by @songguoxiansen) -->
+### Case 63: [Create an ID Photo](https://x.com/songguoxiansen/status/1963602241610551609)（by [@songguoxiansen](https://x.com/songguoxiansen)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case63/input.jpg" width="300" alt="Input Image"> | <img src="images/case63/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a portrait reference image
+
+**Prompt:**
+
+```
+Crop the head and create a 2-inch ID photo with:
+  1. Blue background
+  2. Professional business attire
+  3. Frontal face
+  4. Slight smile
+```
+
+<!-- Case 64: Scene A6 Folding Card (by @Gdgtify) -->
+### Case 64: [Scene A6 Folding Card](https://x.com/Gdgtify/status/19649795223709287319)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case64/input.jpg" width="300" alt="Input Image"> | <img src="images/case64/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Draw an A6 folding card: when opened, it reveals a complete 3D spherical tiny house with a miniature paper garden and a bonsai tree inside.
+```
+
+<!-- Case 65: Design a Chess Set (by @Gdgtify) -->
+### Case 65: [Design a Chess Set](https://x.com/Gdgtify/status/1964679042994442454)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| Example |
+|:---:|
+| <img src="images/case65/case.jpg" width="300" alt="Example"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Draw a chessboard and a set of 3D-printable chess pieces inspired by this image.
+```
+
+<!-- Case 66: Split-Era Room Photo (by @fofrAI) -->
+### Case 66: [Split-Contrast Style Photo](https://x.com/fofrAI/status/1964818395381248397)（by [@fofrAI](https://x.com/fofrAI)）
+
+| Example |
+|:---:|
+| <img src="images/case66/case.jpg" width="300" alt="Example"> |
+
+**Prompt:**
+
+```
+A photo of a bedroom split down the middle: the left side is 2018 and the right side is 1964, in the same room.
+```
+
+<!-- Case 67: Jewelry Collection Design (by @Gdgtify) -->
+### Case 67: [Jewelry Collection Design](https://x.com/Gdgtify/status/1964419331342909777)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case67/input.jpg" width="300" alt="Input Image"> | <img src="images/case67/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Transform this image into a 5-piece jewelry collection.
+```
+
+<!-- Case 68: Merchandise Design (by @0xFramer) -->
+### Case 68: [Merchandise Design](https://x.com/0xFramer/status/1964992117324886349)（by [@0xFramer](https://x.com/0xFramer)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case68/input.jpg" width="300" alt="Input Image"> | <img src="images/case68/output.jpg" width="300" alt="Output Result"> |
+
+**Input:** Need to upload a reference image
+
+**Prompt:**
+
+```
+Create merchandise using this character image.
+```
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.
@@ -892,7 +1232,19 @@ Thank you to the following users for sharing their amazing works. You can also v
 - [@TechHallo](https://x.com/techhalla)
 - [@tapehead_Lab](https://x.com/tapehead_Lab)
 - [@AIimagined](https://x.com/AIimagined)
-
+- [@0xFramer](https://x.com/0xFramer)
+- [@fofrAI](https://x.com/fofrAI)
+- [@songguoxiansen](https://x.com/songguoxiansen)
+- [@hckinz](https://x.com/hckinz)
+- [@tetumemo](https://x.com/tetumemo)
+- [@nobisiro_2023](https://x.com/nobisiro_2023)
+- [@namaedousiyoka](https://x.com/namaedousiyoka)
+- [@riddi0908](https://x.com/riddi0908)
+- [@azed_ai](https://x.com/azed_ai)
+- [@bwabbage](https://x.com/bwabbage)
+- [@nglprz](https://x.com/icreatelife)
 *We cannot guarantee that all cases come from the original authors. If this causes you any inconvenience, please feel free to contact us for modifications.*
 
 The cases we collect cannot cover all possible application scenarios. If you have other interesting discoveries 🔍, we welcome you to contact us to showcase more creativity 📧!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)

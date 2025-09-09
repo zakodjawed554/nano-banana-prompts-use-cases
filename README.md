@@ -19,10 +19,17 @@
 
 喜欢就点 ⭐ Star 收藏起来吧！
 
+## 📰 News
+
+- **Sep-9-2025:** 3️⃣ Third repository update
+- **Sep-3-2025:** 2️⃣ Second repository update
+- **Aug-28-2025:** 🎉 1️⃣ ${\color{red} First\ Awesome-Nano-Banana-images \ update!}$
+
 ## 📑 Menu
 
 - [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
   - [🍌 Introduction](#-introduction)
+  - [📰 News](#-news)
   - [📑 Menu](#-menu)
   - [🖼️ 例子](#️-例子)
     - [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
@@ -72,6 +79,27 @@
     - [例 45: 乐高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-乐高玩具小人by-zho_zho_zho)
     - [例 46: 高达模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高达模型小人by-zho_zho_zho)
     - [例 47: 硬件拆解图（by @AIimagined）](#例-47-硬件拆解图by-aiimagined)
+    - [例 48: 食物卡路里标注（by @icreatelife）](#例-48-食物卡路里标注by-icreatelife)
+    - [例 49: 提取信息并放置透明图层（by @nglprz）](#例-49-提取信息并放置透明图层by-nglprz)
+    - [例 50: 图像外扩修复（by @bwabbage）](#例-50-图像外扩修复by-bwabbage)
+    - [例 51: 古老地图生成古代场景（by @levelsio）](#例-51-古老地图生成古代场景by-levelsio)
+    - [例 52: 时尚服装拼贴画（by @tetumemo）](#例-52-时尚服装拼贴画by-tetumemo)
+    - [例 53: 精致可爱的产品照片（by @azed\_ai）](#例-53-精致可爱的产品照片by-azed_ai)
+    - [例 54: 动漫雕像放入现实（by @riddi0908）](#例-54-动漫雕像放入现实by-riddi0908)
+    - [例 55: 痛车制作（by @riddi0908）](#例-55-痛车制作by-riddi0908)
+    - [例 56: 漫画构图（by @namaedousiyoka）](#例-56-漫画构图by-namaedousiyoka)
+    - [例 57: 漫画风格转换（by @nobisiro\_2023）](#例-57-漫画风格转换by-nobisiro_2023)
+    - [例 58: 等距全息投影图（by @tetumemo）](#例-58-等距全息投影图by-tetumemo)
+    - [例 59: Minecraft 风格场景生成（by @tetumemo）](#例-59-minecraft-风格场景生成by-tetumemo)
+    - [例 60: 材质球赋予材质（by @ZHO\_ZHO\_ZHO）](#例-60-材质球赋予材质by-zho_zho_zho)
+    - [例 61: 平面图3D渲染（by @op7418）](#例-61-平面图3d渲染by-op7418)
+    - [例 62: 重置相机参数（by @hckinz）](#例-62-重置相机参数by-hckinz)
+    - [例 63: 制作证件照（by @songguoxiansen）](#例-63-制作证件照by-songguoxiansen)
+    - [例 64: 场景 A6 折叠卡（by @Gdgtify）](#例-64-场景-a6-折叠卡by-gdgtify)
+    - [例 65: 设计国际象棋（by @Gdgtify）](#例-65-设计国际象棋by-gdgtify)
+    - [例 66: 分割对照样式照片（by @fofrAI）](#例-66-分割对照样式照片by-fofrai)
+    - [例 67: 珠宝首饰设计（by @Gdgtify）](#例-67-珠宝首饰设计by-gdgtify)
+    - [例 68: 周边设计（by @0xFramer）](#例-68-周边设计by-0xframer)
   - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ 例子
@@ -861,7 +889,332 @@ Analyze this image. Use red pen to denote where you can improve
 数码单反相机的分解图，展示了其所有配件和内部组件，例如镜头、滤镜、内部组件、镜头、传感器、螺丝、按钮、取景器、外壳和电路板。保留了数码单反相机的红色装饰。
 ```
 
+<!-- 例 48: 食物卡路里标注（by @icreatelife） -->
+### 例 48: [食物卡路里标注](https://x.com/icreatelife/status/1963646757222715516)（by [@icreatelife](https://x.com/icreatelife)）
 
+| 输出 |
+|:---:|
+| <img src="images/case48/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张食物参考图像
+
+**提示词:**
+
+```
+用食物名称、卡路里密度和近似卡路里来注释这顿饭
+```
+
+<!-- 例 49: 提取信息并放置透明图层（by @nglprz） -->
+### 例 49: [提取信息并放置透明图层](https://x.com/nglprz/status/1961494974555394068)（by [@nglprz](https://x.com/icreatelife)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case49/input.jpg" width="300" alt="输入图片"> | <img src="images/case49/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+提取 [武士] 并放置透明背景
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要提取的对象**
+
+<!-- 例 50: 图像外扩修复（by @bwabbage） -->
+### 例 50: [图像外扩修复](https://x.com/bwabbage/status/1962903212937130450)（by [@bwabbage](https://x.com/bwabbage)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case50/input.jpg" width="300" alt="输入图片"> | <img src="images/case50/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张带有未知棋盘格信息的参考图像
+
+**提示词:**
+
+```
+将图像的棋盘格部分进行修复，恢复为完整图像
+```
+
+<!-- 例 51: 古老地图生成场景照片（by @levelsio） -->
+### 例 51: [古老地图生成古代场景](https://x.com/levelsio/status/1961595333034598487)（by [@levelsio](https://x.com/levelsio)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case51/input.jpg" width="300" alt="输入图片"> | <img src="images/case51/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张古代的参考图像
+
+**提示词:**
+
+```
+全彩照片。1660 年的新阿姆斯特丹。确保它是全现代色彩，就像它是今天拍摄的照片一样。
+```
+
+<!-- 例 52: 时尚服装拼贴画（by @tetumemo） -->
+### 例 52: [时尚服装拼贴画](https://x.com/tetumemo/status/1962480699904282861)（by [@tetumemo](https://x.com/tetumemo)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case52/input.jpg" width="300" alt="输入图片"> | <img src="images/case52/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+时尚情绪板拼贴画。用模特所穿单品的剪纸图案围绕肖像画。用俏皮的马克笔字体添加手写笔记和草图，并用英文标注每件单品的品牌名称和来源。整体美感应该兼具创意和可爱。
+```
+
+<!-- 例 53: 精致可爱的产品照片（by @azed_ai） -->
+### 例 53: [精致可爱的产品照片](https://x.com/azed_ai/status/1962878353784066342)（by [@azed_ai](https://x.com/azed_ai)）
+
+| 输出 |
+|:---:|
+| <img src="images/case53/output.jpg" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+一张高分辨率广告照片，一位男士用拇指和食指精心握着一件逼真的微型 [产品] 。背景干净清爽，摄影棚灯光，阴影柔和。手部造型精致，肤色自然，摆放位置凸显了产品的形状和细节。产品看起来极小，但细节丰富，品牌形象精准，位于画面中央，景深浅。模仿了奢侈品摄影和极简主义商业风格。
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要展示的产品**
+
+<!-- 例 54: 动漫雕像放入现实（by @riddi0908） -->
+### 例 54: [动漫雕像放入现实](https://x.com/riddi0908/status/1963758463135412699)（by [@riddi0908](https://x.com/riddi0908)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case54/input.jpg" width="300" alt="输入图片"> | <img src="images/case54/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+一幅写实的摄影作品。这个人的巨型雕像被安放在东京市中心的广场上，人们仰望着它。
+```
+
+<!-- 例 55: 痛车制作（by @riddi0908） -->
+### 例 55: [痛车制作](https://x.com/riddi0908/status/1963422536819249239)（by [@riddi0908](https://x.com/riddi0908)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case55/input.jpg" width="300" alt="输入图片"> | <img src="images/case55/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+打造一张专业的跑车照片，以动漫风格的人物图案作为“痛车”（彩绘汽车）的设计，拍摄地点为著名的旅游景点或地标。汽车上醒目的大型动漫人物插图，构图简洁干净。人物图案应采用鲜艳的动漫艺术风格，色彩大胆，细节清晰。将车辆放置在自然光线充足的知名旅游景点或风景区，以展现车辆的运动外观和人物图案。运用专业的汽车摄影技巧，并结合适当的景深，突出“痛车”图案，同时融入风景背景，提升旅游吸引力，适合用于促销或爱好者营销材料。
+```
+
+<!-- 例 56: 漫画构图（by @namaedousiyoka） -->
+### 例 56: [漫画构图](https://x.com/namaedousiyoka/status/1962461786181161340)（by [@namaedousiyoka](https://x.com/namaedousiyoka)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case56/input.jpg" width="200" alt="输入图片"> <img src="images/case56/input2.jpg" width="200" alt="输入图片">| <img src="images/case56/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像和场景构图参考图像
+
+<!-- 例 57: 漫画风格转换（by @nobisiro_2023） -->
+### 例 57: [漫画风格转换](https://x.com/nobisiro_2023/status/1961231347986698371)（by [@nobisiro_2023](https://x.com/nobisiro_2023)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case57/input.jpg" width="300" alt="输入图片"> |<img src="images/case57/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将输入的图片处理为黑白漫画风格线稿
+```
+
+<!-- 例 58: 等距全息投影图（by @tetumemo） -->
+### 例 58: [等距全息投影图](https://x.com/tetumemo/status/1964574226155000312)（by [@tetumemo](https://x.com/tetumemo)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case58/input.jpg" width="300" alt="输入图片"> |<img src="images/case58/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张线稿参考图像
+
+**提示词:**
+
+```
+根据上传的图像，仅用线框进行全息化
+```
+
+<!-- 例 59: Minecraft 风格场景生成（by @tetumemo） -->
+### 例 59: [Minecraft 风格场景生成](https://x.com/tetumemo/status/1964860047705743700)（by [@tetumemo](https://x.com/tetumemo)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case59/input.jpg" width="300" alt="输入图片"> |<img src="images/case59/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张google map参考图像
+
+**提示词:**
+
+```
+使用此位置将​​地标制作成游戏 Minecraft 的 HD-2D 风格的等距图像（仅建筑物）。
+```
+
+<!-- 例 60: 材质球赋予材质（by @ZHO_ZHO_ZHO） -->
+### 例 60: [材质球赋予材质](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 示例 |
+|:---:|
+| <img src="images/case60/case.jpg" width="300" alt="示例"> |
+
+
+**输入:** 需上传一张参考图像和一张材质球图像
+
+**提示词:**
+
+```
+将图2的材质用在图1的logo上，3d立体呈现，渲染c4d，纯色背景
+```
+
+<!-- 例 61: 平面图3D渲染（by @op7418） -->
+### 例 61: [平面图3D渲染](https://x.com/op7418/status/1961329148271513695)（by [@op7418](https://x.com/op7418)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case61/input.jpg" width="300" alt="输入图片"> |<img src="images/case61/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张平面参考图像
+
+**提示词:**
+
+```
+帮我把这个住宅平面图转换为房屋的等距照片级真实感 3D 渲染。
+```
+
+<!-- 例 62: 重置相机参数（by @hckinz） -->
+### 例 62: [重置相机参数](https://x.com/hckinz/status/1962803203063586895)（by [@hckinz](https://x.com/hckinz)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case62/input.jpg" width="300" alt="输入图片"> |<img src="images/case62/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+RAW-ISO [100] - [F28-1/200 24mm] 设置 
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要的相机参数**
+
+<!-- 例 63: 制作证件照（by @songguoxiansen） -->
+### 例 63: [制作证件照](https://x.com/songguoxiansen/status/1963602241610551609)（by [@songguoxiansen](https://x.com/songguoxiansen)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case63/input.jpg" width="300" alt="输入图片"> |<img src="images/case63/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张人物参考图像
+
+**提示词:**
+
+```
+截取图片人像头部，帮我做成2寸证件照，要求:
+  1、蓝底
+  2、职业正装
+  3、正脸
+  4、微笑
+```
+
+<!-- 例 64: 场景 A6 折叠卡（by @Gdgtify） -->
+### 例 64: [场景 A6 折叠卡](https://x.com/Gdgtify/status/19649795223709287319)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case64/input.jpg" width="300" alt="输入图片"> |<img src="images/case64/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+绘制一个 A6 折叠卡：打开时它会展示一个完整的 3D 球形小屋，里面有一座微型的纸花园和盆景树。
+```
+
+<!-- 例 65: 设计国际象棋（by @Gdgtify） -->
+### 例 65: [设计国际象棋](https://x.com/Gdgtify/status/1964679042994442454)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| 示例 |
+|:---:|
+| <img src="images/case65/case.jpg" width="300" alt="示例"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+绘制一个棋盘和受此图片启发的 3D 打印棋子
+```
+
+<!-- 例 66: 分割对照样式照片（by @fofrAI） -->
+### 例 66: [分割对照样式照片](https://x.com/fofrAI/status/1964818395381248397)（by [@fofrAI](https://x.com/fofrAI)）
+
+| 示例 |
+|:---:|
+| <img src="images/case66/case.jpg" width="300" alt="示例"> |
+
+**提示词:**
+
+```
+一张卧室的照片，从中间分开，左边是 2018 年，右边是 1964 年，是同一个房间
+```
+
+<!-- 例 67: 珠宝首饰设计（by @Gdgtify） -->
+### 例 67: [珠宝首饰设计](https://x.com/Gdgtify/status/1964419331342909777)（by [@Gdgtify](https://x.com/Gdgtify)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case67/input.jpg" width="300" alt="输入图片"> |<img src="images/case67/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将这张图像变成一条包含 5 件首饰的系列。
+```
+
+<!-- 例 68: 周边设计（by @0xFramer） -->
+### 例 68: [周边设计](https://x.com/0xFramer/status/1964992117324886349)（by [@0xFramer](https://x.com/0xFramer)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case68/input.jpg" width="300" alt="输入图片"> |<img src="images/case68/output.jpg" width="300" alt="输出结果"> |
+
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+用这个角色图像创建商品
+```
 
 ## 🙏 Acknowledge
 
@@ -893,7 +1246,20 @@ Analyze this image. Use red pen to denote where you can improve
 - [@TechHallo](https://x.com/techhalla)
 - [@tapehead_Lab](https://x.com/tapehead_Lab)
 - [@AIimagined](https://x.com/AIimagined)
+- [@0xFramer](https://x.com/0xFramer)
+- [@fofrAI](https://x.com/fofrAI)
+- [@songguoxiansen](https://x.com/songguoxiansen)
+- [@hckinz](https://x.com/hckinz)
+- [@tetumemo](https://x.com/tetumemo)
+- [@nobisiro_2023](https://x.com/nobisiro_2023)
+- [@namaedousiyoka](https://x.com/namaedousiyoka)
+- [@riddi0908](https://x.com/riddi0908)
+- [@azed_ai](https://x.com/azed_ai)
+- [@bwabbage](https://x.com/bwabbage)
+- [@nglprz](https://x.com/icreatelife)
 
 *我们不能保证所有案例都来自于原始作者，如果对您造成困扰，请随时与我们联系修改。*
 
 我们收集的案例无法覆盖所有可能的应用场景，如果大家有其他更有意思的发现🔍，欢迎大家与我们联系以展示更多创意📧！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)
