@@ -5,6 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
 [![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
+[![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
 
 </div>
 
@@ -31,6 +32,7 @@ If you like it, please ⭐ Star to bookmark it!
 
 - [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
   - [🍌 Introduction](#-introduction)
+  - [� News](#-news)
   - [📑 Menu](#-menu)
   - [🖼️ Cases](#️-cases)
     - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
