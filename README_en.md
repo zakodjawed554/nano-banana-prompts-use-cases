@@ -6,6 +6,7 @@
 [![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
+[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-green)](README_kr.md)
 
 </div>
 
