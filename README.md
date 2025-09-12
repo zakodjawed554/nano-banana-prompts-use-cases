@@ -111,7 +111,6 @@
 | 输入 | 输出 |
 |:---:|:---:|
 | <img src="images/case1/input0.jpg" width="200" alt="输入图片"> | <img src="images/case1/output0.jpg" width="200" alt="输出结果"> |
-| <img src="images/case1/input.jpg" width="200" alt="输入图片"> | <img src="images/case1/output.jpg" width="200" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片作为生成手办的对象
 
@@ -386,6 +385,9 @@
 | 输出 |
 |:---:|
 | <img src="images/case16/output.jpg" width="300" alt="输出结果"> |
+
+> [!CAUTION]
+> 标注结果中存在较多错误 ⚠️。请注意，Nano-Banana 的标注结果并非完全正确，在使用时务必仔细核实信息的准确性。
 
 **提示词:**
 

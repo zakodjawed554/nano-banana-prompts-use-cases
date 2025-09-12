@@ -32,7 +32,7 @@ If you like it, please ⭐ Star to bookmark it!
 
 - [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
   - [🍌 Introduction](#-introduction)
-  - [� News](#-news)
+  - [📰 News](#-news)
   - [📑 Menu](#-menu)
   - [🖼️ Cases](#️-cases)
     - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
@@ -113,7 +113,7 @@ If you like it, please ⭐ Star to bookmark it!
 | Input | Output |
 |:---:|:---:|
 | <img src="images/case1/input0.jpg" width="200" alt="Input Image"> | <img src="images/case1/output0.jpg" width="200" alt="Output Result"> |
-| <img src="images/case1/input.jpg" width="200" alt="Input Image"> | <img src="images/case1/output.jpg" width="200" alt="Output Result"> |
+
 
 **input:** Need to upload a reference image as the object for generating the figure
 
@@ -388,6 +388,9 @@ Generate avatars of this person with different hairstyles in a 3x3 grid format
 | Output |
 |:---:|
 | <img src="images/case16/output.jpg" width="300" alt="Output Result"> |
+
+> [!CAUTION]
+> There are a considerable number of errors in the annotation results ⚠️. Please note that the Nano-Banana annotations are not entirely accurate, and you should carefully verify the correctness of the information before using it.
 
 **prompt:**
 

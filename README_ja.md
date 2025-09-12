@@ -111,7 +111,6 @@ Nano-bananaの厳選画像ギャラリーへようこそ！🤗
 | 入力 | 出力 |
 |:---:|:---:|
 | <img src="images/case1/input0.jpg" width="200" alt="入力画像"> | <img src="images/case1/output0.jpg" width="200" alt="出力結果"> |
-| <img src="images/case1/input.jpg" width="200" alt="入力画像"> | <img src="images/case1/output.jpg" width="200" alt="出力結果"> |
 
 **入力:** フィギュア化したいキャラクターの参照画像をアップロードします。
 
@@ -371,6 +370,9 @@ Nano-bananaの厳選画像ギャラリーへようこそ！🤗
 | 出力 |
 |:---:|
 | <img src="images/case16/output.jpg" width="300" alt="出力結果"> |
+
+> [!CAUTION]
+> アノテーション結果には多くの誤りが含まれています ⚠️ Nano-Banana のアノテーション結果は完全に正確ではないため、ご利用の際には必ず情報の正確性を確認してください
 
 **プロンプト:**
 
