@@ -1,12 +1,12 @@
 <div align="center">
 
-# Awesome-Nano-Banana🍌-images
+<img src="images/logo.jpg"  alt="输入图片"> 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
 [![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
-[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-green)](README_kr.md)
+[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-blue)](README_kr.md)
 
 </div>
 
@@ -20,91 +20,111 @@ These cases mainly come from Twitter/X 🐦, Xiaohongshu 📕 and other self-med
 
 If you like it, please ⭐ Star to bookmark it!
 
-
 ## 📰 News
 
+- **Sep-16-2025:** 4️⃣ Fourth repository update
 - **Sep-9-2025:** 3️⃣ Third repository update
 - **Sep-3-2025:** 2️⃣ Second repository update
 - **Aug-28-2025:** 🎉 1️⃣ ${\color{red} First\ Awesome-Nano-Banana-images \ update!}$
 
-
-
 ## 📑 Menu
 
-- [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
-  - [🍌 Introduction](#-introduction)
-  - [📰 News](#-news)
-  - [📑 Menu](#-menu)
-  - [🖼️ Cases](#️-cases)
-    - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
-    - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
-    - [Case 3: Real World AR Information（by @bilawalsidhu）](#case-3-real-world-ar-informationby-bilawalsidhu)
-    - [Case 4: Extract 3D Buildings/Make Isometric Models（by @Zieeett）](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
-    - [Case 5: Photos of Yourself in Different Eras（by @AmirMushich）](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
-    - [Case 6: Multi-Reference Image Generation（by @MrDavids1）](#case-6-multi-reference-image-generationby-mrdavids1)
-    - [Case 7: Automatic Photo Editing（by @op7418）](#case-7-automatic-photo-editingby-op7418)
-    - [Case 8: Hand Drawing Controls Multi-Character Poses（by @op7418）](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
-    - [Case 9: Cross-View Image Generation（by @op7418）](#case-9-cross-view-image-generationby-op7418)
-    - [Case 10: Custom Character Stickers（by @op7418）](#case-10-custom-character-stickersby-op7418)
-    - [Case 11: Anime to Real Coser（by @ZHO\_ZHO\_ZHO）](#case-11-anime-to-real-coserby-zho_zho_zho)
-    - [Case 12: Generate Character Design（by @ZHO\_ZHO\_ZHO）](#case-12-generate-character-designby-zho_zho_zho)
-    - [Case 13: Color Line Art with Color Palette（by @ZHO\_ZHO\_ZHO）](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
-    - [Case 14: Article Infographic（by @黄建同学）](#case-14-article-infographicby-黄建同学)
-    - [Case 15: Change Multiple Hairstyles（by @balconychy）](#case-15-change-multiple-hairstylesby-balconychy)
-    - [Case 16: Model Annotation Explanation Diagram（by @berryxia\_ai）](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
-    - [Case 17: Custom Marble Sculpture（by @umesh\_ai）](#case-17-custom-marble-sculptureby-umesh_ai)
-    - [Case 18: Cook Based on Ingredients（by @Gdgtify）](#case-18-cook-based-on-ingredientsby-gdgtify)
-    - [Case 19: Math Problem Reasoning（by @Gorden Sun）](#case-19-math-problem-reasoningby-gorden-sun)
-    - [Case 20: Old Photo Colorization（by @GeminiApp）](#case-20-old-photo-colorizationby-geminiapp)
-    - [Case 21: OOTD Outfit（by @302.AI）](#case-21-ootd-outfitby-302ai)
-    - [Case 22: Character Clothing Change（by @skirano）](#case-22-character-clothing-changeby-skirano)
-    - [Case 23: Multi-View Result Generation（by @Error\_HTTP\_404）](#case-23-multi-view-result-generationby-error_http_404)
-    - [Case 24: Movie Storyboard（by @GeminiApp）](#case-24-movie-storyboardby-geminiapp)
-    - [Case 25: Character Pose Modification（by @arrakis\_ai）](#case-25-character-pose-modificationby-arrakis_ai)
-    - [Case 26: Generate image from line drawing（by @ZHO\_ZHO\_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
-    - [Case 27: Add Watermark to Image（by @AiMachete）](#case-27-add-watermark-to-imageby-aimachete)
-    - [Case 28: Knowledge Reasoning Image Generation（by @icreatelife）](#case-28-knowledge-reasoning-image-generationby-icreatelife)
-    - [Case 29: Red Pen Annotations（by @AiMachete）](#case-29-red-pen-annotationsby-aimachete)
-    - [Case 30: Explosive Food（by @icreatelife）](#case-30-explosive-foodby-icreatelife)
-    - [Case 31: Create Comic Book（by @icreatelife）](#case-31-create-comic-bookby-icreatelife)
-    - [Case 32: Action Figure（by @icreatelife）](#case-32-action-figureby-icreatelife)
-    - [Case 33: Map to Isometric Buildings（by @demishassabis）](#case-33-map-to-isometric-buildingsby-demishassabis)
-    - [Case 34: Reference Image Controls Character Expression（by @ZHO\_ZHO\_ZHO）](#case-34-reference-image-controls-character-expressionby-zho_zho_zho)
-    - [Case 35: Illustration Drawing Process Four-Panel（by @ZHO\_ZHO\_ZHO）](#case-35-illustration-drawing-process-four-panelby-zho_zho_zho)
-    - [Case 36: Virtual Makeup Try-On（by @ZHO\_ZHO\_ZHO）](#case-36-virtual-makeup-try-onby-zho_zho_zho)
-    - [Case 37: Makeup Analysis（by @ZHO\_ZHO\_ZHO）](#case-37-makeup-analysisby-zho_zho_zho)
-    - [Case 38: Google Maps View of Middle-earth（by @TechHallo）](#case-38-google-maps-view-of-middle-earthby-techhallo)
-    - [Case 39: Typographic Illustration Generation（by @Umesh）](#case-39-typographic-illustration-generationby-umesh)
-    - [Case 40: Multiple Character Poses Generation（by @tapehead\_Lab）](#case-40-multiple-character-poses-generationby-tapehead_lab)
-    - [Case 41: Product Packaging Generation（by @ZHO\_ZHO\_ZHO）](#case-41-product-packaging-generationby-zho_zho_zho)
-    - [Case 42: Overlay Filter/Material（by @ZHO\_ZHO\_ZHO）](#case-42-overlay-filtermaterialby-zho_zho_zho)
-    - [Case 43: Control Character Face Shape（by @ZHO\_ZHO\_ZHO）](#case-43-control-character-face-shapeby-zho_zho_zho)
-    - [Case 44: Lighting Control（by @ZHO\_ZHO\_ZHO）](#case-44-lighting-controlby-zho_zho_zho)
-    - [Case 45: LEGO Minifigure（by @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
-    - [Case 46: Gundam Model Figure（by @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
-    - [Case 47: Hardware Exploded View（by @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
-    - [Case 48: Food Calorie Annotation（by @icreatelife）](#case-48-food-calorie-annotationby-icreatelife)
-    - [Case 49: Extract Subject and Place on Transparent Layer（by @nglprz）](#case-49-extract-subject-and-place-on-transparent-layerby-nglprz)
-    - [Case 50: Image Outpainting Repair（by @bwabbage）](#case-50-image-outpainting-repairby-bwabbage)
-    - [Case 51: Ancient Map → Historical Scene Photo（by @levelsio）](#case-51-ancient-map--historical-scene-photoby-levelsio)
-    - [Case 52: Fashion Moodboard Collage（by @tetumemo）](#case-52-fashion-moodboard-collageby-tetumemo)
-    - [Case 53: Delicate Cute Product Photo（by @azed\_ai）](#case-53-delicate-cute-product-photoby-azed_ai)
-    - [Case 54: Place Anime Statue in Real Life（by @riddi0908）](#case-54-place-anime-statue-in-real-lifeby-riddi0908)
-    - [Case 55: Create an Itasha Car（by @riddi0908）](#case-55-create-an-itasha-carby-riddi0908)
-    - [Case 56: Manga Composition（by @namaedousiyoka）](#case-56-manga-compositionby-namaedousiyoka)
-    - [Case 57: Manga Style Conversion（by @nobisiro\_2023）](#case-57-manga-style-conversionby-nobisiro_2023)
-    - [Case 58: Isometric Holographic Wireframe（by @tetumemo）](#case-58-isometric-holographic-wireframeby-tetumemo)
-    - [Case 59: Minecraft-Style Scene Generation（by @tetumemo）](#case-59-minecraft-style-scene-generationby-tetumemo)
-    - [Case 60: Apply Material Sphere to Logo（by @ZHO\_ZHO\_ZHO）](#case-60-apply-material-sphere-to-logoby-zho_zho_zho)
-    - [Case 61: Floor Plan 3D Render（by @op7418）](#case-61-floor-plan-3d-renderby-op7418)
-    - [Case 62: Reset Camera Parameters（by @hckinz）](#case-62-reset-camera-parametersby-hckinz)
-    - [Case 63: Create an ID Photo（by @songguoxiansen）](#case-63-create-an-id-photoby-songguoxiansen)
-    - [Case 64: Scene A6 Folding Card（by @Gdgtify）](#case-64-scene-a6-folding-cardby-gdgtify)
-    - [Case 65: Design a Chess Set（by @Gdgtify）](#case-65-design-a-chess-setby-gdgtify)
-    - [Case 66: Split-Contrast Style Photo（by @fofrAI）](#case-66-split-contrast-style-photoby-fofrai)
-    - [Case 67: Jewelry Collection Design（by @Gdgtify）](#case-67-jewelry-collection-designby-gdgtify)
-    - [Case 68: Merchandise Design（by @0xFramer）](#case-68-merchandise-designby-0xframer)
-  - [🙏 Acknowledge](#-acknowledge)
+- [🍌 Introduction](#-introduction)
+- [📰 News](#-news)
+- [📑 Menu](#-menu)
+- [🖼️ Cases](#️-cases)
+  - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
+  - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
+  - [Case 3: Real World AR Information（by @bilawalsidhu）](#case-3-real-world-ar-informationby-bilawalsidhu)
+  - [Case 4: Extract 3D Buildings/Make Isometric Models（by @Zieeett）](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
+  - [Case 5: Photos of Yourself in Different Eras（by @AmirMushich）](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
+  - [Case 6: Multi-Reference Image Generation（by @MrDavids1）](#case-6-multi-reference-image-generationby-mrdavids1)
+  - [Case 7: Automatic Photo Editing（by @op7418）](#case-7-automatic-photo-editingby-op7418)
+  - [Case 8: Hand Drawing Controls Multi-Character Poses（by @op7418）](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
+  - [Case 9: Cross-View Image Generation（by @op7418）](#case-9-cross-view-image-generationby-op7418)
+  - [Case 10: Custom Character Stickers（by @op7418）](#case-10-custom-character-stickersby-op7418)
+  - [Case 11: Anime to Real Coser（by @ZHO\_ZHO\_ZHO）](#case-11-anime-to-real-coserby-zho_zho_zho)
+  - [Case 12: Generate Character Design（by @ZHO\_ZHO\_ZHO）](#case-12-generate-character-designby-zho_zho_zho)
+  - [Case 13: Color Line Art with Color Palette（by @ZHO\_ZHO\_ZHO）](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
+  - [Case 14: Article Infographic（by @黄建同学）](#case-14-article-infographicby-黄建同学)
+  - [Case 15: Change Multiple Hairstyles（by @balconychy）](#case-15-change-multiple-hairstylesby-balconychy)
+  - [Case 16: Model Annotation Explanation Diagram（by @berryxia\_ai）](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
+  - [Case 17: Custom Marble Sculpture（by @umesh\_ai）](#case-17-custom-marble-sculptureby-umesh_ai)
+  - [Case 18: Cook Based on Ingredients（by @Gdgtify）](#case-18-cook-based-on-ingredientsby-gdgtify)
+  - [Case 19: Math Problem Reasoning（by @Gorden Sun）](#case-19-math-problem-reasoningby-gorden-sun)
+  - [Case 20: Old Photo Colorization（by @GeminiApp）](#case-20-old-photo-colorizationby-geminiapp)
+  - [Case 21: OOTD Outfit（by @302.AI）](#case-21-ootd-outfitby-302ai)
+  - [Case 22: Character Clothing Change（by @skirano）](#case-22-character-clothing-changeby-skirano)
+  - [Case 23: Multi-View Result Generation（by @Error\_HTTP\_404）](#case-23-multi-view-result-generationby-error_http_404)
+  - [Case 24: Movie Storyboard（by @GeminiApp）](#case-24-movie-storyboardby-geminiapp)
+  - [Case 25: Character Pose Modification（by @arrakis\_ai）](#case-25-character-pose-modificationby-arrakis_ai)
+  - [Case 26: Generate image from line drawing（by @ZHO\_ZHO\_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
+  - [Case 27: Add Watermark to Image（by @AiMachete）](#case-27-add-watermark-to-imageby-aimachete)
+  - [Case 28: Knowledge Reasoning Image Generation（by @icreatelife）](#case-28-knowledge-reasoning-image-generationby-icreatelife)
+  - [Case 29: Red Pen Annotations（by @AiMachete）](#case-29-red-pen-annotationsby-aimachete)
+  - [Case 30: Explosive Food（by @icreatelife）](#case-30-explosive-foodby-icreatelife)
+  - [Case 31: Create Comic Book（by @icreatelife）](#case-31-create-comic-bookby-icreatelife)
+  - [Case 32: Action Figure（by @icreatelife）](#case-32-action-figureby-icreatelife)
+  - [Case 33: Map to Isometric Buildings（by @demishassabis）](#case-33-map-to-isometric-buildingsby-demishassabis)
+  - [Case 34: Reference Image Controls Character Expression（by @ZHO\_ZHO\_ZHO）](#case-34-reference-image-controls-character-expressionby-zho_zho_zho)
+  - [Case 35: Illustration Drawing Process Four-Panel（by @ZHO\_ZHO\_ZHO）](#case-35-illustration-drawing-process-four-panelby-zho_zho_zho)
+  - [Case 36: Virtual Makeup Try-On（by @ZHO\_ZHO\_ZHO）](#case-36-virtual-makeup-try-onby-zho_zho_zho)
+  - [Case 37: Makeup Analysis（by @ZHO\_ZHO\_ZHO）](#case-37-makeup-analysisby-zho_zho_zho)
+  - [Case 38: Google Maps View of Middle-earth（by @TechHallo）](#case-38-google-maps-view-of-middle-earthby-techhallo)
+  - [Case 39: Typographic Illustration Generation（by @Umesh）](#case-39-typographic-illustration-generationby-umesh)
+  - [Case 40: Multiple Character Poses Generation（by @tapehead\_Lab）](#case-40-multiple-character-poses-generationby-tapehead_lab)
+  - [Case 41: Product Packaging Generation（by @ZHO\_ZHO\_ZHO）](#case-41-product-packaging-generationby-zho_zho_zho)
+  - [Case 42: Overlay Filter/Material（by @ZHO\_ZHO\_ZHO）](#case-42-overlay-filtermaterialby-zho_zho_zho)
+  - [Case 43: Control Character Face Shape（by @ZHO\_ZHO\_ZHO）](#case-43-control-character-face-shapeby-zho_zho_zho)
+  - [Case 44: Lighting Control（by @ZHO\_ZHO\_ZHO）](#case-44-lighting-controlby-zho_zho_zho)
+  - [Case 45: LEGO Minifigure（by @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
+  - [Case 46: Gundam Model Figure（by @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
+  - [Case 47: Hardware Exploded View（by @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
+  - [Case 48: Food Calorie Annotation（by @icreatelife）](#case-48-food-calorie-annotationby-icreatelife)
+  - [Case 49: Extract Subject and Place on Transparent Layer（by @nglprz）](#case-49-extract-subject-and-place-on-transparent-layerby-nglprz)
+  - [Case 50: Image Outpainting Repair（by @bwabbage）](#case-50-image-outpainting-repairby-bwabbage)
+  - [Case 51: Ancient Map → Historical Scene Photo（by @levelsio）](#case-51-ancient-map--historical-scene-photoby-levelsio)
+  - [Case 52: Fashion Moodboard Collage（by @tetumemo）](#case-52-fashion-moodboard-collageby-tetumemo)
+  - [Case 53: Delicate Cute Product Photo（by @azed\_ai）](#case-53-delicate-cute-product-photoby-azed_ai)
+  - [Case 54: Place Anime Statue in Real Life（by @riddi0908）](#case-54-place-anime-statue-in-real-lifeby-riddi0908)
+  - [Case 55: Create an Itasha Car（by @riddi0908）](#case-55-create-an-itasha-carby-riddi0908)
+  - [Case 56: Manga Composition（by @namaedousiyoka）](#case-56-manga-compositionby-namaedousiyoka)
+  - [Case 57: Manga Style Conversion（by @nobisiro\_2023）](#case-57-manga-style-conversionby-nobisiro_2023)
+  - [Case 58: Isometric Holographic Wireframe（by @tetumemo）](#case-58-isometric-holographic-wireframeby-tetumemo)
+  - [Case 59: Minecraft-Style Scene Generation（by @tetumemo）](#case-59-minecraft-style-scene-generationby-tetumemo)
+  - [Case 60: Apply Material Sphere to Logo（by @ZHO\_ZHO\_ZHO）](#case-60-apply-material-sphere-to-logoby-zho_zho_zho)
+  - [Case 61: Floor Plan 3D Render（by @op7418）](#case-61-floor-plan-3d-renderby-op7418)
+  - [Case 62: Reset Camera Parameters（by @hckinz）](#case-62-reset-camera-parametersby-hckinz)
+  - [Case 63: Create an ID Photo（by @songguoxiansen）](#case-63-create-an-id-photoby-songguoxiansen)
+  - [Case 64: Scene A6 Folding Card（by @Gdgtify）](#case-64-scene-a6-folding-cardby-gdgtify)
+  - [Case 65: Design a Chess Set（by @Gdgtify）](#case-65-design-a-chess-setby-gdgtify)
+  - [Case 66: Split-Contrast Style Photo（by @fofrAI）](#case-66-split-contrast-style-photoby-fofrai)
+  - [Case 67: Jewelry Collection Design（by @Gdgtify）](#case-67-jewelry-collection-designby-gdgtify)
+  - [Case 68: Merchandise Design（by @0xFramer）](#case-68-merchandise-designby-0xframer)
+  - [Example 69: Model Holographic Projection (by @UNIBRACITY)](#example-69-model-holographic-projection-by-unibracity)
+  - [Example 70: Giant Figure Scaffolding (by @songguoxiansen)](#example-70-giant-figure-scaffolding-by-songguoxiansen)
+  - [Example 71: Building Extraction from Remote Sensing Image (by @lehua555)](#example-71-building-extraction-from-remote-sensing-image-by-lehua555)
+  - [Example 72: Component Extraction (by @tetumemo)](#example-72-component-extraction-by-tetumemo)
+  - [Example 73: Remove Burger Ingredients (by @bind\_lux, case provided by @jeanlucaslima)](#example-73-remove-burger-ingredients-by-bind_lux-case-provided-by-jeanlucaslima)
+  - [Example 74: High-Resolution Image Restoration (by @op7418)](#example-74-high-resolution-image-restoration-by-op7418)
+  - [Example 75: Generate Miniature Scene from Image (by @techhalla)](#example-75-generate-miniature-scene-from-image-by-techhalla)
+  - [Example 76: Educational Comic (by @op7418)](#example-76-educational-comic-by-op7418)
+  - [Example 77: Custom Character Emoji Pack Generation (by @vista8)](#example-77-custom-character-emoji-pack-generation-by-vista8)
+  - [Example 78: Restore Partially Eaten Food (by @googlejapan)](#example-78-restore-partially-eaten-food-by-googlejapan)
+  - [Example 79: Fighting Game Interface Creation (by @NanoBanana\_labs)](#example-79-fighting-game-interface-creation-by-nanobanana_labs)
+  - [Example 80: Model Cross-Section (by @old\_pgmrs\_will)](#example-80-model-cross-section-by-old_pgmrs_will)
+  - [Example 81: Pirate Wanted Poster (by @AI\_Kei75)](#example-81-pirate-wanted-poster-by-ai_kei75)
+  - [Example 82: Merchandise Display Shelf (by @tokyo\_Valentine)](#example-82-merchandise-display-shelf-by-tokyo_valentine)
+  - [Example 83: Comic Convention Booth (by @tokyo\_Valentine)](#example-83-comic-convention-booth-by-tokyo_valentine)
+  - [Example 84: Line Art to Doodle Drawing (by @hAru\_mAki\_ch)](#example-84-line-art-to-doodle-drawing-by-haru_maki_ch)
+  - [Example 85: Contemporary Art Exhibition Space (by @UNIBRACITY)](#example-85-contemporary-art-exhibition-space-by-unibracity)
+  - [Example 86: Dark Gothic Tarot Card (by @ImperfectEngel)](#example-86-dark-gothic-tarot-card-by-imperfectengel)
+  - [Example 87: Black and White Evolution Chart (by @ZHO\_ZHO\_ZHO)](#example-87-black-and-white-evolution-chart-by-zho_zho_zho)
+  - [Example 88: Glass Bottle Souvenir (by @NanoBanana\_labs)](#example-88-glass-bottle-souvenir-by-nanobanana_labs)
+  - [Example 89: Miniature Store (by @NanoBanana\_labs)](#example-89-miniature-store-by-nanobanana_labs)
+  - [Example 90: Become a Vtuber (by @AI\_Kei75)](#example-90-become-a-vtuber-by-ai_kei75)
+  - [Example 91: Train Station Movie Poster (by @AI\_Kei75)](#example-91-train-station-movie-poster-by-ai_kei75)
+- [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ Cases
 
@@ -1217,6 +1237,517 @@ Transform this image into a 5-piece jewelry collection.
 Create merchandise using this character image.
 ```
 
+<!-- Example 69: Model Holographic Projection (by @UNIBRACITY) -->
+### Example 69: [Model Holographic Projection](https://x.com/UNIBRACITY/status/1966122746288681461) (by [@UNIBRACITY](https://x.com/UNIBRACITY))
+
+| Output |
+|:---:|
+|<img src="images/case69/output.png" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+Ultra-realistic product photo.  
+Subject: virtual holographic character [CHARACTER], floating above a circular hologram projector Ø120 mm placed on a modern desk.  
+
+Projection source rules:  
+- If input reference is a 3D object → show a desktop 3D scanner beside the projector.  
+  Place the reference object on the scanner plate.  
+  The hologram above the projector is generated from this scanned object.  
+- If input reference is a 2D image → show a modern PC with monitor on the desk.  
+  Display the reference image on the monitor screen.  
+  The hologram above the projector is generated from this screen content.  
+
+Hologram rendering rules:  
+- Character always appears as a semi-transparent volumetric image, background faintly visible through.  
+- No beams, no particles, no solid statue surfaces.  
+- Balanced anatomy (1/7–1/8 head-to-body ratio), correct proportions.  
+- Natural pose with clear silhouette.  
+- Hair, outfit folds, and accessories visible but translucent.  
+- Face crisp and expressive, readable at 1000 px crop.  
+- No copyrighted characters, no branded designs, no IP logos.  
+
+Environment: modern desk with projector base + conditional device (scanner or monitor).  
+Camera: 85–100 mm lens, 3/4 hero angle, eye-level, f/11–f/16, ISO100, tripod.  
+Lighting: desk softly illuminated; holographic figure defined only by volumetric light.  
+Background: seamless black studio with subtle reflections.  
+
+Output: 4:5, 2048×2560.  
+
+Negative: text-free, watermark-free, logo-free, brand-free, copyrighted characters, franchise IP, trademarked designs, resin, PVC, physical statue, opaque surfaces, toy gloss, beams, scanlines, dots, distortion, extra digits.  
+Sampling: deterministic, seed=12345, temperature=0.
+```
+
+> [!NOTE]
+> **Replace the text inside [brackets] with your input character**
+
+<!-- Example 70: Giant Figure Scaffolding (by @songguoxiansen) -->
+### Example 70: [Giant Figure Scaffolding](https://x.com/songguoxiansen/status/1965960484684968234) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case70/input.png" width="300" alt="Input image"> | <img src="images/case70/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference photo of a person must be uploaded.
+
+**Prompt:**
+
+```
+A hyper-realistic 3D render of the person in the image standing and taking a selfie. 
+The giant figure is surrounded by massive scaffolding, with many tiny construction workers working on it. 
+The scene is set in a city square, surrounded by modern buildings, moving vehicles (cars, buses), pedestrians, 
+and a bright clear blue sky. The overall details are rich, presenting a photo-realistic texture with cinematic lighting effects.
+```
+
+<!-- Example 71: Building Extraction from Remote Sensing Image (by @lehua555) -->
+### Example 71: [Building Extraction from Remote Sensing Image](https://x.com/lehua555/status/1966124995949863310) (by [@lehua555](https://x.com/lehua555))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case71/input.png" width="300" alt="Input image"> | <img src="images/case71/output.png" width="300" alt="Output result"> |
+
+**Input:** A remote sensing image must be uploaded.
+
+**Prompt:**
+
+```
+Remove everything in the image except the buildings.
+```
+
+<!-- Example 72: Component Extraction (by @tetumemo) -->
+### Example 72: [Component Extraction](https://x.com/tetumemo/status/1965721026849018141) (by [@tetumemo](https://x.com/tetumemo))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case72/input.png" width="300" alt="Input image"> | <img src="images/case72/output.png" width="300" alt="Output result"> |
+
+**Input:** An image of a model must be uploaded.
+
+**Prompt:**
+
+```
+Cut out each component and create a model sheet that retains the hologram.
+```
+
+<!-- Example 73: Remove Burger Ingredients (by @bind_lux) -->
+### Example 73: [Remove Burger Ingredients](https://x.com/bind_lux/status/1965869157125402654) (by [@bind_lux](https://x.com/bind_lux), case provided by [@jeanlucaslima](https://github.com/jeanlucaslima))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case73/input.jpg" width="300" alt="Input image"> | <img src="images/case73/output.jpg" width="300" alt="Output result"> |
+
+**Input:** An image of a burger must be uploaded.
+
+**Prompt:**
+
+```
+Remove all the ingredients from the burger and keep only the top and bottom buns. Leave a gap between them, keeping the same spacing as if the fillings were still inside.
+```
+
+<!-- Example 74: High-Resolution Image Restoration (by @op7418) -->
+### Example 74: [High-Resolution Image Restoration](https://x.com/op7418/status/1960540798573011209) (by [@op7418](https://x.com/op7418))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case74/input.png" width="300" alt="Input image"> | <img src="images/case74/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Enhance the resolution of this old image and add the appropriate texture details, reinterpreting it with modern anime techniques.
+```
+
+<!-- Example 75: Generate Miniature Scene from Image (by @techhalla) -->
+### Example 75: [Generate Miniature Scene from Image](https://x.com/techhalla/status/1962088250199163285) (by [@techhalla](https://x.com/techhalla))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case75/input.png" width="300" alt="Input image"> | <img src="images/case75/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Convert the image to isometric view
+```
+
+<!-- Example 76: Educational Comic (by @op7418) -->
+### Example 76: [Educational Comic](https://x.com/op7418/status/1961811274683310110) (by [@op7418](https://x.com/op7418))
+
+| Output |
+|:---:|
+| <img src="images/case76/output.png" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+Help me generate multiple 16:9 doodle-style images to explain the concept of "futures" to middle school students. The images should have a consistent colorful, thick-pencil hand-drawn style, be rich in information, feature English text, use solid color backgrounds, have outlines around the cards, and include uniform titles, similar to a PowerPoint presentation.
+```
+
+<!-- Example 77: Custom Character Emoji Pack Generation (by @vista8) -->
+### Example 77: [Custom Character Emoji Pack Generation](https://x.com/vista8/status/1966164427243458977) (by [@vista8](https://x.com/vista8))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case77/input.png" width="300" alt="Input image"> | <img src="images/case77/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Using the character from Image 2, generate [x] emoji stickers based on various poses from Image 1.
+```
+
+> [!NOTE]  
+> **Replace the text inside [brackets] with the desired number of emoji stickers**
+
+<!-- Example 78: Restore Partially Eaten Food (by @googlejapan) -->
+### Example 78: [Restore Partially Eaten Food](https://x.com/googlejapan/status/1965762180688584916) (by [@googlejapan](https://x.com/googlejapan))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case78/input.png" width="300" alt="Input image"> | <img src="images/case78/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Restore this half-eaten [XX] back to its original uneaten state.
+```
+
+> [!NOTE]  
+> **Replace the text inside [brackets] with the name of the food**
+
+<!-- Example 79: Fighting Game Interface Creation (by @NanoBanana_labs) -->
+### Example 79: [Fighting Game Interface Creation](https://x.com/NanoBanana_labs/status/1965827209534517654) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case79/input.png" width="300" alt="Input image"> | <img src="images/case79/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Create a mid motion actionscene where both subject are in focuswith aThree-Quarter Angle in martial artsfighting stances. They are in the samecinematic scene. Remove the line downthe centre with a blurred crumbling ruins ina purple alien world in the background. Thescene is shot at sunrise. Modern Fightinggame health bars MORDON V'S DEATHSEED. power move. Hud style screeneffects.Add a thumbnail of each characterto the health bars. ense flares!
+```
+
+<!-- Example 80: Model Cross-Section (by @old_pgmrs_will) -->
+### Example 80: [Model Cross-Section](https://x.com/old_pgmrs_will/status/1966053092371444029) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case80/input.png" width="300" alt="Input image"> | <img src="images/case80/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Create a cutaway visualization of this car, show exterior intact on one side, and interior engine + seats exposed on the other side. Keep proportions accurate and details realistic.
+```
+
+<!-- Example 81: Pirate Wanted Poster (by @AI_Kei75) -->
+### Example 81: [Pirate Wanted Poster](https://x.com/old_pgmrs_will/status/1966053092371444029) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case81/input.png" width="300" alt="Input image"> | <img src="images/case81/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Using the original image, recreate a pirate's wanted poster drawn on parchment.
+Brown monochrome, with the texture of aged parchment.
+Retain the style and character design of the original image down to the smallest detail, and paste it large at the top of the wanted poster.
+A close-up of the face. Have the character wear a pirate hat.
+Write the bounty amount at the bottom of the poster. The bounty amount will be random, and a fictitious currency unit will be used.
+Below the bounty amount, write the crime in small letters. Use a fictitious language. English or Chinese characters may not be used.
+```
+
+<!-- Example 82: Merchandise Display Shelf (by @tokyo_Valentine) -->
+### Example 82: [Merchandise Display Shelf](https://x.com/tokyo_Valentine/status/1966888938838298727) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case82/input.png" width="300" alt="Input image"> | <img src="images/case82/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Remove the background from this illustration and turn it into merchandise like figurines.
+Image: Photorealistic
+Location:
+The shelves of a fictional convenience store that doesn't exist in Japan. The cute, pop atmosphere is complemented by neatly arranged merchandise featuring the illustration. The store's interior is dreamily bright and special, creating a special space that excites fans.
+
+Characters:
+These merchandise are displayed on the shelves.
+
+Merchandise Lineup:
+Two large, approximately 50cm-long figures in the center of the screen (for a striking display)
+Acrylic stands (deformed versions of the original artwork)
+
+Chibi figures (deformed versions of the original artwork)
+
+Dakimakura pillows (large prints for a striking presence)
+
+Jigsaw puzzles (visual art of the characters)
+
+Stationery (notebooks, pens, clear files, etc., deformed versions of the original artwork)
+
+Cardboards (deformed versions of the original artwork)
+
+Plush toys (deformed versions of the original artwork)
+
+Display:
+The merchandise are neatly arranged on the shelves, maintaining the atmosphere of a convenience store while still filling the space with love for the characters. They're arranged in a way that teenage female fans can't help but want to pick them up.
+
+Overall tone:
+A dreamlike merchandise sales space. Cuteness and pop are at the forefront, and despite being a convenience store, it's presented as a "holy land for fan activities."
+Resolution: 4K, 4000px: 3000px
+```
+
+<!-- Example 83: Comic Convention Booth (by @tokyo_Valentine) -->
+### Example 83: [Comic Convention Booth](https://x.com/tokyo_Valentine/status/1967174466636792287) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case83/input.png" width="300" alt="Input image"> | <img src="images/case83/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Erase the background and replace the characters with the following:
+
+Cosplayers and Character Goods
+
+Character/Motif:
+Character goods based on the illustration
+
+Hairstyle, Eyes, and Appearance:
+(Focus on merchandise, not the character itself.)
+
+Main Character: A cosplayer is holding a figurine in the center of the screen.
+
+Location:
+Comic Market (a doujinshi sales event).
+A spacious booth is filled with merchandise lined up on tables and shelves. The atmosphere is filled with excitement and anticipation.
+
+Merchandise Lineup:
+• A large, approximately 100cm figure is displayed in the center of the booth, creating an eye-catching display.
+• The character is displayed on an 80-inch LCD panel.
+• Acrylic Stands
+• Chibi Figures (Deformed)
+• Body Pillows (Large, Full-Length Character Print)
+• Jigsaw Puzzles (Using Character Artwork)
+• Stationery (Notebooks, Pens, Clear Files, etc.)
+• Desk Pads
+• Plush Toys (Deformed)
+Exhibition/Display:
+• Goods neatly arranged throughout the booth, creating a unified look.
+• Utilizing desks and shelves reminiscent of doujinshi sales events, the layout encourages fans to pick up items.
+• With the energy of the visitors as a backdrop, the venue is presented as a special "fan sanctuary."
+Overall Tone:
+A dreamlike sales space.
+While emphasizing cuteness and pop, the space evokes the unique enthusiasm of doujin events and the feeling of a "sanctuary for fan activities."
+Swarms of people.
+
+Image Quality:
+Photorealistic, 4K (4000px x 3000px)
+```
+
+<!-- Example 84: Line Art to Doodle Drawing (by @hAru_mAki_ch) -->
+### Example 84: [Line Art to Doodle Drawing](https://x.com/hAru_mAki_ch/status/1966877088365113722) (by [@hAru_mAki_ch](https://x.com/hAru_mAki_ch))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case84/input.png" width="300" alt="Input image"> | <img src="images/case84/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Make the uploaded picture book look as if it was drawn by a five-year-old child.
+```
+
+<!-- Example 85: Contemporary Art Exhibition Space (by @UNIBRACITY) -->
+### Example 85: [Contemporary Art Exhibition Space](https://x.com/UNIBRACITY/status/1967129632093991164) (by [@UNIBRACITY](https://x.com/UNIBRACITY))
+
+| Example |
+|:---:|
+| <img src="images/case85/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+An avant-garde contemporary art exhibition space themed around the reference image.
+The entire exhibition hall (20.0 m x 20.0 m x 8.0 m) integrates architecture, lighting, flooring, walls, 
+and ceiling into the artistic expression.
+
+At the far end of the hall stands a massive wall 20 meters wide and 8 meters high. 
+In the center of this wall, the theme from the reference image is presented in a monumental artistic form. 
+The image is vivid and three-dimensional, rising toward the viewer, becoming the focal point of the entire space.
+
+A system-generated exhibition title plaque is installed below the central wall. 
+The title must be abstract, symbolic, and poetic, and must reflect a contemporary artwork. 
+No price display is provided.
+
+The floor is polished granite with a reflectance of 0.35–0.40. 
+Patterns and light derived from the reference image cascade across the surface of the work, 
+resonating with the entire space as if responding to the footsteps of visitors. 
+Tactile paving bricks are in a similar color, seamlessly integrated, but only 5 mm high, providing a clear texture. 
+The work extends in a straight line from the entrance to the wall, creating a pause point before the artwork. 
+After viewing, visitors are naturally guided to an opening on the right side (3 m wide x 3 m high). 
+In emergencies, floor-level emergency lighting ensures illumination of 1 lux.
+
+The left and right walls and the ceiling each reinterpret an abstract element from the reference image, 
+transforming the entire space into a single artwork. 
+The flow of color, form, and light unifies the experience into an artistic whole.
+
+Visitor capacity is limited to 8–25 people. 
+All visitors face the large wall, moving in a straight line and pausing at the designated point. 
+No one looks back toward the entrance. 
+Only one staff member is stationed near the right-side entrance beside the wall. 
+All faces are blurred to ensure anonymity.
+
+The composition is stable, with the central vanishing point always aligned with the center of the wall. 
+Verticality is within ±0.5°. 
+Floor reflections are precise, human figures appear natural. 
+Hands always show five fingers, eyes are symmetrical within a 3% margin. 
+Fabrics remain flat with no deformation.
+
+Forbidden content: Elements unrelated to the reference image, missing or broken tactile paving, 
+visitors facing the entrance, logos or watermarks, overcrowding, toy-like gloss, 2D flat projections, 
+neon glow, teal-orange tones, oversaturation, perspective collapse, mismatched reflections, 
+anatomical anomalies, extra limbs, distorted faces, excessive outlines, banding, or vignetting.
+
+DoD: The entire venue will be a contemporary artwork centered on the theme of the reference image, 
+with the innermost structure forming a unified experience. 
+The tactile paving synchronizes perfectly with the flow of light, creating a clear pause point. 
+Visitors are immersed in the space itself, and even in reproduction, SSIM will remain stable at 0.95 or above.
+```
+
+<!-- Example 86: Dark Gothic Tarot Card (by @ImperfectEngel) -->
+### Example 86: [Dark Gothic Tarot Card](https://x.com/ImperfectEngel/status/1961833518163481001) (by [@ImperfectEngel](https://x.com/ImperfectEngel))
+
+| Example |
+|:---:|
+| <img src="images/case86/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Generate a dark gothic tarot card featuring me from this image. Include [“AI Artist - Shira”] and [coffee, white fluffy chubby cat with pink bow, laptop, phone, headphones] as symbols, with moody shadows, intricate gothic borders, and mystical dark fantasy vibes.
+```
+
+> [!NOTE]  
+> **Replace the text inside [brackets] with your desired settings**
+
+<!-- Example 87: Black and White Evolution Chart (by @ZHO_ZHO_ZHO) -->
+### Example 87: [Black and White Evolution Chart](https://x.com/ZHO_ZHO_ZHO/status/1965816445008548213) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Output |
+|:---:|
+| <img src="images/case87/output.png" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+Generate an evolutionary progression chart in a minimalist black-and-white style, 
+showing the evolution from the earliest apes to humans and finally into a banana.
+```
+
+<!-- Example 88: Glass Bottle Souvenir (by @NanoBanana_labs) -->
+### Example 88: [Glass Bottle Souvenir](https://x.com/NanoBanana_labs/status/1967191346017673334) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Example |
+|:---:|
+| <img src="images/case88/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+A 1/7 scale commercialized collectible figure of the character from the photo, crafted in a highly realistic style. The figure is placed in a detailed beach environment with sand, seashells, and gentle ocean waves. The entire toy display is enclosed inside a clear souvenir glass bottle, giving it a premium miniature diorama look, with realistic lighting and shadows
+```
+
+<!-- Example 89: Miniature Store (by @NanoBanana_labs) -->
+### Example 89: [Miniature Store](https://x.com/NanoBanana_labs/status/1966791308321910922) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Output |
+|:---:|
+| <img src="images/case89/output.png" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+Tiny diorama shop for [BRAND]. Roof made of oversized [PRODUCT], big [BRAND] logo sign above the window, vendor handing a [PRODUCT] to a customer, ground covered with many [PRODUCT]. Hand-made polymer-clay look, studio macro photo, soft light, shallow depth of field, vertical 3:4
+```
+
+> [!NOTE]  
+> **Replace the text inside [brackets] with your desired product**
+
+<!-- Example 90: Become a Vtuber (by @AI_Kei75) -->
+### Example 90: [Become a Vtuber](https://x.com/AI_Kei75/status/1967490141578236329) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case90/input.png" width="300" alt="Input image"> | <img src="images/case90/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Create a fictional Vtuber and their streaming screen using the original image.
+The Vtuber's hairstyle and clothing will be faithfully reproduced from the original image.
+The Vtuber image will be 2.5D-like, so it is not necessary to perfectly reproduce the style of the original image. A moderate sense of three-dimensionality is also necessary.
+The Vtuber's facial expression and pose may be changed from the original image. Have the Vtuber hold a game controller.
+Place only the Vtuber's upper body in the bottom right of the screen. Place the streaming screen of the game being played in the center of the screen. Place the chat screen on the left side of the screen.
+The screen ratio is set to a larger size for the game screen, and the upper half of the Vtuber's body is displayed smaller.
+The background of the original image is completely ignored, as well as the original image pose.
+Add a fictional streaming platform and browser UI to the top and bottom of the screen.
+The aspect ratio of the generated image is independent of that of the original image.
+```
+
+<!-- Example 91: Train Station Movie Poster (by @AI_Kei75) -->
+### Example 91: [Train Station Movie Poster](https://x.com/AI_Kei75/status/1967498630467625127) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case91/input.png" width="300" alt="Input image"> | <img src="images/case91/output.png" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Create a movie poster using the original image. The genre of the movie will be determined based on the atmosphere of the original image.
+Regardless of whether the original image is anime or live-action, the style and character design of the original image will be maintained as perfectly as possible. However, poses and expressions may be changed to match the poster design. Other people and objects may also be added at this time.
+The final generated image will be photorealistic. This does not apply to the poster design, as it will be based on the original image.
+The scenery of the underground passage of a Japanese station where the poster is posted will be recreated in a realistic image. People passing through the underground passage will be added.
+The reflection of the poster is angled to make it look more realistic.
+```
+
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.
@@ -1258,6 +1789,17 @@ Thank you to the following users for sharing their amazing works. You can also v
 - [@azed_ai](https://x.com/azed_ai)
 - [@bwabbage](https://x.com/bwabbage)
 - [@nglprz](https://x.com/icreatelife)
+- [@UNIBRACITY](https://x.com/UNIBRACITY)
+- [@lehua555](https://x.com/lehua555)
+- [@bind_lux](https://x.com/bind_lux)
+- [@techhalla](https://x.com/techhalla)
+- [@vista8](https://x.com/vista8)
+- [@googlejapan](https://x.com/googlejapan)
+- [@NanoBanana_labs](https://x.com/NanoBanana_labs)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@AI_Kei75](https://x.com/AI_Kei75)
+- [@tokyo_Valentine](https://x.com/tokyo_Valentine)
+- [@ImperfectEngel](https://x.com/ImperfectEngel)
 *We cannot guarantee that all cases come from the original authors. If this causes you any inconvenience, please feel free to contact us for modifications.*
 
 The cases we collect cannot cover all possible application scenarios. If you have other interesting discoveries 🔍, we welcome you to contact us to showcase more creativity 📧!

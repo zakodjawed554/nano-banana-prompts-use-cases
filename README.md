@@ -1,15 +1,14 @@
 <div align="center">
 
-# Awesome-Nano-Banana🍌-images
+<img src="images/logo.jpg"  alt="输入图片"> 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
-[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-green)](README_kr.md)
+[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-blue)](README_kr.md)
 
 </div>
-
 
 ## 🍌 Introduction
 
@@ -23,86 +22,109 @@
 
 ## 📰 News
 
-- **Sep-9-2025:** 3️⃣ Third repository update
-- **Sep-3-2025:** 2️⃣ Second repository update
-- **Aug-28-2025:** 🎉 1️⃣ ${\color{red} First\ Awesome-Nano-Banana-images \ update!}$
+- **2025年9月16日：** 4️⃣ 第四次仓库更新
+- **2025年9月9日：** 3️⃣ 第三次仓库更新
+- **2025年9月3日：** 2️⃣ 第二次仓库更新
+- **2025年8月28日：** 🎉 1️⃣ ${\color{red} 第一次\ Awesome-Nano-Banana-images \ 更新!}$
 
 ## 📑 Menu
 
-- [Awesome-Nano-Banana🍌-images](#awesome-nano-banana-images)
-  - [🍌 Introduction](#-introduction)
-  - [📰 News](#-news)
-  - [📑 Menu](#-menu)
-  - [🖼️ 例子](#️-例子)
-    - [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
-    - [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
-    - [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
-    - [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
-    - [例 5: 不同时代自己的照片（by @AmirMushich）](#例-5-不同时代自己的照片by-amirmushich)
-    - [例 6: 多参考图像生成（by @MrDavids1）](#例-6-多参考图像生成by-mrdavids1)
-    - [例 7: 自动修图（by @op7418）](#例-7-自动修图by-op7418)
-    - [例 8: 手绘图控制多角色姿态（by @op7418）](#例-8-手绘图控制多角色姿态by-op7418)
-    - [例 9: 跨视角图像生成（by @op7418）](#例-9-跨视角图像生成by-op7418)
-    - [例 10: 定制人物贴纸（by @op7418）](#例-10-定制人物贴纸by-op7418)
-    - [例 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#例-11-动漫转真人coserby-zho_zho_zho)
-    - [例 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#例-12-生成角色设定by-zho_zho_zho)
-    - [例 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#例-13-色卡线稿上色by-zho_zho_zho)
-    - [例 14: 文章信息图（by @黄建同学）](#例-14-文章信息图by-黄建同学)
-    - [例 15: 更换多种发型（by @balconychy）](#例-15-更换多种发型by-balconychy)
-    - [例 16: 模型标注讲解图（by @berryxia\_ai）](#例-16-模型标注讲解图by-berryxia_ai)
-    - [例 17: 定制大理石雕塑（by @umesh\_ai）](#例-17-定制大理石雕塑by-umesh_ai)
-    - [例 18: 根据食材做菜（by @Gdgtify）](#例-18-根据食材做菜by-gdgtify)
-    - [例 19: 数学题推理（by @Gorden Sun）](#例-19-数学题推理by-gorden-sun)
-    - [例 20: 旧照片上色（by @GeminiApp）](#例-20-旧照片上色by-geminiapp)
-    - [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
-    - [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
-    - [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
-    - [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
-    - [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
-    - [例 26: 线稿图生成图像（by @ZHO\_ZHO\_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
-    - [例 27: 为图像添加水印（by @AiMachete）](#例-27-为图像添加水印by-aimachete)
-    - [例 28: 知识推理生成图像（by @icreatelife）](#例-28-知识推理生成图像by-icreatelife)
-    - [例 29: 红笔批注（by @AiMachete）](#例-29-红笔批注by-aimachete)
-    - [例 30: 爆炸的食物（by @icreatelife）](#例-30-爆炸的食物by-icreatelife)
-    - [例 31: 制作漫画书（by @icreatelife）](#例-31-制作漫画书by-icreatelife)
-    - [例 32: 动作人偶（by @icreatelife）](#例-32-动作人偶by-icreatelife)
-    - [例 33: 地图生成等距建筑（by @demishassabis）](#例-33-地图生成等距建筑by-demishassabis)
-    - [例 34: 参考图控制人物表情（by @ZHO\_ZHO\_ZHO）](#例-34-参考图控制人物表情by-zho_zho_zho)
-    - [例 35: 插画绘画过程四格（by @ZHO\_ZHO\_ZHO）](#例-35-插画绘画过程四格by-zho_zho_zho)
-    - [例 36: 虚拟试妆（by @ZHO\_ZHO\_ZHO）](#例-36-虚拟试妆by-zho_zho_zho)
-    - [例 37: 妆面分析（by @ZHO\_ZHO\_ZHO）](#例-37-妆面分析by-zho_zho_zho)
-    - [例 38: Google地图视角下的中土世界（by @TechHallo）](#例-38-google地图视角下的中土世界by-techhallo)
-    - [例 39: 印刷插画生成（by @Umesh）](#例-39-印刷插画生成by-umesh)
-    - [例 40: 超多人物姿势生成（by @tapehead\_Lab）](#例-40-超多人物姿势生成by-tapehead_lab)
-    - [例 41: 物品包装生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包装生成by-zho_zho_zho)
-    - [例 42: 叠加滤镜/材质（by @ZHO\_ZHO\_ZHO）](#例-42-叠加滤镜材质by-zho_zho_zho)
-    - [例 43: 控制人物脸型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物脸型by-zho_zho_zho)
-    - [例 44: 光影控制（by @ZHO\_ZHO\_ZHO）](#例-44-光影控制by-zho_zho_zho)
-    - [例 45: 乐高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-乐高玩具小人by-zho_zho_zho)
-    - [例 46: 高达模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高达模型小人by-zho_zho_zho)
-    - [例 47: 硬件拆解图（by @AIimagined）](#例-47-硬件拆解图by-aiimagined)
-    - [例 48: 食物卡路里标注（by @icreatelife）](#例-48-食物卡路里标注by-icreatelife)
-    - [例 49: 提取信息并放置透明图层（by @nglprz）](#例-49-提取信息并放置透明图层by-nglprz)
-    - [例 50: 图像外扩修复（by @bwabbage）](#例-50-图像外扩修复by-bwabbage)
-    - [例 51: 古老地图生成古代场景（by @levelsio）](#例-51-古老地图生成古代场景by-levelsio)
-    - [例 52: 时尚服装拼贴画（by @tetumemo）](#例-52-时尚服装拼贴画by-tetumemo)
-    - [例 53: 精致可爱的产品照片（by @azed\_ai）](#例-53-精致可爱的产品照片by-azed_ai)
-    - [例 54: 动漫雕像放入现实（by @riddi0908）](#例-54-动漫雕像放入现实by-riddi0908)
-    - [例 55: 痛车制作（by @riddi0908）](#例-55-痛车制作by-riddi0908)
-    - [例 56: 漫画构图（by @namaedousiyoka）](#例-56-漫画构图by-namaedousiyoka)
-    - [例 57: 漫画风格转换（by @nobisiro\_2023）](#例-57-漫画风格转换by-nobisiro_2023)
-    - [例 58: 等距全息投影图（by @tetumemo）](#例-58-等距全息投影图by-tetumemo)
-    - [例 59: Minecraft 风格场景生成（by @tetumemo）](#例-59-minecraft-风格场景生成by-tetumemo)
-    - [例 60: 材质球赋予材质（by @ZHO\_ZHO\_ZHO）](#例-60-材质球赋予材质by-zho_zho_zho)
-    - [例 61: 平面图3D渲染（by @op7418）](#例-61-平面图3d渲染by-op7418)
-    - [例 62: 重置相机参数（by @hckinz）](#例-62-重置相机参数by-hckinz)
-    - [例 63: 制作证件照（by @songguoxiansen）](#例-63-制作证件照by-songguoxiansen)
-    - [例 64: 场景 A6 折叠卡（by @Gdgtify）](#例-64-场景-a6-折叠卡by-gdgtify)
-    - [例 65: 设计国际象棋（by @Gdgtify）](#例-65-设计国际象棋by-gdgtify)
-    - [例 66: 分割对照样式照片（by @fofrAI）](#例-66-分割对照样式照片by-fofrai)
-    - [例 67: 珠宝首饰设计（by @Gdgtify）](#例-67-珠宝首饰设计by-gdgtify)
-    - [例 68: 周边设计（by @0xFramer）](#例-68-周边设计by-0xframer)
-  - [🙏 Acknowledge](#-acknowledge)
+- [🍌 Introduction](#-introduction)
+- [📰 News](#-news)
+- [📑 Menu](#-menu)
+- [🖼️ 例子](#️-例子)
+  - [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
+  - [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
+  - [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
+  - [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
+  - [例 5: 不同时代自己的照片（by @AmirMushich）](#例-5-不同时代自己的照片by-amirmushich)
+  - [例 6: 多参考图像生成（by @MrDavids1）](#例-6-多参考图像生成by-mrdavids1)
+  - [例 7: 自动修图（by @op7418）](#例-7-自动修图by-op7418)
+  - [例 8: 手绘图控制多角色姿态（by @op7418）](#例-8-手绘图控制多角色姿态by-op7418)
+  - [例 9: 跨视角图像生成（by @op7418）](#例-9-跨视角图像生成by-op7418)
+  - [例 10: 定制人物贴纸（by @op7418）](#例-10-定制人物贴纸by-op7418)
+  - [例 11: 动漫转真人Coser（by @ZHO\_ZHO\_ZHO）](#例-11-动漫转真人coserby-zho_zho_zho)
+  - [例 12: 生成角色设定（by @ZHO\_ZHO\_ZHO）](#例-12-生成角色设定by-zho_zho_zho)
+  - [例 13: 色卡线稿上色（by @ZHO\_ZHO\_ZHO）](#例-13-色卡线稿上色by-zho_zho_zho)
+  - [例 14: 文章信息图（by @黄建同学）](#例-14-文章信息图by-黄建同学)
+  - [例 15: 更换多种发型（by @balconychy）](#例-15-更换多种发型by-balconychy)
+  - [例 16: 模型标注讲解图（by @berryxia\_ai）](#例-16-模型标注讲解图by-berryxia_ai)
+  - [例 17: 定制大理石雕塑（by @umesh\_ai）](#例-17-定制大理石雕塑by-umesh_ai)
+  - [例 18: 根据食材做菜（by @Gdgtify）](#例-18-根据食材做菜by-gdgtify)
+  - [例 19: 数学题推理（by @Gorden Sun）](#例-19-数学题推理by-gorden-sun)
+  - [例 20: 旧照片上色（by @GeminiApp）](#例-20-旧照片上色by-geminiapp)
+  - [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
+  - [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
+  - [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
+  - [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
+  - [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
+  - [例 26: 线稿图生成图像（by @ZHO\_ZHO\_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
+  - [例 27: 为图像添加水印（by @AiMachete）](#例-27-为图像添加水印by-aimachete)
+  - [例 28: 知识推理生成图像（by @icreatelife）](#例-28-知识推理生成图像by-icreatelife)
+  - [例 29: 红笔批注（by @AiMachete）](#例-29-红笔批注by-aimachete)
+  - [例 30: 爆炸的食物（by @icreatelife）](#例-30-爆炸的食物by-icreatelife)
+  - [例 31: 制作漫画书（by @icreatelife）](#例-31-制作漫画书by-icreatelife)
+  - [例 32: 动作人偶（by @icreatelife）](#例-32-动作人偶by-icreatelife)
+  - [例 33: 地图生成等距建筑（by @demishassabis）](#例-33-地图生成等距建筑by-demishassabis)
+  - [例 34: 参考图控制人物表情（by @ZHO\_ZHO\_ZHO）](#例-34-参考图控制人物表情by-zho_zho_zho)
+  - [例 35: 插画绘画过程四格（by @ZHO\_ZHO\_ZHO）](#例-35-插画绘画过程四格by-zho_zho_zho)
+  - [例 36: 虚拟试妆（by @ZHO\_ZHO\_ZHO）](#例-36-虚拟试妆by-zho_zho_zho)
+  - [例 37: 妆面分析（by @ZHO\_ZHO\_ZHO）](#例-37-妆面分析by-zho_zho_zho)
+  - [例 38: Google地图视角下的中土世界（by @TechHallo）](#例-38-google地图视角下的中土世界by-techhallo)
+  - [例 39: 印刷插画生成（by @Umesh）](#例-39-印刷插画生成by-umesh)
+  - [例 40: 超多人物姿势生成（by @tapehead\_Lab）](#例-40-超多人物姿势生成by-tapehead_lab)
+  - [例 41: 物品包装生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包装生成by-zho_zho_zho)
+  - [例 42: 叠加滤镜/材质（by @ZHO\_ZHO\_ZHO）](#例-42-叠加滤镜材质by-zho_zho_zho)
+  - [例 43: 控制人物脸型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物脸型by-zho_zho_zho)
+  - [例 44: 光影控制（by @ZHO\_ZHO\_ZHO）](#例-44-光影控制by-zho_zho_zho)
+  - [例 45: 乐高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-乐高玩具小人by-zho_zho_zho)
+  - [例 46: 高达模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高达模型小人by-zho_zho_zho)
+  - [例 47: 硬件拆解图（by @AIimagined）](#例-47-硬件拆解图by-aiimagined)
+  - [例 48: 食物卡路里标注（by @icreatelife）](#例-48-食物卡路里标注by-icreatelife)
+  - [例 49: 提取信息并放置透明图层（by @nglprz）](#例-49-提取信息并放置透明图层by-nglprz)
+  - [例 50: 图像外扩修复（by @bwabbage）](#例-50-图像外扩修复by-bwabbage)
+  - [例 51: 古老地图生成古代场景（by @levelsio）](#例-51-古老地图生成古代场景by-levelsio)
+  - [例 52: 时尚服装拼贴画（by @tetumemo）](#例-52-时尚服装拼贴画by-tetumemo)
+  - [例 53: 精致可爱的产品照片（by @azed\_ai）](#例-53-精致可爱的产品照片by-azed_ai)
+  - [例 54: 动漫雕像放入现实（by @riddi0908）](#例-54-动漫雕像放入现实by-riddi0908)
+  - [例 55: 痛车制作（by @riddi0908）](#例-55-痛车制作by-riddi0908)
+  - [例 56: 漫画构图（by @namaedousiyoka）](#例-56-漫画构图by-namaedousiyoka)
+  - [例 57: 漫画风格转换（by @nobisiro\_2023）](#例-57-漫画风格转换by-nobisiro_2023)
+  - [例 58: 等距全息投影图（by @tetumemo）](#例-58-等距全息投影图by-tetumemo)
+  - [例 59: Minecraft 风格场景生成（by @tetumemo）](#例-59-minecraft-风格场景生成by-tetumemo)
+  - [例 60: 材质球赋予材质（by @ZHO\_ZHO\_ZHO）](#例-60-材质球赋予材质by-zho_zho_zho)
+  - [例 61: 平面图3D渲染（by @op7418）](#例-61-平面图3d渲染by-op7418)
+  - [例 62: 重置相机参数（by @hckinz）](#例-62-重置相机参数by-hckinz)
+  - [例 63: 制作证件照（by @songguoxiansen）](#例-63-制作证件照by-songguoxiansen)
+  - [例 64: 场景 A6 折叠卡（by @Gdgtify）](#例-64-场景-a6-折叠卡by-gdgtify)
+  - [例 65: 设计国际象棋（by @Gdgtify）](#例-65-设计国际象棋by-gdgtify)
+  - [例 66: 分割对照样式照片（by @fofrAI）](#例-66-分割对照样式照片by-fofrai)
+  - [例 67: 珠宝首饰设计（by @Gdgtify）](#例-67-珠宝首饰设计by-gdgtify)
+  - [例 68: 周边设计（by @0xFramer）](#例-68-周边设计by-0xframer)
+  - [例69：模型全息投影（by @UNIBRACITY）](#例69模型全息投影by-unibracity)
+  - [例70： 巨型人物脚手架（by @songguoxiansen）](#例70-巨型人物脚手架by-songguoxiansen)
+  - [例71： 遥感影像建筑物提取（by @lehua555）](#例71-遥感影像建筑物提取by-lehua555)
+  - [例72： 部件提取（by @tetumemo）](#例72-部件提取by-tetumemo)
+  - [例73： 移除汉堡的配料（by @bind\_lux，本案例由@jeanlucaslima提供）](#例73-移除汉堡的配料by-bind_lux本案例由jeanlucaslima提供)
+  - [例74：图像高清修复（by @op7418）](#例74图像高清修复by-op7418)
+  - [例75：图片生成微缩场景（by @techhalla）](#例75图片生成微缩场景by-techhalla)
+  - [例76：科普漫画（by @op7418）](#例76科普漫画by-op7418)
+  - [例77：自定义人物的表情包生成（by @vista8）](#例77自定义人物的表情包生成by-vista8)
+  - [例78：恢复被吃了部分的食物（by @googlejapan）](#例78恢复被吃了部分的食物by-googlejapan)
+  - [例79：格斗游戏界面制作（by @NanoBanana\_labs）](#例79格斗游戏界面制作by-nanobanana_labs)
+  - [例80：切割模型（by @old\_pgmrs\_will）](#例80切割模型by-old_pgmrs_will)
+  - [例81：海盗通缉书（by @AI\_Kei75）](#例81海盗通缉书by-ai_kei75)
+  - [例82：周边展示货架（by @tokyo\_Valentine）](#例82周边展示货架by-tokyo_valentine)
+  - [例83：漫展展台（by @tokyo\_Valentine）](#例83漫展展台by-tokyo_valentine)
+  - [例84：线稿转涂鸦画（by @tokyo\_Valentine）](#例84线稿转涂鸦画by-tokyo_valentine)
+  - [例85：现代美术展览空间（by @UNIBRACITY）](#例85现代美术展览空间by-unibracity)
+  - [例86：暗黑哥特塔罗牌（by @ImperfectEngel）](#例86暗黑哥特塔罗牌by-imperfectengel)
+  - [例87：黑白进化图（by @ZHO\_ZHO\_ZHO）](#例87黑白进化图by-zho_zho_zho)
+  - [例88：玻璃瓶纪念品（by @NanoBanana\_labs）](#例88玻璃瓶纪念品by-nanobanana_labs)
+  - [例89：微型商店（by @NanoBanana\_labs）](#例89微型商店by-nanobanana_labs)
+  - [例90：成为Vtuber（by @AI\_Kei75）](#例90成为vtuberby-ai_kei75)
+  - [例91：车站电影海报（by @AI\_Kei75）](#例91车站电影海报by-ai_kei75)
+- [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ 例子
 
@@ -1220,6 +1242,480 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 用这个角色图像创建商品
 ```
 
+<!-- 例 69: 模型全息投影（by @UNIBRACITY） -->
+### 例69：[模型全息投影](https://x.com/UNIBRACITY/status/1966122746288681461)（by [@UNIBRACITY](https://x.com/UNIBRACITY)）
+
+| 输出 |
+|:---:|
+|<img src="images/case69/output.png" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+超逼真的产品照片。
+主体：虚拟全息角色 [CHARACTER]，悬浮于现代桌面上直径 120 毫米的圆形全息投影仪上方。
+
+投影源规则：
+- 如果输入参考对象是 3D 物体，则在投影仪旁边放置一台桌面 3D 扫描仪。
+将参考对象放置在扫描板上。
+投影仪上方的全息图由扫描对象生成。
+- 如果输入参考对象是 2D 图像，则在桌面上放置一台带显示器的现代 PC。
+在显示器屏幕上显示参考图像。
+投影仪上方的全息图由该屏幕内容生成。
+
+全息图渲染规则：
+- 角色始终显示为半透明的体积图像，背景隐约可见。
+- 无光束、无粒子、无实体雕像表面。
+- 均衡的解剖结构（头身比例为 1/7-1/8），比例正确。
+- 姿势自然，轮廓清晰。
+- 头发、衣服褶皱和配饰可见但半透明。
+- 面部清晰富有表现力，在 1000 像素裁剪下清晰可读。
+- 无版权角色、无品牌设计、无 IP 标识。
+
+环境：现代办公桌，带投影仪底座 + 辅助设备（扫描仪或显示器）。
+相机：85-100 毫米镜头，3/4 英雄角，眼平，f/11-f/16，ISO100，三脚架。
+照明：桌面柔和照明；全息人物仅由体积光定义。
+背景：无缝黑色工作室，反射微妙。
+
+输出：4:5，2048×2560。
+
+负片：无文字、无水印、无标识、无品牌、版权角色、系列 IP、商标设计、树脂、PVC、实体雕像、不透明表面、玩具光泽、光束、扫描线、点、失真、多余数字。
+采样：确定性，Seed=12345，Temperature=0。
+```
+
+> [!NOTE]
+> **将 [方括号] 中的文字改为您输入的角色**
+
+<!-- 例 70: 巨型人物脚手架（by @songguoxiansen） -->
+### 例70： [巨型人物脚手架](https://x.com/songguoxiansen/status/1965960484684968234)（by [@songguoxiansen](https://x.com/songguoxiansen)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case70/input.png" width="300" alt="输入图片"> |<img src="images/case70/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张人物参考图像
+
+**提示词:**
+
+```
+图片中人物站着自拍的超写实3D渲染图。画面里这个巨型人物全身环绕着庞大的脚手架，脚手架上有许多身形微小的建筑工人正在作业。场景设定在一个城市广场，周围是现代化建筑，还有行驶中的交通工具（轿车、公交车）、行人，以及晴朗明亮的湛蓝天空。整体细节丰富，呈现出照片级的真实质感，且采用了电影级灯光效果。
+```
+
+<!-- 例 71: 遥感影像建筑物提取（by @lehua555） -->
+### 例71： [遥感影像建筑物提取](https://x.com/lehua555/status/1966124995949863310)（by [@lehua555](https://x.com/lehua555)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case71/input.png" width="300" alt="输入图片"> |<img src="images/case71/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张遥感图像
+
+**提示词:**
+
+```
+删除影像中除建筑以外的地方
+```
+
+<!-- 例 72: 部件提取（by @tetumemo） -->
+### 例72： [部件提取](https://x.com/tetumemo/status/1965721026849018141)（by [@tetumemo](https://x.com/tetumemo)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case72/input.png" width="300" alt="输入图片"> |<img src="images/case72/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张模型的图像
+
+**提示词:**
+
+```
+将各部件切割出来，制作成保留有全息图的模型表
+```
+
+<!-- 例 73: 移除汉堡的配料（by @bind_lux） -->
+### 例73： [移除汉堡的配料](https://x.com/bind_lux/status/1965869157125402654)（by [@bind_lux](https://x.com/bind_lux)，本案例由[@jeanlucaslima](https://github.com/jeanlucaslima)提供）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case73/input.jpg" width="300" alt="输入图片"> |<img src="images/case73/output.jpg" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张汉堡的图像
+
+**提示词:**
+
+```
+把汉堡里的所有配料都取出来，只留下上下两片面包。面包之间留出空隙，就像馅料还在里面一样。
+```
+
+<!-- 例 74：图像高清修复（by @op7418） -->
+### 例74：[图像高清修复](https://x.com/op7418/status/1960540798573011209)（by [@op7418](https://x.com/op7418)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case74/input.png" width="300" alt="输入图片"> |<img src="images/case74/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+增强这张老图像的分辨率并添加适当的纹理细节，用现代动漫技术重新诠释它。
+```
+
+<!-- 例 75：图片生成微缩场景（by @techhalla） -->
+### 例75：[图片生成微缩场景](https://x.com/techhalla/status/1962088250199163285)（by [@techhalla](https://x.com/techhalla)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case75/input.png" width="300" alt="输入图片"> |<img src="images/case75/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将图像转换为等距视图
+```
+
+<!-- 例 76：科普漫画（by @op7418） -->
+### 例76：[科普漫画](https://x.com/op7418/status/1961811274683310110)（by [@op7418](https://x.com/op7418)）
+
+| 输出 |
+|:---:|
+|<img src="images/case76/output.png" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+请帮我生成多张 16:9 的涂鸦风格图片，向中学生解释“未来”的概念。图片应采用一致的彩色粗铅笔手绘风格，信息丰富，包含英文文本，使用纯色背景，卡片周围有轮廓，并包含统一的标题，类似于 PowerPoint 演示文稿。
+```
+
+<!-- 例 77：自定义人物的表情包生成（by @vista8） -->
+### 例77：[自定义人物的表情包生成](https://x.com/vista8/status/1966164427243458977)（by [@vista8](https://x.com/vista8)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case77/input.png" width="300" alt="输入图片"> |<img src="images/case77/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+用图2形象，参图一的各种姿势生成 [x] 个表情包
+```
+> [!NOTE]
+> **将 [方括号] 中的文字改为需要的表情包数量**
+
+<!-- 例 78：恢复被吃了部分的食物（by @googlejapan） -->
+### 例78：[恢复被吃了部分的食物](https://x.com/googlejapan/status/1965762180688584916)（by [@googlejapan](https://x.com/googlejapan)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case78/input.png" width="300" alt="输入图片"> |<img src="images/case78/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+将这个吃了一半的 [XX] 恢复到吃之前的状态。
+```
+> [!NOTE]
+> **将 [方括号] 中的文字改为输入的食物名称**
+
+<!-- 例 79：格斗游戏界面制作（by @NanoBanana_labs） -->
+### 例79：[格斗游戏界面制作](https://x.com/NanoBanana_labs/status/1965827209534517654)（by [@NanoBanana_labs](https://x.com/NanoBanana_labs)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case79/input.png" width="300" alt="输入图片"> |<img src="images/case79/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+创建一个中速动作场景，让两个主体以四分之三视角清晰对焦，摆出武术格斗姿势。他们身处同一个电影场景中。移除中间的线条，背景中是紫色外星世界中模糊的摇摇欲坠的废墟。该场景拍摄于日出时分。现代格斗游戏生命值条，莫顿对决死亡种子。强力招式。HUD风格屏幕特效。在生命值条中添加每个角色的缩略图。炫酷炫光！
+```
+
+<!-- 例 80：切割模型（by @old_pgmrs_will） -->
+### 例80：[切割模型](https://x.com/old_pgmrs_will/status/1966053092371444029)（by [@old_pgmrs_will](https://x.com/old_pgmrs_will)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case80/input.png" width="300" alt="输入图片"> |<img src="images/case80/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+创建这辆车的剖面图，一侧显示完整的外部结构，另一侧显示内部发动机和座椅。保持比例准确，细节逼真。
+```
+
+<!-- 例 81：海盗通缉书（by @AI_Kei75） -->
+### 例81：[海盗通缉书](https://x.com/old_pgmrs_will/status/1966053092371444029)（by [@AI_Kei75](https://x.com/AI_Kei75)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case81/input.png" width="300" alt="输入图片"> |<img src="images/case81/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+使用原始图像，在羊皮纸上重新绘制一张海盗通缉令。
+棕色单色，带有陈旧羊皮纸的纹理。
+保留原始图像的风格和人物设计，直至最小的细节，并将其大尺寸粘贴在通缉令的顶部。
+脸部特写。让角色戴上海盗帽。
+在海报底部写上赏金金额。赏金金额将是随机的，并使用虚拟的货币单位。
+在赏金金额下方，用小写字母写出罪行。请使用虚拟语言。不得使用英文或中文。
+```
+
+<!-- 例 82：周边展示货架（by @tokyo_Valentine） -->
+### 例82：[周边展示货架](https://x.com/tokyo_Valentine/status/1966888938838298727)（by [@tokyo_Valentine](https://x.com/tokyo_Valentine)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case82/input.png" width="300" alt="输入图片"> |<img src="images/case82/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+移除这幅插画的背景，将其制作成类似手办的周边商品。
+图片：照片级写实
+地点：
+日本一家虚构的便利店的货架。可爱又流行的氛围与整齐摆放的插画周边商品相得益彰。店内空间梦幻般明亮，别具一格，营造出一个让粉丝们兴奋不已的特殊空间。
+
+人物：
+这些周边商品陈列在货架上。
+
+周边商品：
+屏幕中央摆放着两个约50厘米长的大型人偶（醒目展示）
+亚克力支架（原作变形版）
+
+Q版人偶（原作变形版）
+
+抱枕（大型印刷品，醒目展示）
+
+拼图（角色造型）
+
+文具（笔记本、笔、文件夹等，原作变形版）
+
+纸板（原作变形版）
+
+毛绒玩具（原作变形版）
+
+陈列方式：
+周边商品整齐地摆放在货架上，既保留了便利店的氛围，又充满了对角色的喜爱。这些商品的摆放方式让少女粉丝们忍不住想要拿起来。
+
+整体氛围：
+如梦似幻的周边商品销售空间。可爱与流行元素占据主导地位，虽然只是一家便利店，却被打造成“粉丝活动圣地”。
+分辨率：4K，4000像素：3000像素
+```
+
+<!-- 例 83：漫展展台（by @tokyo_Valentine） -->
+### 例83：[漫展展台](https://x.com/tokyo_Valentine/status/1967174466636792287)（by [@tokyo_Valentine](https://x.com/tokyo_Valentine)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case83/input.png" width="300" alt="输入图片"> |<img src="images/case83/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+擦除背景，将人物替换为以下内容：
+
+Cosplayer 和角色周边
+
+角色/主题：
+基于插画的角色周边
+
+发型、眼妆和外貌：
+（请关注周边商品，而非角色本身。）
+
+主角：一位 Cosplayer 手持人偶，站在屏幕中央。
+
+地点：
+漫画市集（同人志销售活动）。
+宽敞的展位上，周边商品摆放在桌子和货架上，气氛热烈而充满期待。
+
+周边商品：
+• 一个约 100 厘米的大型人偶摆放在展位中央，引人注目。
+• 角色展示在 80 英寸的液晶显示屏上。
+• 亚克力立架
+• 迷你手办（变形）
+• 抱枕（大型全身人物印花）
+• 拼图（使用人物原图）
+• 文具（笔记本、笔、透明文件夹等）
+• 桌垫
+• 毛绒玩具（变形）
+展览/陈列：
+• 商品整齐排列于展位各处，营造统一的氛围。
+• 运用类似同人志售卖会的桌子和架子，鼓励粉丝们选购商品。
+• 以活力四射的访客为背景，将展位打造为一个特别的“粉丝圣地”。
+整体基调：
+梦幻般的售卖空间。
+在强调可爱和流行元素的同时，该空间也唤起了同人志活动特有的热情，营造出“粉丝活动圣地”的氛围。
+人潮涌动。
+
+图像质量：逼真，4K（4000像素 x 3000像素）
+```
+
+<!-- 例 84：线稿转涂鸦画（by @hAru_mAki_ch） -->
+### 例84：[线稿转涂鸦画](https://x.com/hAru_mAki_ch/status/1966877088365113722)（by [@tokyo_Valentine](https://x.com/hAru_mAki_ch)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case84/input.png" width="300" alt="输入图片"> |<img src="images/case84/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+我上传的图画书看起来就像是一个五岁小孩画的。
+```
+
+<!-- 例 85：现代美术展览空间（by @UNIBRACITY） -->
+### 例85：[现代美术展览空间](https://x.com/UNIBRACITY/status/1967129632093991164)（by [@UNIBRACITY](https://x.com/UNIBRACITY)）
+
+| 示例 |
+|:---:|
+|<img src="images/case85/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+一个以参考图像为主题的前卫当代艺术展览空间。
+整个展厅（20.0 米 x 20.0 米 x 8.0 米）将建筑、灯光、地板、墙面和天花板融入到艺术作品的表达中。
+
+展厅最深处矗立着一面宽 20 米、高 8 米的大型墙体，墙体中央以巨大的艺术形式展现着参考图像中的主题。图像清晰立体，向观者升起，成为整个空间的焦点。
+
+一块由系统生成的展览标题牌将被安装在墙体中央下方。标题必须抽象、象征且富有诗意，并且必须是当代艺术作品。展览不设价格显示。
+
+地板采用反射率为 0.35 至 0.40 的抛光花岗岩。源自参考图像的图案和光线层层叠叠地铺于作品表面，与整个空间产生共鸣，仿佛在回应参观者的脚步。触觉铺路砖颜色相近，浑然一体，但高度仅为5毫米，触感清晰。作品从入口沿直线延伸至大墙，并在作品前形成一个停顿点。观展结束后，参观者自然而然地被引导至右侧的开口（3米宽 x 3米高）。在紧急情况下，地面应急照明可确保1勒克斯的照度。
+
+左右两侧的墙壁和天花板分别以不同的方式诠释了参考图像中某个元素的抽象版本，使作品本身成为一件艺术品。色彩、形态和光线的流动将整个空间统一为一次艺术体验。
+
+参观人数限制为8至25人。所有参观者面向大墙，沿着直线移动，并在停顿点停下。没有人回头看向入口。仅一名工作人员驻守在大墙右侧入口附近。所有面部均经过模糊处理，以保证匿名性。
+
+构图稳定，中心消失点始终位于大墙中心。垂直度在±0.5°以内。地板反射精准，人体自然。双手始终为五指，双眼对称，偏差在3%以内。织物保持平直，无任何变形。
+
+禁止内容：与参考图像无关的元素、缺失或破损的触觉铺路、面向入口的访客、徽标或水印、过度拥挤、玩具般的光泽、2D平板投影、霓虹灯辉光、青橙色调、过饱和、透视崩溃、反射不匹配、解剖异常、多余的肢体、扭曲的面部、过多的轮廓、条纹、晕影。
+
+DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，整个空间以最内部的结构为中心，形成统一的体验。触觉铺装与光线流动完美同步，形成清晰的停留点。观众将沉浸在空间本身之中，即使在重现过程中，SSIM 也将稳定在 0.95 或以上。
+```
+
+<!-- 例 86：暗黑哥特塔罗牌（by @ImperfectEngel） -->
+### 例86：[暗黑哥特塔罗牌](https://x.com/ImperfectEngel/status/1961833518163481001)（by [@ImperfectEngel](https://x.com/ImperfectEngel)）
+
+| 示例 |
+|:---:|
+|<img src="images/case86/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+根据这张图片，生成一张以我为主角的暗黑哥特式塔罗牌。包含[“AI 艺术家 - Shira”]和[咖啡、系着粉色蝴蝶结的白色蓬松胖猫、笔记本电脑、手机、耳机]作为符号，并搭配忧郁的阴影、精致的哥特式边框和神秘的暗黑奇幻氛围。
+```
+> [!NOTE]
+> **将 [方括号] 中的文字改为您需要的设定**
+
+<!-- 例 87：黑白进化图（by @ZHO_ZHO_ZHO） -->
+### 例87：[黑白进化图](https://x.com/ZHO_ZHO_ZHO/status/1965816445008548213)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 输出 |
+|:---:|
+|<img src="images/case87/output.png" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+生成 进化的行进 图，极简黑白风格，从最早的猿猴逐渐进化为人再进化为最后的 香蕉
+```
+
+<!-- 例 88：玻璃瓶纪念品（by @NanoBanana_labs） -->
+### 例88：[玻璃瓶纪念品](https://x.com/NanoBanana_labs/status/1967191346017673334)（by [@NanoBanana_labs](https://x.com/NanoBanana_labs)）
+
+| 示例 |
+|:---:|
+|<img src="images/case88/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+1/7比例的商品化收藏级人偶，以照片中人物为原型，高度写实的风格打造。人偶置于细致的沙滩环境中，沙滩、贝壳和轻柔的海浪交织在一起。整个玩具展示架被封装在一个透明的纪念品玻璃瓶中，使其呈现出高端的微缩立体模型效果，并拥有逼真的光影效果。
+```
+
+<!-- 例 89：微型商店（by @NanoBanana_labs） -->
+### 例89：[微型商店](https://x.com/NanoBanana_labs/status/1966791308321910922)（by [@NanoBanana_labs](https://x.com/NanoBanana_labs)）
+
+| 输出 |
+|:---:|
+|<img src="images/case89/output.png" width="300" alt="输出结果"> |
+
+**提示词:**
+
+```
+[品牌] 的微型立体模型店。屋顶由超大的 [产品] 制成，窗户上方是巨大的 [品牌] 标识，摊主正在向顾客递上 [产品]，地面上覆盖着许多 [产品]。手工软陶造型，摄影棚微距照片，柔和的光线，浅景深，竖屏 3:4
+```
+> [!NOTE]
+> **将 [方括号] 中的文字改为您需要的产品**
+
+<!-- 例 90：成为Vtuber（by @AI_Kei75） -->
+### 例90：[成为Vtuber](https://x.com/AI_Kei75/status/1967490141578236329)（by [@AI_Kei75](https://x.com/AI_Kei75)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case90/input.png" width="300" alt="输入图片"> |<img src="images/case90/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+使用原图创建一个虚拟的Vtuber及其直播画面。
+Vtuber的发型和服装将忠实还原原图。
+Vtuber的画面为2.5D画质，无需完美还原原图风格，但需要适度的立体感。
+Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏手柄。
+仅将Vtuber的上半身放置在屏幕右下方。将正在游玩的游戏直播画面放置在屏幕中央。将聊天画面放置在屏幕左侧。
+游戏画面的屏幕比例设置为较大，Vtuber的上半身显示较小。
+完全忽略原图的背景和姿势。
+在屏幕的上下添加虚拟的直播平台和浏览器UI。
+生成图像的纵横比与原始图像的纵横比无关。
+```
+
+<!-- 例 91：车站电影海报（by @AI_Kei75） -->
+### 例91：[车站电影海报](https://x.com/AI_Kei75/status/1967498630467625127)（by [@AI_Kei75](https://x.com/AI_Kei75)）
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="images/case91/input.png" width="300" alt="输入图片"> |<img src="images/case91/output.png" width="300" alt="输出结果"> |
+
+**输入:** 需上传一张参考图像
+
+**提示词:**
+
+```
+使用原图制作电影海报。电影类型将根据原图的氛围确定。
+无论原图是动画还是真人版，原图的风格和角色设计都将尽可能完美地保留。但姿势和表情可能会根据海报设计进行调整。此外，还可能添加其他人物和物体。
+最终生成的图像将具有照片级真实感。但海报设计除外，因为它将基于原图进行制作。
+海报所贴日本车站地下通道的场景将以逼真的图像进行重现，并添加穿过地下通道的人物。
+海报的反射角度经过调整，使其看起来更加逼真。
+```
+
 ## 🙏 Acknowledge
 
 本仓库受[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)的启发而创建。仓库中的各个例子依赖于AI社区中人们的分享，请允许我们向所有case的贡献者表示真挚的感谢。
@@ -1261,6 +1757,17 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 - [@azed_ai](https://x.com/azed_ai)
 - [@bwabbage](https://x.com/bwabbage)
 - [@nglprz](https://x.com/icreatelife)
+- [@UNIBRACITY](https://x.com/UNIBRACITY)
+- [@lehua555](https://x.com/lehua555)
+- [@bind_lux](https://x.com/bind_lux)
+- [@techhalla](https://x.com/techhalla)
+- [@vista8](https://x.com/vista8)
+- [@googlejapan](https://x.com/googlejapan)
+- [@NanoBanana_labs](https://x.com/NanoBanana_labs)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@AI_Kei75](https://x.com/AI_Kei75)
+- [@tokyo_Valentine](https://x.com/tokyo_Valentine)
+- [@ImperfectEngel](https://x.com/ImperfectEngel)
 
 *我们不能保证所有案例都来自于原始作者，如果对您造成困扰，请随时与我们联系修改。*
 
