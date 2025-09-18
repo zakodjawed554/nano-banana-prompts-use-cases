@@ -28,6 +28,7 @@ Beğendiyseniz, lütfen yer imlerine eklemek için ⭐ Star verin!
 
 ## 📰 Haberler
 
+- **18 Eylül 2025:** **Nano-consistent-150k** veri kümesini yayımladık
 - **16-Eylül-2025:** 4️⃣ Dördüncü depo güncellemesi
 - **9-Eylül-2025:** 3️⃣ Üçüncü depo güncellemesi
 - **3-Eylül-2025:** 2️⃣ İkinci depo güncellemesi
