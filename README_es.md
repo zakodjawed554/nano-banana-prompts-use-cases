@@ -29,6 +29,7 @@ Si te gusta, ¡por favor, márcalo con una ⭐ Estrella para guardarlo!
 
 ## 📰 Noticias
 
+- **Sep-22-2025:** Traducción al español agregada.
 - **Sep-18-2025:** Lanzamos el conjunto de datos **Nano-consistent-150k**.
 - **Sep-16-2025:** 4️⃣ Cuarta actualización del repositorio
 - **Sep-9-2025:** 3️⃣ Tercera actualización del repositorio
