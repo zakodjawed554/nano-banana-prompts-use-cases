@@ -1,9 +1,3 @@
----
-generator: pandoc
-title: README_en
-viewport: width=device-width, initial-scale=1.0, user-scalable=yes
----
-
 <div data-align="center">
 
 ![输入图片](images/logo.jpg)
