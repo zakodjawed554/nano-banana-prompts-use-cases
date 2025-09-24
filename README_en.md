@@ -29,6 +29,7 @@ If you like it, please ⭐ Star to bookmark it!
 
 ## 📰 News
 
+- **Sep-24-2025:** 5️⃣ Fifth repository update
 - **Sep-18-2025:** We released the **Nano-consistent-150k** dataset.
 - **Sep-16-2025:** 4️⃣ Fourth repository update
 - **Sep-9-2025:** 3️⃣ Third repository update
@@ -132,6 +133,25 @@ If you like it, please ⭐ Star to bookmark it!
   - [Example 89: Miniature Store (by @NanoBanana\_labs)](#example-89-miniature-store-by-nanobanana_labs)
   - [Example 90: Become a Vtuber (by @AI\_Kei75)](#example-90-become-a-vtuber-by-ai_kei75)
   - [Example 91: Train Station Movie Poster (by @AI\_Kei75)](#example-91-train-station-movie-poster-by-ai_kei75)
+  - [Example 92: Movie Lounge (by @tokyo\_Valentine)](#example-92-movie-lounge-by-tokyo_valentine)
+  - [Example 93: Slice Object with Cartoon Explosion Effect (by @Arminn\_Ai)](#example-93-slice-object-with-cartoon-explosion-effect-by-arminn_ai)
+  - [Example 94: Character-Themed Train (by @tokyo\_Valentine)](#example-94-character-themed-train-by-tokyo_valentine)
+  - [Example 95: Custom Theme Park (by @AI\_Kei75)](#example-95-custom-theme-park-by-ai_kei75)
+  - [Example 96: Create Constellation Image (by @AI\_Kei75)](#example-96-create-constellation-image-by-ai_kei75)
+  - [Example 97: Turn Image into Phone Wallpaper (by @ZHO\_ZHO\_ZHO)](#example-97-turn-image-into-phone-wallpaper-by-zho_zho_zho)
+  - [Example 98: Make a Movie Poster (by @aiehon\_aya)](#example-98-make-a-movie-poster-by-aiehon_aya)
+  - [Example 99: Turn X Account into Floppy Disk (by @icreatelife)](#example-99-turn-x-account-into-floppy-disk-by-icreatelife)
+  - [Example 100: Make Reference Image Object Transparent (by @icreatelife)](#example-100-make-reference-image-object-transparent-by-icreatelife)
+  - [Example 101: Fisheye Peephole Illustration (by @emakiscroll)](#example-101-fisheye-peephole-illustration-by-emakiscroll)
+  - [Example 102: Superhero Interior Design (by @IqraSaifiii)](#example-102-superhero-interior-design-by-iqrasaifiii)
+  - [Example 103: Custom Claw Machine (by @googlejapan)](#example-103-custom-claw-machine-by-googlejapan)
+  - [Example 104: Typography Logo Design (by @aziz4ai)](#example-104-typography-logo-design-by-aziz4ai)
+  - [Example 105: RPG Character Status UI (by @AI\_Kei75)](#example-105-rpg-character-status-ui-by-ai_kei75)
+  - [Example 106: Convert Text Diagram to Pictograms (by @nobisiro\_2023)](#example-106-convert-text-diagram-to-pictograms-by-nobisiro_2023)
+  - [Example 107: Drawing on a Pen Display (by @AI\_Kei75)](#example-107-drawing-on-a-pen-display-by-ai_kei75)
+  - [Example 108: Create LINE Stamp Image (by @emakiscroll)](#example-108-create-line-stamp-image-by-emakiscroll)
+  - [Example 109: Therapy for Childhood Self (by @samann\_ai)](#example-109-therapy-for-childhood-self-by-samann_ai)
+  - [Example 110: Pixar-Style Portrait (by @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ Cases
@@ -1756,6 +1776,401 @@ The reflection of the poster is angled to make it look more realistic.
 ```
 
 
+<!-- Example 92: Movie Lounge (by @tokyo_Valentine) -->
+### Example 92: [Movie Lounge](https://x.com/tokyo_Valentine/status/1968509703018922082) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case92/input.jpg" width="300" alt="Input image"> |<img src="images/case92/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Illustration Processing:
+The background is removed and the characters are turned into figurines and merchandise.
+Theme / Overview:
+A photorealistic movie theater lounge. A special event-themed space, set in a popcorn stand, is decorated with the world of the characters.
+
+Location:
+A spacious popcorn stand in a large movie theater.
+There is a cash register, with a popcorn machine inside.
+There is a drink stand with a salesperson behind the counter.
+Above the register are countless posters of showing movies.
+
+Characters / Production:
+A character cosplayer is placed in the center of the screen.
+Merchandise such as figurines and acrylic stands are displayed on shelves.
+Giant stuffed animals and signboards are displayed realistically.
+A movie photo booth is set up and decorated with character designs.
+
+Places where characters are reflected:
+Movie posters currently being screened.
+Pop-up advertisements for the collaboration menu.
+Drink cups and packaging.
+Popcorn buckets.
+Large LED LCD panel.
+
+Design / Advertising:
+Character illustrations are reflected on each poster in the lounge.
+Vivid visuals of the collaboration food and drinks are displayed.
+Animations and character footage are projected onto LED panels.
+
+Camera Angle:
+Composed from the front.
+Emphasis on the entire popcorn stand.
+A cosplayer is placed in the center, with merchandise and advertisements reflected around them.
+A slightly lower angle captures the LED panels and posters impressively.
+
+Quality / Atmosphere:
+Photorealistic and detailed depiction.
+An urban, realistic glossy feel, creating a cinema-like atmosphere with an event-like feel.
+Resolution is 4K, aspect ratio is 4:3.
+```
+
+<!-- Example 93: Slice Object with Cartoon Explosion Effect (by @Arminn_Ai) -->
+### Example 93: [Slice Object with Cartoon Explosion Effect](https://x.com/Arminn_Ai/status/1968375201739177984) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
+
+| Example |
+|:---:|
+| <img src="images/case93/case.jpg" width="300" alt="Case image"> |
+
+**Prompt:**
+
+```
+cut cleanly THE [OBJECT] in half across the middle, the top and bottom halves slightly separated and floating apart.  
+Between the halves, instead of the natural inside, there is a stylized cartoon nuclear explosion effect: a central vertical column of glowing yellow-orange bubble smoke, with a wide horizontal shockwave ring of round bubbly clouds spreading to the sides, fiery glowing highlights above and below the shockwave, creating the impression of intense heat and energy
+The outside of the [OBJECT] remains photorealistic with detailed texture and lighting, while the inner effect is highly graphic and playful, giving a striking contrast between realism and cartoon. Studio lighting, centered composition
+```
+
+> [!NOTE]
+> **Replace the text inside [brackets] with your desired object**
+
+<!-- Example 94: Character-Themed Train (by @tokyo_Valentine) -->
+### Example 94: [Character-Themed Train](https://x.com/tokyo_Valentine/status/1968419694920028552) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Output |
+|:---:|
+| <img src="images/case94/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Illustration Processing:
+The background is erased and characters are turned into figurines and merchandise.
+Theme / Overview:
+A photorealistic Tokyo train interior. The entire car is decorated with character advertisements and merchandise, creating a special space tailored for a collaboration event.
+Characters / Production:
+Several character cosplayers are standing in the foreground of the screen.
+Life-size panels and life-size figures are displayed in the center and back of the train.
+100cm character figures are on display.
+Many character stuffed toys are lined up in empty seats.
+Advertising / Display:
+Character illustrations are reflected in advertisements on the straps.
+Character illustrations are displayed on poster advertisements inside the train.
+Character illustrations and animations are displayed on additional LED displays installed inside the train.
+Illustration Processing:
+The background is erased and characters are turned into figurines and merchandise.
+Near-life-size figures, 100cm figures, deformed figures, and stuffed toys are realistically depicted.
+Camera Angle:
+A frontal composition emphasizes the bustling atmosphere inside the train.
+A large shot of a cosplayer in the foreground, with figures, panels, and stuffed animals in the background.
+A low angle captures the strap advertisements and LED displays impressively.
+Quality / Atmosphere:
+Photorealistic and detailed depiction.
+An urban, realistic glossy feel.
+Resolution is 4K, aspect ratio is 4:3.
+```
+
+<!-- Example 95: Custom Theme Park (by @AI_Kei75) -->
+### Example 95: [Custom Theme Park](https://x.com/AI_Kei75/status/1968188091237372043) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case95/input.jpg" width="300" alt="Input image"> |<img src="images/case95/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Generates a photorealistic theme park image based on the original image.
+The theme park and the people enjoying it are depicted in an extremely photorealistic style. Daytime. Sunny.
+The color scheme and design are extracted from the original image and applied to the color scheme and design of various facilities.
+Vehicles and buildings based on the original image, mascot costumes that are a distorted version of the original image, and signs with the original image printed on them are placed within the image.
+The mascot costume design should use the original image as a motif, but be moderately distorted to create a photorealistic look.
+The sizes of the people and mascot costumes must not be unrealistic.
+Even if the original image is anime-style, the final image must be a photorealistic theme park. Be sure to follow these rules.
+```
+
+<!-- Example 96: Create Constellation Image (by @AI_Kei75) -->
+### Example 96: [Create Constellation Image](https://x.com/AI_Kei75/status/1968181164243562665) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case96/input.jpg" width="300" alt="Input image"> |<img src="images/case96/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Create an image depicting fictional constellations using the original image as a reference.
+- A photorealistic starry sky. This is maintained even if the original image is anime-style.
+- People, animals, and objects extracted from the original image are placed transparently against the starry sky background. In this case, the extracted target should be a single motif that is the main theme. Also, only one image should be placed.
+- The character design, style, and taste of the original image are faithfully reproduced. The background of the original image can be ignored.
+- An imaginary constellation is created based on the placed motif. This constellation is made up of approximately 5 to 10 stars.
+- The pose of the original image is analyzed, and the stars belonging to the constellation are appropriately positioned in distinctive parts.
+- The stars belonging to the constellation are highlighted, and the stars are connected with glowing lines.
+```
+
+<!-- Example 97: Turn Image into Phone Wallpaper (by @ZHO_ZHO_ZHO) -->
+### Example 97: [Turn Image into Phone Wallpaper](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Example |
+|:---:|
+| <img src="images/case97/case.jpg" width="300" alt="Case image"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Transform the image into an iPhone lock screen wallpaper effect. The phone’s time (01:16), date (Sunday, September 16), and status bar details (battery, signal, etc.) appear overlaid on the image, with flashlight and camera icons at the bottom. The original picture is adapted to fit the elongated smartphone screen composition. The phone is placed against a background in the same color scheme.
+```
+
+<!-- Example 98: Make a Movie Poster (by @aiehon_aya) -->
+### Example 98: [Make a Movie Poster](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (by [@aiehon_aya](https://x.com/aiehon_aya))
+
+| Output |
+|:---:|
+| <img src="images/case98/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Analyze the uploaded photo and detect the subject, mood, and atmosphere.  
+Automatically classify the photo into a suitable movie genre (romance, action, mystery, horror, etc.).  
+
+Based on the detected genre and mood, generate all the following elements in English:  
+- A cinematic movie title (impactful, authentic to the genre).  
+- A short tagline or catchphrase (1–2 lines, dramatic or emotional).  
+- A credit block at the bottom (with fake names for director, producer, music, etc., styled like real movie posters).  
+- A release note such as “COMING SOON” or “In Theaters 2025.”  
+
+Overlay these elements on the image in a movie-poster style layout:  
+- Place the title prominently in the center or lower third.  
+- Place the tagline above or below the title.  
+- Add a credit block at the bottom in small text.  
+- Add the release note at the bottom center.  
+
+Finally, add the starring section at the bottom, always formatted as:  
+“Starring: ”  
+
+Typography should be bold, dramatic, and genre-appropriate.  
+The final result must look like a genuine movie poster ready for theaters, with all elements harmonized to the photo’s mood.
+```
+
+<!-- Example 99: Turn X Account into Floppy Disk (by @icreatelife) -->
+### Example 99: [Turn X Account into Floppy Disk](https://x.com/icreatelife/status/1968020098515636635) (by [@icreatelife](https://x.com/icreatelife))
+
+| Output |
+|:---:|
+| <img src="images/case99/output.jpg" width="300" alt="Output result"> |
+
+**Input:** Upload a reference image of the X account.
+
+**Prompt:**
+
+```
+Make my X account into a floppy disk in the 90s 
+```
+
+<!-- Example 100: Make Reference Image Object Transparent (by @icreatelife) -->
+### Example 100: [Make Reference Image Object Transparent](https://x.com/icreatelife/status/1967759082544332817) (by [@icreatelife](https://x.com/icreatelife))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case100/input.jpg" width="300" alt="Input image"> |<img src="images/case100/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Make this object transparent.
+```
+
+<!-- Example 101: Fisheye Peephole Illustration (by @emakiscroll) -->
+### Example 101: [Fisheye Peephole Illustration](https://x.com/emakiscroll/status/1970322227729191013) (by [@emakiscroll](https://x.com/emakiscroll))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case101/input.jpg" width="300" alt="Input image"> |<img src="images/case101/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+ultra-detailed anime illustration, fisheye lens peephole perspective, circular distorted view as if looking through a door peephole, warped wide-angle effect with curved edges, darkened vignette around the circular
+frame, two people leaning their faces close to the peephole trying to peek through, both with mischievous playful smiles, exaggerated perspective distortion making their features appear larger and curved, faces
+approaching the peephole lens, hallway or room interior bent by the lens effect, slightly blurry edges mimicking actual peephole optics, playful atmosphere, 8k resolution
+```
+
+<!-- Example 102: Superhero Interior Design (by @IqraSaifiii) -->
+### Example 102: [Superhero Interior Design](https://x.com/IqraSaifiii/status/1969868863522423034) (by [@IqraSaifiii](https://x.com/IqraSaifiii))
+
+| Output |
+|:---:|
+|<img src="images/case102/output.jpg" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+A hyper-realistic, professional interior design photograph of a modern living room inspired by a [Superhero]. The room has clean lines, a neutral color palette of greys, blacks, and whites, with accents of [Theme Color]. A large, stylized 3D wall sculpture of the [Superhero] dominates the main wall. Subtle thematic details are placed throughout the room, such as framed art prints of blueprints, a floor lamp designed to resemble a specific motif (e.g., a shield or logo), and a side table with a few well-placed props (e.g., a stylized helmet). The furniture is contemporary and minimalist, with a large, comfortable sofa and a low coffee table. Dramatic, focused lighting highlights the main wall sculpture, while warm ambient light from windows and lamps creates an inviting atmosphere. The overall style is sophisticated and elegant, a subtle homage rather than an overt fan-tribute.
+```
+
+> [!NOTE]
+> **Replace the text inside [brackets] with the information you need**
+
+<!-- Example 103: Custom Claw Machine (by @googlejapan) -->
+### Example 103: [Custom Claw Machine](https://x.com/googlejapan/status/1969733348852433316) (by [@googlejapan](https://x.com/googlejapan))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case103/input.jpg" width="300" alt="Input image"> |<img src="images/case103/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Generate an image showing this animal as a simplified and deformed as an anime-like plush toy (made of short-pile, soft-touch polyester knit fabric), with multiple units inside a UFO catcher machine. On either side are additional UFO Catcher machines containing multiple plush toys of different animals, distinct from the main image. The setting is a Japanese game center, with an overall very bright impression. Only the top section of the UFO catcher is painted in vibrant colors. The lower section is painted white. The background is a wall, and the area behind the UFO catcher is quite blurred.　The floor is carpeted. The shooting angle is from the front. Most importantly, absolutely no text or logos should appear in the output.
+```
+
+<!-- Example 104: Typography Logo Design (by @aziz4ai) -->
+### Example 104: [Typography Logo Design](https://x.com/IqraSaifiii/status/1969868863522423034) (by [@aziz4ai](https://x.com/aziz4ai))
+
+| Output |
+|:---:|
+|<img src="images/case104/output.jpg" width="300" alt="Output result"> |
+
+**Prompt:**
+
+```
+Create a typographic illustration shaped like a {OBJECT}, where the text itself forms the shape — bold and playful lettering style that fills the entire silhouette — letters adapt fluidly to the curves and contours of the object — vibrant and contrasting color palette that fits the theme — background is solid and enhances the focus on the main shape — vector-style, clean, high resolution, poster format, 1:1 aspect ratio.
+```
+
+> [!NOTE]
+> **Replace the text inside [brackets] with your desired object**
+
+<!-- Example 105: RPG Character Status UI (by @AI_Kei75) -->
+### Example 105: [RPG Character Status UI](https://x.com/AI_Kei75/status/1969358521356742756) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case105/input.jpg" width="300" alt="Input image"> |<img src="images/case105/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Use the character in the original image to create a character status screen for an RPG game.
+Keep the character design and style from the original image, but change the costume to one from a fantasy RPG. Also, change the pose to suit the situation.
+Display the character from the original image and the status screen side by side.
+The status screen will list various parameters, skills, icons, etc.
+The background should be a fantasy background that matches the style of the original image.
+The status screen should be rich and stylish, like a game from 2025.
+```
+
+<!-- Example 106: Convert Text Diagram to Pictograms (by @nobisiro_2023) -->
+### Example 106: [Convert Text Diagram to Pictograms](https://x.com/nobisiro_2023/status/1968677481486914022) (by [@nobisiro_2023](https://x.com/nobisiro_2023))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case106/input.jpg" width="300" alt="Input image"> |<img src="images/case106/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image containing text must be uploaded.
+
+**Prompt:**
+
+```
+Convert this explanatory diagram into pictograms.
+```
+
+<!-- Example 107: Drawing on a Pen Display (by @AI_Kei75) -->
+### Example 107: [Drawing on a Pen Display](https://x.com/AI_Kei75/status/1968607362576708042) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case107/input.jpg" width="300" alt="Input image"> |<img src="images/case107/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference image must be uploaded.
+
+**Prompt:**
+
+```
+Photorealistic pen tablet screen. Realistic first-person hand holding the pen tablet and pen.
+The original image is reproduced on the pen tablet in an unfinished state. The line art has been extracted from the original image. Portions of the line art have been colored with the same coloring as the original image. Unfinished coloring. Must not be monochrome. About 70% of the coloring is done.
+Close-up. The pen tip is touching the tablet screen.
+```
+
+<!-- Example 108: Create LINE Stamp Image (by @emakiscroll) -->
+### Example 108: [Create LINE Stamp Image](https://x.com/emakiscroll/status/1969959850676253016) (by [@emakiscroll](https://x.com/emakiscroll))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case108/input1.jpg" width="200" alt="Expression reference"> <img src="images/case108/input2.jpg" width="200" alt="Character reference"> |<img src="images/case108/output.jpg" width="300" alt="Output result"> |
+
+**Input:** Upload a facial expression reference and a character reference image.
+
+**Prompt:**
+
+```
+Character sheet, facial expressions, joy, anger, sadness, happiness
+```
+
+<!-- Example 109: Therapy for Childhood Self (by @samann_ai) -->
+### Example 109: [Therapy for Childhood Self](https://x.com/samann_ai/status/1969743981157265867) (by [@samann_ai](https://x.com/samann_ai))
+
+| Output |
+|:---:|
+|<img src="images/case109/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A reference portrait must be uploaded.
+
+**Prompt:**
+
+```
+Photorealistic minimalist therapy room; light walls, grey sofa, wooden coffee table with a tissue box, notebook and a glass of water, simple frame and floor lamp, soft natural daylight. The same person at two ages sits side-by-side: adult on the left speaking with open hands; child on the right listening with head slightly down. Both wear matching [OUTFIT] (same color & style). Clean studio vibe, centered composition, shallow depth of field, 50mm look, 4K, vertical 3:4. No extra people, no text, no watermark.
+```
+
+> [!NOTE]
+> **Replace the text inside [brackets] with your desired outfit**
+
+<!-- Example 110: Pixar-Style Portrait (by @NanoBanana_labs) -->
+### Example 110: [Pixar-Style Portrait](https://x.com/NanoBanana_labs/status/1969824645743587519) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Output |
+|:---:|
+|<img src="images/case110/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A character reference image must be uploaded.
+
+**Prompt:**
+
+```
+3D avatar of the young man in the image attached, smiling happily, clean white background, conceptual digital art in Pixar-style, high quality, soft lighting, smooth textures, vibrant colors, realistic proportions with a cartoon touch & studio render look.
+```
+
+
 ## 🙏 Acknowledge
 
 The various cases in this repository rely on sharing from the AI community. Please allow us to express our sincere gratitude to all case contributors.
@@ -1808,6 +2223,13 @@ Thank you to the following users for sharing their amazing works. You can also v
 - [@AI_Kei75](https://x.com/AI_Kei75)
 - [@tokyo_Valentine](https://x.com/tokyo_Valentine)
 - [@ImperfectEngel](https://x.com/ImperfectEngel)
+- [@Arminn_Ai](https://x.com/Arminn_Ai)
+- [@aiehon_aya](https://x.com/aiehon_aya)
+- [@emakiscroll](https://x.com/emakiscroll)
+- [@IqraSaifiii](https://x.com/IqraSaifiii)
+- [@aziz4ai](https://x.com/aziz4ai)
+- [@samann_ai](https://x.com/samann_ai)
+
 *We cannot guarantee that all cases come from the original authors. If this causes you any inconvenience, please feel free to contact us for modifications.*
 
 The cases we collect cannot cover all possible application scenarios. If you have other interesting discoveries 🔍, we welcome you to contact us to showcase more creativity 📧!

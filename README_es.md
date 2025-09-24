@@ -29,6 +29,7 @@ Si te gusta, ¡por favor, márcalo con una ⭐ Estrella para guardarlo!
 
 ## 📰 Noticias
 
+- **Sep-24-2025:** 5️⃣ Quinta actualización del repositorio
 - **Sep-22-2025:** Traducción al español agregada.
 - **Sep-18-2025:** Lanzamos el conjunto de datos **Nano-consistent-150k**.
 - **Sep-16-2025:** 4️⃣ Cuarta actualización del repositorio
@@ -133,6 +134,25 @@ Si te gusta, ¡por favor, márcalo con una ⭐ Estrella para guardarlo!
   - [Ejemplo 89: Tienda en Miniatura (por @NanoBanana\_labs)](#example-89-miniature-store-by-nanobanana_labs)
   - [Ejemplo 90: Convertirse en un Vtuber (por @AI\_Kei75)](#example-90-become-a-vtuber-by-ai_kei75)
   - [Ejemplo 91: Póster de Película en Estación de Tren (por @AI\_Kei75)](#example-91-train-station-movie-poster-by-ai_kei75)
+  - [Ejemplo 92: Sala Lounge de Cine (por @tokyo\_Valentine)](#example-92-movie-lounge-by-tokyo_valentine)
+  - [Ejemplo 93: Objeto Cortado con Explosión de Caricatura (por @Arminn_Ai)](#example-93-slice-object-with-cartoon-explosion-effect-by-arminn_ai)
+  - [Ejemplo 94: Tren Temático de Personajes (por @tokyo\_Valentine)](#example-94-character-themed-train-by-tokyo_valentine)
+  - [Ejemplo 95: Parque Temático Personalizado (por @AI\_Kei75)](#example-95-custom-theme-park-by-ai_kei75)
+  - [Ejemplo 96: Crear Imagen de Constelación (por @AI\_Kei75)](#example-96-create-constellation-image-by-ai_kei75)
+  - [Ejemplo 97: Convertir Imagen en Fondo de Móvil (por @ZHO\_ZHO\_ZHO)](#example-97-turn-image-into-phone-wallpaper-by-zho_zho_zho)
+  - [Ejemplo 98: Crear Póster de Película (por @aiehon_aya)](#example-98-make-a-movie-poster-by-aiehon_aya)
+  - [Ejemplo 99: Convertir Cuenta de X en Disquete (por @icreatelife)](#example-99-turn-x-account-into-floppy-disk-by-icreatelife)
+  - [Ejemplo 100: Volver Transparente el Objeto de Referencia (por @icreatelife)](#example-100-make-reference-image-object-transparent-by-icreatelife)
+  - [Ejemplo 101: Ilustración con Mirilla de Ojo de Pez (por @emakiscroll)](#example-101-fisheye-peephole-illustration-by-emakiscroll)
+  - [Ejemplo 102: Diseño Interior de Superhéroe (por @IqraSaifiii)](#example-102-superhero-interior-design-by-iqrasafiii)
+  - [Ejemplo 103: UFO Catcher Personalizado (por @googlejapan)](#example-103-custom-claw-machine-by-googlejapan)
+  - [Ejemplo 104: Diseño de Logo Tipográfico (por @aziz4ai)](#example-104-typography-logo-design-by-aziz4ai)
+  - [Ejemplo 105: UI de Estado de Personaje RPG (por @AI\_Kei75)](#example-105-rpg-character-status-ui-by-ai_kei75)
+  - [Ejemplo 106: Convertir Diagrama en Pictogramas (por @nobisiro_2023)](#example-106-convert-text-diagram-to-pictograms-by-nobisiro_2023)
+  - [Ejemplo 107: Dibujo en Tableta Gráfica (por @AI\_Kei75)](#example-107-drawing-on-a-pen-display-by-ai_kei75)
+  - [Ejemplo 108: Crear Imagen de Sticker LINE (por @emakiscroll)](#example-108-create-line-stamp-image-by-emakiscroll)
+  - [Ejemplo 109: Terapia para el Yo Infantil (por @samann_ai)](#example-109-therapy-for-childhood-self-by-samann_ai)
+  - [Ejemplo 110: Retrato Estilo Pixar (por @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
 - [🙏 Agradecimientos](#-acknowledge)
 
 ## 🖼️ Casos
@@ -1624,6 +1644,471 @@ El paisaje del pasaje subterráneo de una estación japonesa donde se coloca el 
 El reflejo del póster está en ángulo para que parezca más realista.
 ```
 
+<!-- Ejemplo 92: Sala Lounge de Cine (por @tokyo_Valentine) -->
+### Ejemplo 92: [Sala Lounge de Cine](https://x.com/tokyo_Valentine/status/1968509703018922082) (por [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case92/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case92/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Procesamiento de ilustración:
+Elimina el fondo y convierte a los personajes en figuras y merchandising.
+
+Tema / Descripción general:
+Un lounge de cine fotorrealista. Un espacio temático de evento especial dentro del puesto de palomitas, decorado con elementos del mundo del personaje.
+
+Ubicación:
+Un amplio mostrador de palomitas del cine.
+Incluye una caja con máquina de palomitas integrada.
+Incluye una barra de bebidas con un empleado detrás.
+La parte superior de la caja está cubierta con carteles de las películas en cartelera.
+
+Personajes / Exhibición:
+Coloca a los cosplayers en el centro del encuadre.
+Organiza figuras y acrílicos en estantes.
+Exhibe peluches gigantes y rótulos de forma realista.
+Instala un fotomatón temático de la película decorado con elementos del diseño del personaje.
+
+Dónde aparece el personaje:
+Carteles de las películas actuales.
+Anuncios emergentes del menú colaborativo.
+Vasos y empaques de bebida.
+Cubetas de palomitas.
+Pantallas LED LCD de gran tamaño.
+
+Diseño / Promoción:
+Las ilustraciones del personaje aparecen en cada cartel del lounge.
+Muestra visuales llamativos para los alimentos y bebidas de la colaboración.
+Proyecta animaciones y clips del personaje en las pantallas LED.
+
+Ángulo de cámara:
+Composición frontal.
+Enfatiza todo el puesto de palomitas.
+Cosplayers centrados con productos y publicidad a su alrededor.
+Ligero ángulo bajo para resaltar las pantallas LED y los pósters.
+
+Calidad / Ambiente:
+Realista y detallado.
+Sensación urbana y pulida de cine, con ambiente animado.
+Resolución 4K, proporción 4:3.
+```
+
+<!-- Ejemplo 93: Objeto Cortado con Explosión de Caricatura (por @Arminn_Ai) -->
+### Ejemplo 93: [Objeto Cortado con Explosión de Caricatura](https://x.com/Arminn_Ai/status/1968375201739177984) (por [@Arminn_Ai](https://x.com/Arminn_Ai))
+
+| Ejemplo |
+|:---:|
+| <img src="images/case93/case.jpg" width="300" alt="Imagen de Ejemplo"> |
+
+**Prompt:**
+
+```
+Corta [OBJECT] por la mitad con un corte limpio, dejando las dos mitades ligeramente separadas y flotando.
+Entre ambas mitades, sustituye el interior natural por una explosión nuclear estilizada de caricatura: una columna vertical de humo burbujeante amarillo anaranjado en el centro y una onda expansiva circular de nubes esponjosas que se extiende hacia los lados, con resplandores intensos arriba y abajo para transmitir calor y energía.
+Mantén el exterior de [OBJECT] con material y luz fotorrealistas, mientras que el interior debe ser exagerado y caricaturesco para crear un fuerte contraste entre lo real y lo animado. Iluminación de estudio, composición centrada.
+```
+
+> [!NOTE]
+> **Reemplaza el texto entre [corchetes] con el objeto que necesites.**
+
+<!-- Ejemplo 94: Tren Temático de Personajes (por @tokyo_Valentine) -->
+### Ejemplo 94: [Tren Temático de Personajes](https://x.com/tokyo_Valentine/status/1968419694920028552) (por [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Salida |
+|:---:|
+| <img src="images/case94/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Procesamiento de ilustración:
+Borra el fondo y convierte a los personajes en figuras y productos.
+
+Tema / Descripción general:
+Interior realista de un tren de Tokio. Todo el vagón está cubierto con anuncios y merchandising del personaje, creando un espacio especial para la colaboración.
+
+Personajes / Exhibición:
+Varios cosplayers se sitúan en primer plano.
+Se exponen paneles y figuras a escala real en la zona media y trasera del vagón.
+Se muestran figuras del personaje de 100 cm.
+Numerosos peluches ocupan los asientos vacíos.
+
+Publicidad / Exhibición:
+Las ilustraciones del personaje aparecen en los anuncios de los agarraderos.
+Los pósters interiores también muestran las ilustraciones del personaje.
+Pantallas LED adicionales proyectan ilustraciones y animaciones del personaje.
+
+Detalles del procesamiento:
+Quita el fondo y convierte a los personajes en figuras y merchandising.
+Representa figuras casi de tamaño real, figuras de 100 cm, versiones chibi y peluches con acabado realista.
+
+Ángulo de cámara:
+Composición frontal que enfatiza el ambiente bullicioso del interior.
+Plano general de los cosplayers en primer plano, con figuras, paneles y peluches al fondo.
+Ángulo ligeramente bajo para resaltar los anuncios de los agarraderos y las pantallas LED.
+
+Calidad / Ambiente:
+Realista y detallado.
+Brillo urbano pulido.
+Resolución 4K, proporción 4:3.
+```
+
+<!-- Ejemplo 95: Parque Temático Personalizado (por @AI_Kei75) -->
+### Ejemplo 95: [Parque Temático Personalizado](https://x.com/AI_Kei75/status/1968188091237372043) (por [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case95/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case95/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Genera una imagen fotorrealista de un parque temático basada en la imagen original.
+Representa el parque y a sus visitantes con un estilo extremadamente realista. Día soleado.
+Extrae la paleta de colores y los motivos de diseño de la imagen original y aplícalos a los colores y diseños de las instalaciones.
+Incluye elementos como vehículos y edificios inspirados en la original, trajes de mascota que exageren adecuadamente el diseño original y señalética impresa con la imagen original.
+Los trajes de mascota deben derivarse de los elementos originales pero modificarse ligeramente para verse realistas.
+Los personajes y los trajes deben conservar proporciones creíbles.
+Aunque la imagen original sea de estilo anime, el resultado debe ser un parque temático realista. Sigue estrictamente estas reglas.
+```
+
+<!-- Ejemplo 96: Crear Imagen de Constelación (por @AI_Kei75) -->
+### Ejemplo 96: [Crear Imagen de Constelación](https://x.com/AI_Kei75/status/1968181164243562665) (por [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case96/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case96/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Crea una imagen de una constelación ficticia basada en la imagen original.
+- El fondo nocturno debe ser realista; incluso si la imagen original es estilo anime, el cielo debe verse creíble.
+- Extrae un personaje, animal u objeto y colócalo, con fondo transparente, sobre el cielo estrellado. Usa un único elemento principal.
+- Conserva fielmente el diseño, estilo y estética del sujeto; ignora el fondo original.
+- Diseña una constelación ficticia inspirada en el sujeto con unas 5 a 10 estrellas.
+- Analiza la pose y coloca las estrellas en puntos clave del personaje u objeto.
+- Haz que las estrellas brillen y únelas con líneas luminosas para formar la constelación.
+```
+
+<!-- Ejemplo 97: Convertir Imagen en Fondo de Móvil (por @ZHO_ZHO_ZHO) -->
+### Ejemplo 97: [Convertir Imagen en Fondo de Móvil](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (por [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Ejemplo |
+|:---:|
+| <img src="images/case97/case.jpg" width="300" alt="Imagen de Ejemplo"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Transforma la imagen en un fondo de pantalla bloqueada de iPhone. Superpone la hora (01:16), la fecha (domingo 16 de septiembre) y los detalles de la barra de estado (batería, señal, etc.), con los iconos de linterna y cámara en la parte inferior. Ajusta la imagen original para encajar en la composición vertical alargada de un smartphone. Coloca el teléfono sobre un fondo que comparta la misma paleta de colores.
+```
+
+<!-- Ejemplo 98: Crear Póster de Película (por @aiehon_aya) -->
+### Ejemplo 98: [Crear Póster de Película](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (por [@aiehon_aya](https://x.com/aiehon_aya))
+
+| Salida |
+|:---:|
+| <img src="images/case98/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Analiza la foto cargada para detectar el sujeto, el estado de ánimo y la atmósfera.
+Clasifica automáticamente la foto en un género cinematográfico adecuado (romance, acción, suspenso, terror, etc.).
+
+En función del género y la atmósfera detectados, genera lo siguiente en inglés:
+- Título de la película: impactante y acorde al género.
+- Eslogan / tagline: 1–2 líneas con tono dramático o emocional.
+- Créditos inferiores: nombres ficticios de dirección, producción, música, etc., con estilo de póster real.
+- Información de estreno: por ejemplo “COMING SOON” o “In Theaters 2025”.
+
+Superpone estos elementos sobre la foto para lograr un estilo de póster:
+- Coloca el título de forma destacada en el centro o tercio inferior.
+- Sitúa el eslogan arriba o abajo del título.
+- Ubica los créditos en la parte inferior con texto pequeño.
+- Pon la información de estreno en el centro de la parte inferior.
+- Añade finalmente la línea de reparto con el formato fijo:
+"Starring: <Actor Name>"
+
+Tipografía: en negrita, dramática y acorde al género.
+El resultado final debe parecer un póster auténtico, con todos los elementos en armonía con la atmósfera de la foto.
+```
+
+<!-- Ejemplo 99: Convertir Cuenta de X en Disquete (por @icreatelife) -->
+### Ejemplo 99: [Convertir Cuenta de X en Disquete](https://x.com/icreatelife/status/1968020098515636635) (por [@icreatelife](https://x.com/icreatelife))
+
+| Salida |
+|:---:|
+| <img src="images/case99/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Carga una imagen de referencia de la cuenta de X.
+
+**Prompt:**
+
+```
+Convierte mi cuenta de X en un disquete de los años 90.
+```
+
+<!-- Ejemplo 100: Volver Transparente el Objeto de Referencia (por @icreatelife) -->
+### Ejemplo 100: [Volver Transparente el Objeto de Referencia](https://x.com/icreatelife/status/1967759082544332817) (por [@icreatelife](https://x.com/icreatelife))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case100/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case100/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Haz que este objeto sea transparente.
+```
+
+<!-- Ejemplo 101: Ilustración con Mirilla de Ojo de Pez (por @emakiscroll) -->
+### Ejemplo 101: [Ilustración con Mirilla de Ojo de Pez](https://x.com/emakiscroll/status/1970322227729191013) (por [@emakiscroll](https://x.com/emakiscroll))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case101/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case101/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Ilustración de anime ultradetallada con perspectiva de mirilla de ojo de pez, vista circular deformada como si miraras por la puerta, con distorsión gran angular, bordes curvados y viñeteado alrededor.
+Dos personas acercan la cara a la mirilla intentando espiar, ambas con sonrisas traviesas. La perspectiva exagerada hace que sus rasgos se vean grandes y curvados, con los rostros muy cerca de la lente.
+El pasillo o la habitación se distorsiona por el efecto óptico, con bordes ligeramente desenfocados para imitar una mirilla real, transmitiendo un ambiente juguetón y divertido.
+Resolución 8K.
+```
+
+<!-- Ejemplo 102: Diseño Interior de Superhéroe (por @IqraSaifiii) -->
+### Ejemplo 102: [Diseño Interior de Superhéroe](https://x.com/IqraSaifiii/status/1969868863522423034) (por [@IqraSaifiii](https://x.com/IqraSaifiii))
+
+| Salida |
+|:---:|
+|<img src="images/case102/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Prompt:**
+
+```
+Fotografía de diseño interior hiperrealista y profesional que muestra una sala de estar moderna inspirada en [SUPERHERO].
+Líneas limpias con una paleta de grises, negros y blancos acentuada por [THEME COLOR]. Una gran escultura mural 3D estilizada de [SUPERHERO] domina la pared principal.
+Sutiles toques temáticos: impresiones enmarcadas estilo plano de planos, lámpara de pie inspirada en un elemento icónico (escudo, emblema, etc.), mesa auxiliar con algunos props como un casco estilizado.
+Mobiliario moderno y minimalista con un sofá amplio y cómodo y una mesa de centro baja. Iluminación dramática para destacar la escultura y luz ambiental cálida de ventanas y luminarias para un ambiente acogedor.
+Tono general refinado y elegante, un homenaje discreto al superhéroe, no un fan service evidente.
+```
+
+> [!NOTE]
+> **Reemplaza el texto entre [corchetes] con la información que necesites.**
+
+<!-- Ejemplo 103: UFO Catcher Personalizado (por @googlejapan) -->
+### Ejemplo 103: [UFO Catcher Personalizado](https://x.com/googlejapan/status/1969733348852433316) (por [@googlejapan](https://x.com/googlejapan))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case103/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case103/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Genera una imagen donde el animal se simplifique y se transforme en un peluche de estilo anime (felpa de poliéster de pelo corto y tacto suave) dentro de una máquina UFO catcher.
+
+Coloca una máquina adicional a cada lado, con peluches de animales distintos al protagonista.
+
+Ambientación en un centro de juegos japonés luminoso. La parte superior de cada máquina pintada con colores vivos y la inferior en blanco. El fondo es una pared con el área detrás de las máquinas desenfocada suavemente. El suelo es alfombrado.
+
+Usa un ángulo frontal. Lo más importante: no incluyas ningún texto ni logotipo.
+```
+
+<!-- Ejemplo 104: Diseño de Logo Tipográfico (por @aziz4ai) -->
+### Ejemplo 104: [Diseño de Logo Tipográfico](https://x.com/IqraSaifiii/status/1969868863522423034) (por [@aziz4ai](https://x.com/aziz4ai))
+
+| Salida |
+|:---:|
+|<img src="images/case104/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Prompt:**
+
+```
+Crea una ilustración tipográfica con la forma de [OBJECT], en la que el propio texto forme la silueta —
+
+Estilo de fuente: gruesa y divertida, llenando todo el contorno
+
+El texto fluye de manera natural siguiendo las curvas y contornos del objeto
+
+Paleta cromática: alto contraste y coherente con el tema
+
+Fondo: color sólido que destaque la forma principal
+
+Estilo: estética vectorial limpia
+
+Alta resolución apta para formato póster
+
+Relación de aspecto: 1:1
+```
+
+> [!NOTE]
+> **Reemplaza el texto entre [corchetes] con el objeto que necesites.**
+
+<!-- Ejemplo 105: UI de Estado de Personaje RPG (por @AI_Kei75) -->
+### Ejemplo 105: [UI de Estado de Personaje RPG](https://x.com/AI_Kei75/status/1969358521356742756) (por [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case105/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case105/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Crea una pantalla de estado de personaje RPG usando el personaje de la imagen original:
+
+Mantén el diseño y estilo del personaje, pero cambia su vestuario a un look de RPG de fantasía y ajusta la pose al contexto.
+
+Muestra al personaje original y la interfaz de estado uno al lado del otro.
+
+Incluye estadísticas, habilidades, iconos y otros datos en la interfaz con un diseño rico e intuitivo.
+
+Usa un fondo de fantasía que encaje con el estilo original.
+
+Haz que la interfaz se vea pulida y elegante, similar a una UI de juego de alta gama de 2025.
+```
+
+<!-- Ejemplo 106: Convertir Diagrama en Pictogramas (por @nobisiro_2023) -->
+### Ejemplo 106: [Convertir Diagrama en Pictogramas](https://x.com/nobisiro_2023/status/1968677481486914022) (por [@nobisiro_2023](https://x.com/nobisiro_2023))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case106/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case106/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia que contenga texto.
+
+**Prompt:**
+
+```
+Convierte este diagrama explicativo en pictogramas.
+```
+
+<!-- Ejemplo 107: Dibujo en Tableta Gráfica (por @AI_Kei75) -->
+### Ejemplo 107: [Dibujo en Tableta Gráfica](https://x.com/AI_Kei75/status/1968607362576708042) (por [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case107/input.jpg" width="300" alt="Imagen de Entrada"> |<img src="images/case107/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia.
+
+**Prompt:**
+
+```
+Imagen hiperrealista de la pantalla de una tableta de dibujo desde un punto de vista en primera persona, con una mano sujetando la tableta y el lápiz.
+
+La pantalla muestra una versión inacabada de la imagen original.
+
+Extrae la línea del dibujo original y colorea parcialmente con los mismos colores, dejando alrededor del 70% completado.
+
+No lo dejes monocromático; aproximadamente el 70% del área debe estar coloreada.
+
+Plano detalle con la punta del lápiz tocando la pantalla.
+```
+
+<!-- Ejemplo 108: Crear Imagen de Sticker LINE (por @emakiscroll) -->
+### Ejemplo 108: [Crear Imagen de Sticker LINE](https://x.com/emakiscroll/status/1969959850676253016) (por [@emakiscroll](https://x.com/emakiscroll))
+
+| Entrada | Salida |
+|:---:|:---:|
+| <img src="images/case108/input1.jpg" width="200" alt="Referencia de Expresión"> <img src="images/case108/input2.jpg" width="200" alt="Referencia de Personaje"> |<img src="images/case108/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Carga una referencia de expresión facial y una imagen del personaje.
+
+**Prompt:**
+
+```
+Hoja de personaje, expresiones faciales, alegría, ira, tristeza, felicidad
+```
+
+<!-- Ejemplo 109: Terapia para el Yo Infantil (por @samann_ai) -->
+### Ejemplo 109: [Terapia para el Yo Infantil](https://x.com/samann_ai/status/1969743981157265867) (por [@samann_ai](https://x.com/samann_ai))
+
+| Salida |
+|:---:|
+|<img src="images/case109/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia de la persona.
+
+**Prompt:**
+
+```
+Escena de sala de terapia minimalista y ultrarrealista:
+
+Paredes en tonos claros, sofá gris, mesa de centro de madera con una caja de pañuelos, cuaderno y un vaso de agua; arte sencillo y lámpara de pie.
+
+Luz natural suave inundando el espacio.
+
+La misma persona aparece a dos edades sentada lado a lado: el adulto a la izquierda hablando con las manos abiertas, el niño a la derecha escuchando con la cabeza levemente inclinada.
+
+Ambos visten el mismo [atuendo] (color y estilo coinciden).
+
+Estética limpia con ambiente de estudio, composición centrada, poca profundidad de campo, look de lente de 50 mm.
+
+Resolución 4K, relación vertical 3:4.
+
+No hay otras personas, ni texto, ni marcas de agua.
+```
+
+> [!NOTE]
+> **Reemplaza el texto entre [corchetes] con el atuendo que necesites.**
+
+<!-- Ejemplo 110: Retrato Estilo Pixar (por @NanoBanana_labs) -->
+### Ejemplo 110: [Retrato Estilo Pixar](https://x.com/NanoBanana_labs/status/1969824645743587519) (por [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Salida |
+|:---:|
+|<img src="images/case110/output.jpg" width="300" alt="Resultado de Salida"> |
+
+**Entrada:** Es necesario cargar una imagen de referencia del personaje.
+
+**Prompt:**
+
+```
+Genera un retrato 3D:
+
+El sujeto es el joven sonriente de la imagen subida.
+
+Fondo blanco limpio.
+
+Estilo de arte digital conceptual, inspirado en Pixar.
+
+Renderizado de alta calidad, iluminación suave, texturas lisas.
+
+Colores vibrantes.
+
+Proporciones corporales y faciales realistas con un ligero toque caricaturesco.
+
+Acabado de render de estudio.
+```
+
+
 ## 🙏 Agradecimientos
 
 Los diversos casos de este repositorio dependen del intercambio de la comunidad de IA. Permítanos expresar nuestro más sincero agradecimiento a todos los contribuidores de casos.
@@ -1676,6 +2161,12 @@ Gracias a los siguientes usuarios por compartir sus increíbles trabajos. Tambi�
 - [@AI_Kei75](https://x.com/AI_Kei75)
 - [@tokyo_Valentine](https://x.com/tokyo_Valentine)
 - [@ImperfectEngel](https://x.com/ImperfectEngel)
+- [@Arminn_Ai](https://x.com/Arminn_Ai)
+- [@aiehon_aya](https://x.com/aiehon_aya)
+- [@emakiscroll](https://x.com/emakiscroll)
+- [@IqraSaifiii](https://x.com/IqraSaifiii)
+- [@aziz4ai](https://x.com/aziz4ai)
+- [@samann_ai](https://x.com/samann_ai)
 
 *No podemos garantizar que todos los casos provengan de los autores originales. Si esto le causa algún inconveniente, no dude en contactarnos para realizar modificaciones.*
 

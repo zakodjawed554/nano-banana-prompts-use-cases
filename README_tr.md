@@ -29,6 +29,7 @@ Beğendiyseniz, lütfen yer imlerine eklemek için ⭐ Star verin!
 
 ## 📰 Haberler
 
+- **24-Eylül-2025:** 5️⃣ Beşinci depo güncellemesi
 - **18 Eylül 2025:** **Nano-consistent-150k** veri kümesini yayımladık
 - **16-Eylül-2025:** 4️⃣ Dördüncü depo güncellemesi
 - **9-Eylül-2025:** 3️⃣ Üçüncü depo güncellemesi
@@ -132,6 +133,25 @@ Beğendiyseniz, lütfen yer imlerine eklemek için ⭐ Star verin!
   - [Örnek 89: Minyatür Mağaza (geliştiren @NanoBanana\_labs)](#örnek-89-minyatür-mağaza-geliştiren-nanobanana_labs)
   - [Örnek 90: Vtuber Ol (geliştiren @AI\_Kei75)](#örnek-90-vtuber-ol-geliştiren-ai_kei75)
   - [Örnek 91: Tren İstasyonu Film Posteri (geliştiren @AI\_Kei75)](#örnek-91-tren-i̇stasyonu-film-posteri-geliştiren-ai_kei75)
+  - [Örnek 92: Sinema Dinlenme Salonu (geliştiren @tokyo\_Valentine)](#örnek-92-sinema-dinlenme-salonu-geliştiren-tokyo_valentine)
+  - [Örnek 93: Çizgi Film Patlamalı Kesilmiş Nesne (geliştiren @Arminn_Ai)](#örnek-93-çizgi-film-patlamalı-kesilmiş-nesne-geliştiren-arminn_ai)
+  - [Örnek 94: Karakter Temalı Tren (geliştiren @tokyo\_Valentine)](#örnek-94-karakter-temalı-tren-geliştiren-tokyo_valentine)
+  - [Örnek 95: Özelleştirilmiş Tema Parkı (geliştiren @AI\_Kei75)](#örnek-95-özelleştirilmiş-tema-parkı-geliştiren-ai_kei75)
+  - [Örnek 96: Takımyıldız Görseli Oluştur (geliştiren @AI\_Kei75)](#örnek-96-takımyıldız-görseli-oluştur-geliştiren-ai_kei75)
+  - [Örnek 97: Görseli Telefon Duvar Kağıdına Çevir (geliştiren @ZHO\_ZHO\_ZHO)](#örnek-97-görseli-telefon-duvar-kağıdına-çevir-geliştiren-zho_zho_zho)
+  - [Örnek 98: Film Posteri Yap (geliştiren @aiehon_aya)](#örnek-98-film-posteri-yap-geliştiren-aiehon_aya)
+  - [Örnek 99: X Hesabını Diskete Dönüştür (geliştiren @icreatelife)](#örnek-99-x-hesabını-diskete-dönüştür-geliştiren-icreatelife)
+  - [Örnek 100: Referans Nesneyi Şeffaf Yap (geliştiren @icreatelife)](#örnek-100-referans-nesneyi-şeffaf-yap-geliştiren-icreatelife)
+  - [Örnek 101: Balıkgözü Kapı Gözü İllüstrasyonu (geliştiren @emakiscroll)](#örnek-101-balıkgözü-kapı-gözü-illüstrasyonu-geliştiren-emakiscroll)
+  - [Örnek 102: Süper Kahraman İç Mekan Tasarımı (geliştiren @IqraSaifiii)](#örnek-102-süper-kahraman-iç-mekan-tasarımı-geliştiren-iqrasafiii)
+  - [Örnek 103: Özel Pençe Makinesi (geliştiren @googlejapan)](#örnek-103-özel-pençe-makinesi-geliştiren-googlejapan)
+  - [Örnek 104: Tipografi Logo Tasarımı (geliştiren @aziz4ai)](#örnek-104-tipografi-logo-tasarımı-geliştiren-aziz4ai)
+  - [Örnek 105: RPG Karakter Statü Ekranı (geliştiren @AI\_Kei75)](#örnek-105-rpg-karakter-statü-ekranı-geliştiren-ai_kei75)
+  - [Örnek 106: Açıklama Diyagramını Piktogram Yap (geliştiren @nobisiro_2023)](#örnek-106-açıklama-diyagramını-piktogram-yap-geliştiren-nobisiro_2023)
+  - [Örnek 107: Grafik Tablet Çizimi (geliştiren @AI\_Kei75)](#örnek-107-grafik-tablet-çizimi-geliştiren-ai_kei75)
+  - [Örnek 108: LINE Sticker Görseli Oluştur (geliştiren @emakiscroll)](#örnek-108-line-sticker-görseli-oluştur-geliştiren-emakiscroll)
+  - [Örnek 109: Çocukluk Benliğine Terapi (geliştiren @samann_ai)](#örnek-109-çocukluk-benliğine-terapi-geliştiren-samann_ai)
+  - [Örnek 110: Pixar Tarzı Portre (geliştiren @NanoBanana\_labs)](#örnek-110-pixar-tarzı-portre-geliştiren-nanobanana_labs)
 - [🙏 Teşekkür](#-teşekkür)
 
 ## 🖼️ Örnekler
@@ -1755,6 +1775,471 @@ Posterin asıldığı Japon istasyonunun yeraltı geçidinin manzarası gerçek�
 Posterin yansıması daha gerçekçi görünmesi için açılıdır.
 ```
 
+<!-- Örnek 92: Sinema Dinlenme Salonu (geliştiren @tokyo_Valentine) -->
+### Örnek 92: [Sinema Dinlenme Salonu](https://x.com/tokyo_Valentine/status/1968509703018922082) (geliştiren [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case92/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case92/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+İllüstrasyon işleme:
+Arka planı kaldır ve karakterleri figür ile ürünlere dönüştür.
+
+Tema / Genel bakış:
+Gerçekçi bir sinema dinlenme alanı. Patlamış mısır standının içinde kurulan, karakter dünyasının öğeleriyle süslenmiş özel etkinlik alanı.
+
+Konum:
+Geniş bir sinema patlamış mısır tezgahı.
+İçinde patlamış mısır makinesi bulunan kasa bölümü.
+Tezgahın arkasında görevlisi olan içecek bankosu.
+Kasanın üzeri vizyondaki filmlerin afişleriyle kaplı.
+
+Karakterler / Sergi:
+Cosplayer'ları kadrajın merkezine yerleştir.
+Figür ve akrilik stand gibi ürünleri raflara diz.
+Dev peluşlar ve tabelaları gerçekçi biçimde sergile.
+Karakter tasarım ögeleriyle süslenmiş film temalı bir fotoğraf köşesi kur.
+
+Karakterin yansıtıldığı alanlar:
+Vizyondaki film afişleri.
+Ortak menü pop-up reklamları.
+İçecek bardakları ve ambalajlar.
+Patlamış mısır kovaları.
+Büyük LED LCD ekranlar.
+
+Tasarım / Tanıtım:
+Lounge içindeki her afişte karakter illüstrasyonları yer alsın.
+Ortak yiyecek ve içecekler için canlı görseller göster.
+LED ekranlara animasyonlar ve karakter videoları yansıt.
+
+Kamera açısı:
+Önden kompozisyon.
+Tüm patlamış mısır standını vurgula.
+Cosplayer'lar merkezi doldururken çevrede ürünler ve reklamlar görünsün.
+LED ekranları ve afişleri öne çıkarmak için hafif alttan açı kullan.
+
+Görüntü kalitesi / Atmosfer:
+Gerçekçi ve detaylı.
+Sinema havasını ve etkinlik dinamizmini veren parlak, kentsel bir dokunuş.
+Çözünürlük 4K, en-boy oranı 4:3.
+```
+
+<!-- Örnek 93: Çizgi Film Patlamalı Kesilmiş Nesne (geliştiren @Arminn_Ai) -->
+### Örnek 93: [Çizgi Film Patlamalı Kesilmiş Nesne](https://x.com/Arminn_Ai/status/1968375201739177984) (geliştiren [@Arminn_Ai](https://x.com/Arminn_Ai))
+
+| Örnek |
+|:---:|
+| <img src="images/case93/case.jpg" width="300" alt="Örnek görsel"> |
+
+**Prompt:**
+
+```
+[OBJECT]’i ortadan tertemiz bir kesikle ikiye ayır, üst ve alt parçaları biraz açık ve havada süzülür halde bırak.
+İki parça arasındaki doğal iç kısmı, stilize edilmiş çizgi film nükleer patlamasıyla değiştir: merkezde parlak sarı-turuncu kabarcıklı bir duman sütunu, yanlara doğru genişleyen dairesel kabarcık bulut şok dalgası ve üst-alt bölgelerde yoğun parıltılarla sıcaklık ile enerjiyi hissettir.
+[OBJECT]’in dış yüzeyi gerçekçi malzeme ve ışıkla korunurken, iç efekt abartılı ve çizgi filmvari olsun; böylece gerçeklik ile animasyon arasında güçlü bir kontrast yarat. Stüdyo ışığı, merkezi kompozisyon.
+```
+
+> [!NOTE]
+> **[köşeli parantez] içindeki metni ihtiyacın olan nesneyle değiştir.**
+
+<!-- Örnek 94: Karakter Temalı Tren (geliştiren @tokyo_Valentine) -->
+### Örnek 94: [Karakter Temalı Tren](https://x.com/tokyo_Valentine/status/1968419694920028552) (geliştiren [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Çıktı |
+|:---:|
+| <img src="images/case94/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+İllüstrasyon işleme:
+Arka planı sil, karakterleri figür ve ürünlere dönüştür.
+
+Tema / Genel bakış:
+Gerçekçi bir Tokyo tren içi. Vagonun tamamı karakter reklamları ve ürünlerle dekore edilerek işbirliği etkinliği için özelleştirilmiş bir alan oluşturulur.
+
+Karakterler / Sergi:
+Ön planda birkaç cosplayer durur.
+Vagonun orta ve arka kısmında gerçek boy panolar ve figürler sergilenir.
+100 cm boyunda karakter figürleri yer alır.
+Boş koltuklara çok sayıda karakter peluşu yerleştirilir.
+
+Reklam / Sergileme:
+Tutunaç reklamlarında karakter illüstrasyonları kullanılır.
+Vagon içi afişlerde de karakter illüstrasyonları gösterilir.
+Eklenen LED ekranlarda karakter illüstrasyonları ve animasyonlar oynatılır.
+
+İllüstrasyon detayları:
+Arka plan kaldırılır, karakterler figür ve ürünlere dönüştürülür.
+Birebir ölçeğe yakın figürler, 100 cm figürler, chibi figürler ve peluşlar gerçekçi biçimde çizilir.
+
+Kamera açısı:
+Tren içinin hareketli atmosferini vurgulayan önden kompozisyon.
+Ön planda cosplayer’ların geniş kadrajı; arkada figürler, panolar ve peluşlar.
+Tutunaç reklamlarını ve LED ekranları öne çıkarmak için hafif alttan açı.
+
+Görüntü kalitesi / Atmosfer:
+Gerçekçi ve ayrıntılı.
+Şehirli, parlak bir görünüm.
+Çözünürlük 4K, en-boy oranı 4:3.
+```
+
+<!-- Örnek 95: Özelleştirilmiş Tema Parkı (geliştiren @AI_Kei75) -->
+### Örnek 95: [Özelleştirilmiş Tema Parkı](https://x.com/AI_Kei75/status/1968188091237372043) (geliştiren [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case95/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case95/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Orijinal fotoğrafa dayanarak fotogerçekçi bir tema parkı görüntüsü üret.
+Parkı ve ziyaretçileri son derece gerçekçi stilde göster. Güneşli bir gündüz sahnesi.
+Renk paletini ve tasarım öğelerini kaynaktan çıkarıp tesislerin renk ve tasarımlarına uygula.
+Şunları ekle: orijinalden esinlenilmiş araçlar ve binalar, kaynak görseli hafifçe abartan maskot kostümleri, orijinal görsellerin basılı olduğu tabelalar.
+Maskot kostümleri kaynaktaki unsurları taşımalı ancak gerçekçi görünmesi için uygun şekilde yeniden şekillendirilmeli.
+İnsanlar ve maskot kostümleri gerçekçi boyut oranlarını korumalı.
+Kaynak görüntü anime olsa bile, nihai sahne gerçekçi bir tema parkı olmalı. Yukarıdaki kurallara kesinlikle uy.
+```
+
+<!-- Örnek 96: Takımyıldız Görseli Oluştur (geliştiren @AI_Kei75) -->
+### Örnek 96: [Takımyıldız Görseli Oluştur](https://x.com/AI_Kei75/status/1968181164243562665) (geliştiren [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case96/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case96/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Orijinal görüntüye dayanarak hayali bir yıldız haritası üret.
+- Gece gökyüzü arka planı gerçekçi olmalı; kaynak anime olsa bile, ikna edici bir yıldız alanı oluştur.
+- Orijinalden bir karakter, hayvan veya nesne çıkarıp şeffaf arka planla yıldızlı gökyüzüne yerleştir. Tek bir ana unsur kullan.
+- Karakterin tasarım, stil ve estetiğini sadık biçimde koru; orijinal arka plan göz ardı edilebilir.
+- Yerleştirilen unsura göre yaklaşık 5–10 yıldızdan oluşan kurgusal bir takımyıldız tasarla.
+- Pozu analiz et ve yıldızları karakterin veya nesnenin kilit noktalarına yerleştir.
+- Yıldızları parlak hale getir ve takımyıldız şeklini oluşturmak için ışıklı çizgilerle birbirine bağla.
+```
+
+<!-- Örnek 97: Görseli Telefon Duvar Kağıdına Çevir (geliştiren @ZHO_ZHO_ZHO) -->
+### Örnek 97: [Görseli Telefon Duvar Kağıdına Çevir](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (geliştiren [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Örnek |
+|:---:|
+| <img src="images/case97/case.jpg" width="300" alt="Örnek görsel"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Görüntüyü iPhone kilit ekranı duvar kağıdına dönüştür. Saat (01:16), tarih (16 Eylül Pazar) ve durum çubuğu ayrıntılarını (pil, sinyal vb.) üst üste bindir; alt kısma el feneri ve kamera simgelerini ekle. Orijinal görseli uzatılmış akıllı telefon kadrajına uyacak şekilde ayarla. Telefonu aynı renk paletine sahip bir arka plan üzerine yerleştir.
+```
+
+<!-- Örnek 98: Film Posteri Yap (geliştiren @aiehon_aya) -->
+### Örnek 98: [Film Posteri Yap](https://x.com/ZHO_ZHO_ZHO/status/1967915300063695300) (geliştiren [@aiehon_aya](https://x.com/aiehon_aya))
+
+| Çıktı |
+|:---:|
+| <img src="images/case98/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Yüklenen fotoğrafı analiz ederek özneyi, ruh halini ve atmosferi tespit et.
+Fotoğrafı otomatik olarak uygun bir film türüne (romantik, aksiyon, gerilim, korku vb.) sınıflandır.
+
+Belirlenen türe ve havaya göre aşağıdakileri İngilizce üret:
+- Film başlığı: etkileyici ve türe uygun.
+- Kısa slogan / tagline: 1–2 satır, dramatik veya duygusal tonda.
+- Alt kısım kredileri: yönetmen, yapımcı, müzik gibi hayali isimler; gerçek film afişi tarzında.
+- Gösterim bilgisi: örn. “COMING SOON” veya “In Theaters 2025”.
+
+Bu unsurları fotoğrafın üzerine bindirerek film afişi görünümü yarat:
+- Başlığı merkeze veya alt üçte birlik bölgeye belirgin biçimde yerleştir.
+- Sloganı başlığın üstüne veya altına koy.
+- Kredileri alt kısma küçük puntolarla ekle.
+- Gösterim bilgisini alt orta bölgeye yerleştir.
+- Son olarak oyuncu satırını sabit biçimde ekle:
+"Starring: <Actor Name>"
+
+Tipografi kalın, dramatik ve türe uygun olmalı.
+Sonuç gerçek bir sinema afişi gibi görünmeli; tüm öğeler fotoğrafın atmosferiyle uyumlu olmalı.
+```
+
+<!-- Örnek 99: X Hesabını Diskete Dönüştür (geliştiren @icreatelife) -->
+### Örnek 99: [X Hesabını Diskete Dönüştür](https://x.com/icreatelife/status/1968020098515636635) (geliştiren [@icreatelife](https://x.com/icreatelife))
+
+| Çıktı |
+|:---:|
+| <img src="images/case99/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** X hesabının referans görselini yükleyin.
+
+**Prompt:**
+
+```
+X hesabımı 90'lı yıllardan bir disket haline getir.
+```
+
+<!-- Örnek 100: Referans Nesneyi Şeffaf Yap (geliştiren @icreatelife) -->
+### Örnek 100: [Referans Nesneyi Şeffaf Yap](https://x.com/icreatelife/status/1967759082544332817) (geliştiren [@icreatelife](https://x.com/icreatelife))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case100/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case100/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Bu nesneyi şeffaf yap.
+```
+
+<!-- Örnek 101: Balıkgözü Kapı Gözü İllüstrasyonu (geliştiren @emakiscroll) -->
+### Örnek 101: [Balıkgözü Kapı Gözü İllüstrasyonu](https://x.com/emakiscroll/status/1970322227729191013) (geliştiren [@emakiscroll](https://x.com/emakiscroll))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case101/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case101/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Kapı dürbününden bakıyormuş gibi balıkgözü (fisheye) perspektifli, yüksek detaylı bir anime illüstrasyonu; dairesel bozulma, geniş açı distorsiyonu, kıvrılmış kenarlar ve çerçeve etrafında vignette efekti olsun.
+İki kişi yüzlerini dürbüne yaklaştırıp içeri bakmaya çalışıyor, her ikisi de yaramaz gülümsemelere sahip. Abartılı perspektif yüz hatlarını büyük ve kıvrımlı gösteriyor, yüzler objektife çok yakın.
+Koridor veya oda içi optik etkiyle bükülüyor, gerçek bir kapı dürbününü taklit etmek için kenarlar hafif bulanık; genel atmosfer eğlenceli ve oyuncu.
+Çözünürlük 8K.
+```
+
+<!-- Örnek 102: Süper Kahraman İç Mekan Tasarımı (geliştiren @IqraSaifiii) -->
+### Örnek 102: [Süper Kahraman İç Mekan Tasarımı](https://x.com/IqraSaifiii/status/1969868863522423034) (geliştiren [@IqraSaifiii](https://x.com/IqraSaifiii))
+
+| Çıktı |
+|:---:|
+|<img src="images/case102/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Prompt:**
+
+```
+[SUPERHERO]’dan ilham alan modern bir oturma odasını, hiper gerçekçi ve profesyonel bir iç mekan fotoğrafı olarak tasvir et.
+Mekan temiz çizgilere sahip; gri, siyah ve beyaz tonları [THEME COLOR] vurgularıyla destekleniyor. Ana duvarda [SUPERHERO]’nun stilize edilmiş büyük bir 3D duvar heykeli odak noktası oluşturuyor.
+Odada ince tema detayları bulunur: plan çizimi tarzında çerçeveli posterler, kalkan veya amblem gibi ikonik bir öğeden esinlenen ayaklı lamba, stilize kask gibi birkaç aksesuar bulunan yan sehpa.
+Mobilya modern ve minimal; geniş konforlu bir kanepe ile alçak sehpa yer alıyor. Dramatik vurgu ışıkları heykeli öne çıkarırken, pencerelerden ve armatürlerden gelen sıcak ortam ışığı davetkar bir atmosfer yaratıyor.
+Genel ton zarif ve sofistike; açık bir hayran hizmeti yerine süper kahramana ince bir selam niteliğinde.
+```
+
+> [!NOTE]
+> **[köşeli parantez] içindeki metni ihtiyaç duyduğun bilgiyle değiştirin.**
+
+<!-- Örnek 103: Özel Pençe Makinesi (geliştiren @googlejapan) -->
+### Örnek 103: [Özel Pençe Makinesi](https://x.com/googlejapan/status/1969733348852433316) (geliştiren [@googlejapan](https://x.com/googlejapan))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case103/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case103/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Bu hayvanı sadeleştirip anime tarzı peluşa (kısa tüylü, yumuşak polyester kumaş) dönüştürerek bir UFO yakalama makinesinin içine yerleştiren bir görsel üret.
+
+Her iki yana, ana karakterden farklı hayvan peluşlarıyla dolu ek UFO yakalama makineleri yerleştir.
+
+Sahneyi aydınlık bir Japon oyun merkezinde kur. Makinelerin üst kısmı canlı renklerle, alt kısmı beyaz boyanmış olsun. Arka plan bir duvar, makinelerin arkası hafif bulanıklaştırılmış. Zemin halı kaplı.
+
+Kamera açısı önden olmalı. En önemlisi, görselde hiçbir metin veya logo yer almasın.
+```
+
+<!-- Örnek 104: Tipografi Logo Tasarımı (geliştiren @aziz4ai) -->
+### Örnek 104: [Tipografi Logo Tasarımı](https://x.com/IqraSaifiii/status/1969868863522423034) (geliştiren [@aziz4ai](https://x.com/aziz4ai))
+
+| Çıktı |
+|:---:|
+|<img src="images/case104/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Prompt:**
+
+```
+[OBJECT] şeklinde, metnin silueti oluşturduğu bir tipografi illüstrasyonu oluştur —
+
+Yazı tipi stili: kalın ve neşeli, tüm dış hatları dolduracak şekilde
+
+Metin, nesnenin eğrilerini ve konturlarını doğal biçimde takip eder
+
+Renk paleti: yüksek kontrastlı ve temaya uygun
+
+Arka plan: ana formu öne çıkaran düz renk
+
+Stil: temiz vektörel görünüm
+
+Poster formatına uygun yüksek çözünürlük
+
+En-boy oranı: 1:1
+```
+
+> [!NOTE]
+> **[köşeli parantez] içindeki metni ihtiyacın olan nesneyle değiştir.**
+
+<!-- Örnek 105: RPG Karakter Statü Ekranı (geliştiren @AI_Kei75) -->
+### Örnek 105: [RPG Karakter Statü Ekranı](https://x.com/AI_Kei75/status/1969358521356742756) (geliştiren [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case105/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case105/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Orijinal görüntüdeki karakteri kullanarak bir RPG karakter durum ekranı oluştur:
+
+Karakterin tasarım ve stilini koru fakat kıyafetini fantezi RPG tarzına çevir; pozu duruma uygun hale getir.
+
+Karede hem orijinal karakteri hem de durum arayüzünü yan yana göster.
+
+Durum ekranına istatistikler, yetenekler, ikonlar ve diğer bilgileri zengin ve sezgisel bir yerleşimle ekle.
+
+Orijinalle uyumlu fantezi tarzı bir arka plan kullan.
+
+Arayüz genel olarak şık ve zengin görünmeli; 2025 seviyesindeki yüksek kaliteli oyun arayüzlerini andırmalı.
+```
+
+<!-- Örnek 106: Açıklama Diyagramını Piktogram Yap (geliştiren @nobisiro_2023) -->
+### Örnek 106: [Açıklama Diyagramını Piktogram Yap](https://x.com/nobisiro_2023/status/1968677481486914022) (geliştiren [@nobisiro_2023](https://x.com/nobisiro_2023))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case106/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case106/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Metin içeren bir referans görseli yükleyin.
+
+**Prompt:**
+
+```
+Bu açıklayıcı diyagramı piktogramlara dönüştür.
+```
+
+<!-- Örnek 107: Grafik Tablet Çizimi (geliştiren @AI_Kei75) -->
+### Örnek 107: [Grafik Tablet Çizimi](https://x.com/AI_Kei75/status/1968607362576708042) (geliştiren [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case107/input.jpg" width="300" alt="Girdi resmi"> |<img src="images/case107/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir referans görsel yüklenmelidir.
+
+**Prompt:**
+
+```
+Birinci şahıs bakış açısından, elinde tablet ve kalem tutan hiper gerçekçi bir çizim tableti ekranı tasvir et.
+
+Ekranda orijinal görselin tamamlanmamış bir versiyonu görünür.
+
+Kaynak çizimden hattı çıkar ve orijinalle aynı renklerle kısmen renklendir; yaklaşık %70'i tamamlanmış olsun.
+
+Monokrom bırakma; alanın yaklaşık %70'i renklendirilmeli.
+
+Kalem ucunun ekrana değdiği yakın plan bir kadraj kullan.
+```
+
+<!-- Örnek 108: LINE Sticker Görseli Oluştur (geliştiren @emakiscroll) -->
+### Örnek 108: [LINE Sticker Görseli Oluştur](https://x.com/emakiscroll/status/1969959850676253016) (geliştiren [@emakiscroll](https://x.com/emakiscroll))
+
+| Girdi | Çıktı |
+|:---:|:---:|
+| <img src="images/case108/input1.jpg" width="200" alt="Mimik referansı"> <img src="images/case108/input2.jpg" width="200" alt="Karakter referansı"> |<img src="images/case108/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir mimik referansı ve karakter referans görseli yükleyin.
+
+**Prompt:**
+
+```
+Karakter sayfası, yüz ifadeleri, neşe, öfke, üzüntü, mutluluk
+```
+
+<!-- Örnek 109: Çocukluk Benliğine Terapi (geliştiren @samann_ai) -->
+### Örnek 109: [Çocukluk Benliğine Terapi](https://x.com/samann_ai/status/1969743981157265867) (geliştiren [@samann_ai](https://x.com/samann_ai))
+
+| Çıktı |
+|:---:|
+|<img src="images/case109/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir kişi referans görseli yüklenmelidir.
+
+**Prompt:**
+
+```
+Ultra gerçekçi, minimal bir terapi odası sahnesi:
+
+Açık tonlarda duvarlar, gri kanepe, üzerinde mendil kutusu, not defteri ve su dolu bardak bulunan ahşap sehpa; sade sanat eserleri ve ayaklı lamba.
+
+Yumuşak doğal ışık mekana doluyor.
+
+Aynı kişi iki yaşta yan yana oturuyor: solda yetişkin açık ellerle konuşuyor, sağda çocuk hafifçe başı öne eğik şekilde dinliyor.
+
+İkisi de aynı [kıyafet]i giyiyor (renk ve stil uyumlu).
+
+Temiz, stüdyo benzeri estetik; merkezde kompozisyon, sığ alan derinliği, 50 mm lens hissi.
+
+Çözünürlük 4K, dikey 3:4.
+
+Başka kimse, yazı ya da filigran yok.
+```
+
+> [!NOTE]
+> **[köşeli parantez] içindeki metni istediğin kıyafetle değiştir.**
+
+<!-- Örnek 110: Pixar Tarzı Portre (geliştiren @NanoBanana_labs) -->
+### Örnek 110: [Pixar Tarzı Portre](https://x.com/NanoBanana_labs/status/1969824645743587519) (geliştiren [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Çıktı |
+|:---:|
+|<img src="images/case110/output.jpg" width="300" alt="Çıktı sonucu"> |
+
+**Girdi:** Bir karakter referans görseli yüklenmelidir.
+
+**Prompt:**
+
+```
+3D bir portre üret:
+
+Konu, yüklenen görseldeki gülümseyen genç adam.
+
+Arka plan temiz beyaz.
+
+Konsept dijital sanat stili, Pixar esintili.
+
+Yüksek kaliteli render, yumuşak aydınlatma, pürüzsüz dokular.
+
+Canlı renkler.
+
+Vücut ve yüz oranları gerçekçi ancak hafif çizgi film hissi taşıyor.
+
+Stüdyo renderı görünümü.
+```
+
+
 ## 🙏 Teşekkür
 
 Bu depodaki çeşitli vakalar, yapay zeka topluluğunun paylaşımlarına dayanmaktadır. Lütfen tüm vaka katkıda bulunanlara içten şükranlarımızı sunmamıza izin verin.
@@ -1807,6 +2292,13 @@ Harika çalışmalarını paylaştıkları için aşağıdaki kullanıcılara te
 - [@AI_Kei75](https://x.com/AI_Kei75)
 - [@tokyo_Valentine](https://x.com/tokyo_Valentine)
 - [@ImperfectEngel](https://x.com/ImperfectEngel)
+- [@Arminn_Ai](https://x.com/Arminn_Ai)
+- [@aiehon_aya](https://x.com/aiehon_aya)
+- [@emakiscroll](https://x.com/emakiscroll)
+- [@IqraSaifiii](https://x.com/IqraSaifiii)
+- [@aziz4ai](https://x.com/aziz4ai)
+- [@samann_ai](https://x.com/samann_ai)
+
 *Tüm vakaların orijinal yazarlardan geldiğini garanti edemeyiz. Bu durum size herhangi bir rahatsızlık verirse, değişiklik için bizimle iletişime geçmekten çekinmeyin.*
 
 Topladığımız vakalar, olası tüm uygulama senaryolarını kapsayamaz. Başka ilginç keşifleriniz varsa 🔍, daha fazla yaratıcılık sergilemek için bizimle iletişime geçmenizi bekliyoruz 📧!
