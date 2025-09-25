@@ -7,8 +7,7 @@
 
 > [!NOTE]
 > Dernalkom a MASSIVE guide b'+100 prompts & use cases !
-<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
+
 
 ## 🍌 Introduction
 
