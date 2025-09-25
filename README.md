@@ -2212,8 +2212,4 @@ Thank you to the following users for sharing their amazing works. You can also v
 - [@aziz4ai](https://x.com/aziz4ai)
 - [@samann_ai](https://x.com/samann_ai)
 
-*We cannot guarantee that all cases come from the original authors. If this causes you any inconvenience, please feel free to contact us for modifications.*
 
-The cases we collect cannot cover all possible application scenarios. If you have other interesting discoveries 🔍, we welcome you to contact us to showcase more creativity 📧!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)
